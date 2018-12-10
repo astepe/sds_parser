@@ -10,7 +10,8 @@ def write_to_csv():
 
     with open('data.csv', 'w') as csv_file:
         writer = csv.writer(csv_file)
-        writer.writerow(["Product Name",
+        writer.writerow([
+                         "Product Name",
                          "Flash Point",
                          "Specific Gravity",
                          "CAS #"
@@ -28,7 +29,8 @@ def write_to_csv():
 
                 matches = match_fields(raw_text)
 
-                csv_row = [matches['product_name'],
+                csv_row = [
+                           matches['product_name'],
                            matches['flash_point'],
                            matches['specific_gravity'],
                            matches['cas_number']
@@ -44,6 +46,7 @@ def get_pdf_text(file_path):
     with open(file_path, "rb") as _:
         pdf = PdfFileReader(_, 'rb')
         for page_num in range(pdf.getNumPages()):
+            # TODO: find reason for error
             try:
                 text += pdf.getPage(page_num).extractText()
             except:
@@ -58,7 +61,8 @@ def match_fields(text):
     specific_gravity = re.compile(r"([R|r]elative [D|d]ensity|[S|s]pecific [G|g]ravity)\s*?(?P<data>[0-9.]+?\s)", re.DOTALL)
     cas_num = re.compile(r"(?P<data>\d{2,7}\n*?-\n*?\d{2}\n*?-\n*?\d)", re.DOTALL)
 
-    matches = {'product_name': 'Not Found',
+    matches = {
+               'product_name': 'Not Found',
                'flash_point': 'Not Found',
                'specific_gravity': 'Not Found',
                'cas_number': 'Not Found',
