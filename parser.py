@@ -31,22 +31,20 @@ def sds_to_csv():
 
         sds_directory = os.getcwd() + "/sds_pdf_files/"
 
-        for file in os.listdir(sds_directory):
-            file_path = sds_directory + file
+        for pdf in (file for file in os.listdir(sds_directory) if file.endswith(".pdf")):
+            file_path = sds_directory + pdf
 
             print('---------------------------------------------', end='\n')
-            print('File Name:', file)
+            print('File Name:', pdf)
 
-            if file_path.endswith(".pdf"):
+            pdf_text = get_pdf_text(file_path)
 
-                pdf_text = get_pdf_text(file_path)
+            chemical_data = parse_chemical_data(pdf_text)
 
-                chemical_data = get_chemical_data(pdf_text)
-
-                writer.writerow(chemical_data)
+            writer.writerow(chemical_data)
 
 
-def get_chemical_data(text):
+def parse_chemical_data(text):
 
     chemical_data = []
 
