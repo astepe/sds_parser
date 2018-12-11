@@ -22,7 +22,7 @@ class ChemicalData:
 
 def sds_to_csv():
 
-    with open('data.csv', 'w') as csv_file:
+    with open('sds_data.csv', 'w') as csv_file:
         writer = csv.writer(csv_file)
 
         csv_headers = [category.name for category in ChemicalData.CATEGORIES]
@@ -51,12 +51,17 @@ def get_chemical_data(text):
     chemical_data = []
 
     for category in ChemicalData.CATEGORIES:
+
         match_found = category.regex.search(text)
+
         if match_found:
+
             match = match_found.group('data').replace('\n', '')
             chemical_data.append(match)
             print(category.name + ': ' + match)
+
         else:
+
             chemical_data.append('Not Found')
             print(category.name + ': ' + 'Not Found')
 
@@ -69,12 +74,14 @@ def get_pdf_text(file_path):
 
     with open(file_path, "rb") as _:
         pdf = PdfFileReader(_, 'rb')
+
         for page_num in range(pdf.getNumPages()):
-            # TODO: find reason for error
+            # TODO: unknown error from certain files
             try:
                 text += pdf.getPage(page_num).extractText()
             except:
                 pass
+
     return text
 
 
