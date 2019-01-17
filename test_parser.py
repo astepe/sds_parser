@@ -1,23 +1,71 @@
-from parser import SDSParser, SDSRegexes
+import pytest
+import parser
+import configs
 import os
 import re
 
 
-def test_extract_text():
-    sds_folder = os.getcwd() + '/sds_pdf_files'
-    sds_file = os.listdir(sds_folder)
-    text = SDSParser.extract_text(sds_file[0])
-    assert text is not None
+@pytest.fixture(scope='module')
+def parser_obj():
+    return parser.SDSParser()
 
 
-def test_compile_regexes():
-    for manufacturer, regexes in SDSRegexes.SDS_FORMAT_REGEXES.iteritems():
-        compiled_regexes = SDSParser.compile_regexes(regexes)
-        for data_name, regex in compiled_regexes.iteritems():
-            assert isinstance(regex, re.Pattern)
+@pytest.fixture(scope='module')
+def sig_text():
+
+    text_file = os.path.join(configs.Configs.SDS_TEXT_FOLDER, 'sigma_aldrich_10_pdf.txt')
+
+    with open(text_file, 'r') as text:
+        sig_text = text.read()
+
+    return sig_text
 
 
-class TestSDSParser:
+@pytest.fixture(scope='module')
+def sig_regexes():
+    regexes = configs.SDSRegexes.SDS_FORMAT_REGEXES['sigma_aldrich']
+    return regexes
 
-    def test_get_format_regexes():
-        
+
+@pytest.fixture(scope='module')
+def all_regexes():
+    regexes = configs.SDSRegexes.SDS_FORMAT_REGEXES
+    yield regexes
+
+
+def test_extract_text(parser_obj):
+    assert parser_obj.check_empty_matches({'test': 'data not listed',
+                                           'testing': 'data not listed'})
+
+
+@pytest.mark.parametrize("test_input, expected", [
+                        ('flash_point', 'No data available'),
+                        ('sara_311', 'Chronic Health Hazard')
+])
+def test_find_match(parser_obj, sig_regexes, sig_text, test_input, expected):
+    regex = re.compile(*sig_regexes[test_input])
+    assert parser_obj.find_match(sig_text, regex) == expected
+
+
+def manufacturer_test_set():
+    text_folder = configs.Configs.SDS_TEST_TEXT_FOLDER
+    text_files = os.listdir(text_folder)
+    test_set = []
+    for text_file in text_files:
+        expected = '_'.join(text_file.split('_')[0:-2])
+        text_file_path = os.path.join(configs.Configs.SDS_TEXT_FOLDER, text_file)
+        with open(text_file_path, 'r') as text:
+            test_input = text.read()
+        test_set.append((test_input, expected))
+    return test_set
+
+
+@pytest.mark.parametrize('test_input, expected', manufacturer_test_set())
+def test_get_manufacturer(parser_obj, test_input, expected):
+    assert parser_obj.get_manufacturer(test_input) == expected
+
+
+def test_compile_regexes(parser_obj, sig_regexes):
+    regexes = parser_obj.compile_regexes(sig_regexes)
+    for name, regex in regexes.items():
+        assert isinstance(regex, re.Pattern)
