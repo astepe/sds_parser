@@ -12,7 +12,7 @@ Include logo/demo screenshot etc.
 
 ## Tech/framework used
 * [pdfminer](https://github.com/euske/pdfminer), a tool for extracting information from PDF documents
-* [tesseract-ocr](https://pypi.org/project/pytesseract/), a python wrapper for Google's Tesseract-OCR
+* [pytesseract](https://pypi.org/project/pytesseract/), a python wrapper for Google's Tesseract-OCR
 
 ## Features
 Have some physical SDSs you need to scan and get data from? Have no fear, sds_parser will recognize your scanned file as an image and perform optical character recognition to extract the text for you. 
