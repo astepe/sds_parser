@@ -1,6 +1,6 @@
 ## sds_parser
 sds_parser is a browser-based app for extracting chemical data from Safety Data Sheet documents. sds_parser will speed up your
-data-entry process by eliminating the need to read through countless Safety Data Sheets to get the data you care about.
+data-entry process by eliminating the need to read through Safety Data Sheets to get the data you care about.
 
 ## Motivation
 Built out of the need to quickly access chemical data from Safety Data Sheets for data-entry purposes. Each chemical manufacturer will stylize and structure their SDSs a little bit differently. sds_parser can easily be updated to read a new manufacturer format by adding a new set of regular expressions to match the format that that specific manufacturer uses. 
