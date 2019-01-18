@@ -64,7 +64,7 @@ then call `.get_sds_data()` to retrieve the matches by passing in your SDS docum
 ```
 chemical_data = sds_parser.get_sds_data(file_path, ocr=False)
 ```
-`chemical_data` will be a dict object mapping request key names to their corresponding matches. If the specific field is not found in the SDS, `.get_sds_data()` will return the string 'Data not listed'. If the field is found, but no data is found under it, `.get_sds_data()` will return the string 'No data available'.
+`chemical_data` will be a dictionary object mapping request key names to their corresponding matches. If the specific field is not found in the SDS, `.get_sds_data()` will return the string 'Data not listed'. If the field is found, but no data is found under it, `.get_sds_data()` will return the string 'No data available'.
 
 ## Contribute
 
