@@ -1,3 +1,5 @@
+![alt text](https://github.com/astepe/sds_parser/blob/master/LogoSample_ByTailorBrands.jpg)
+
 ## sds_parser
 sds_parser is a browser-based app for extracting chemical data from Safety Data Sheet documents. sds_parser will speed up your
 data-entry process by eliminating the need to read through Safety Data Sheets to get the data you care about.
