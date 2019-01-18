@@ -16,13 +16,53 @@ Include logo/demo screenshot etc.
 Have some physical SDSs you need to scan and get data from? Have no fear, sds_parser will recognize your scanned file as an image and perform optical character recognition to extract the text for you. 
 
 ## Code Example
+
+```
+ def get_sds_data(self, sds_file_path, **kwargs):
+        """
+        retrieve requested sds data
+        """
+        self.ocr = False
+        self.ocr_override = True
+        if 'ocr' in kwargs:
+            self.ocr = kwargs['ocr']
+            self.ocr_override = False
+
+        self.sds_text = self.get_sds_text(sds_file_path)
+
+        manufacturer = self.get_manufacturer(self.sds_text)
+
+        if manufacturer is not None:
+            regexes = SDSParser.compile_regexes(SDSRegexes.SDS_FORMAT_REGEXES[manufacturer])
+        else:
+            manufacturer = 'unknown'
+            regexes = SDSParser.compile_regexes(SDSRegexes.DEFAULT_SDS_FORMAT)
+
+        sds_data = self.search_sds_text(self.sds_text, regexes)
+
+        data_not_listed = SDSParser.check_empty_matches(sds_data)
+        sds_data['format'] = manufacturer
+        sds_data['filename'] = sds_file_path.split('/')[-1]
+        if data_not_listed and not self.ocr and self.ocr_override:
+            print(f'No matches found in {sds_file_path}. Performing ocr...')
+            sds_data = self.get_sds_data(sds_file_path, ocr=True)
+        return sds_data
+```
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 ## Installation
 Provide step by step series of examples and explanations about how to get a development env running.
 
 ## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
+Simply initialize `SDSParser` with an optional list of data fields you wish to extract (e.g. ['manufacturer', 'flash_point']) to `request_keys`. See `configs.SDSRegexes.SDS_DATA_TITLES` for the proper keys to use. If no keys are requested, all available data fields will be searched.
+```
+sds_parser = SDSParser(**request_keys=<[keys]>)
+```
+then call `.get_sds_data()` to retrieve the matches by passing in your SDS document in `.pdf` format. If you wish to turn off automatic ocr functionality, do that here with `ocr=False`.
+```
+chemical_data = sds_parser.get_sds_data(file_path, ocr=False)
+```
+`chemical_data` will be a dict object mapping request key names to their corresponding matches. If the specific field is not found in the SDS, `.get_sds_data()` will return the string 'Data not listed'. If the field is found, but no data is found under it, `.get_sds_data()` will return the string 'No data available'.
 
 ## Contribute
 
