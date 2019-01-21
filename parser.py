@@ -28,22 +28,6 @@ class SDSParser:
         else:
             self.request_keys = SDSRegexes.REQUEST_KEYS
 
-<<<<<<< HEAD
-        for pdf in (file for file in os.listdir(sds_directory) if file.endswith(".pdf")):
-            file_path = sds_directory + pdf
-
-            print('---------------------------------------------', end='\n')
-            print('File Name:', pdf)
-
-            pdf_text = get_pdf_text(file_path)
-
-            chemical_data = parse_chemical_data(pdf_text)
-
-            writer.writerow(chemical_data)
-
-
-def parse_chemical_data(text):
-=======
         # determines if ocr will be run
         #self.ocr = False
 
@@ -144,7 +128,6 @@ def parse_chemical_data(text):
         else:
 
             return 'Data not listed'
->>>>>>> upstream/master
 
     @staticmethod
     def get_manufacturer(sds_text):
