@@ -1,2 +1,6 @@
 *.csv
 *.csv#
+*.pdf
+/local
+*.ipynb
+*.pyc
