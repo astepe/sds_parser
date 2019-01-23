@@ -1,6 +1,6 @@
 import pytest
-import parser
-import configs
+from .. import parser
+from .. import configs
 import os
 import re
 

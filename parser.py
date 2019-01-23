@@ -28,42 +28,49 @@ class SDSParser:
         else:
             self.request_keys = SDSRegexes.REQUEST_KEYS
 
-        # determines if ocr will be run
-        #self.ocr = False
-
-        # if set to True, program will run ocr if no text
-        # or no matches found
-        #self.ocr_override = True
-
-    def get_sds_data(self, sds_file_path, **kwargs):
+    def get_sds_data(self, sds_file_path, extract_method=None):
         """
         retrieve requested sds data
         """
-        self.ocr = False
-        self.ocr_override = True
-        if 'ocr' in kwargs:
-            self.ocr = kwargs['ocr']
-            self.ocr_override = False
+        self.reset_state()
+        self.define_extract_method(extract_method)
 
         self.sds_text = self.get_sds_text(sds_file_path)
 
         manufacturer = self.get_manufacturer(self.sds_text)
 
-        if manufacturer is not None:
-            regexes = SDSParser.compile_regexes(SDSRegexes.SDS_FORMAT_REGEXES[manufacturer])
-        else:
-            manufacturer = 'unknown'
-            regexes = SDSParser.compile_regexes(SDSRegexes.DEFAULT_SDS_FORMAT)
+        regexes = self.define_regexes(manufacturer)
 
         sds_data = self.search_sds_text(self.sds_text, regexes)
 
         data_not_listed = SDSParser.check_empty_matches(sds_data)
+
         sds_data['format'] = manufacturer
         sds_data['filename'] = sds_file_path.split('/')[-1]
-        if data_not_listed and not self.ocr and self.ocr_override:
+
+        if data_not_listed and not self.ocr_ran and self.ocr_override:
             print(f'No matches found in {sds_file_path}. Performing ocr...')
             sds_data = self.get_sds_data(sds_file_path, ocr=True)
         return sds_data
+
+    def define_extract_method(self, extract_method):
+        if extract_method == 'ocr':
+            self.force_ocr = True
+        if extract_method == 'extract_text':
+            self.ocr_override = False
+
+    def reset_state(self):
+        self.ocr_override = True
+        self.ocr_ran = False
+        self.force_ocr = False
+
+    def define_regexes(manufacturer):
+
+        if manufacturer is not None:
+            return SDSParser.compile_regexes(SDSRegexes.SDS_FORMAT_REGEXES[manufacturer])
+        else:
+            manufacturer = 'unknown'
+            return SDSParser.compile_regexes(SDSRegexes.DEFAULT_SDS_FORMAT)
 
     def search_sds_text(self, sds_text, regexes):
         """
@@ -165,14 +172,15 @@ class SDSParser:
 
     def get_sds_text(self, sds_file_path):
 
-        if self.ocr is True:
+        if self.force_ocr is True:
             sds_text = SDSParser.get_sds_image_text(sds_file_path)
+            self.ocr_ran = True
         else:
             sds_text = SDSParser.get_sds_pdf_text(sds_file_path)
             if sds_text == '' and self.ocr_override:
                 print(f'No text found in {sds_file_path}. Performing ocr...')
                 sds_text = SDSParser.get_sds_image_text(sds_file_path)
-                self.ocr = True
+                self.ocr_ran = True
         return sds_text
 
     @staticmethod
