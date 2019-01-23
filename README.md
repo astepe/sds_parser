@@ -48,6 +48,5 @@ If the specific field is not found in the SDS, `.get_sds_data()` will return the
 If the field is found, but no data is found under it, `.get_sds_data()` will return the string 'No data available'.
 
 ## License
-A short snippet describing the license (MIT, Apache etc)
 
 MIT © [Aris Stepe](http://www.arisstepe.com/)
