@@ -15,27 +15,37 @@ Include logo/demo screenshot etc.
 * [pytesseract](https://pypi.org/project/pytesseract/), a python wrapper for Google's Tesseract-OCR
 
 ## Features
-Have some physical SDSs you need to scan and get data from? Have no fear, sds_parser will recognize your scanned file as an image and perform optical character recognition to extract the text for you. 
+Have some physical SDSs you need to scan and get data from? Have no fear, sds_parser will recognize your scanned file as an image and perform optical character recognition (ocr) to extract the text for you. 
 
 ## How to use?
 Simply initialize `SDSParser` with an optional list of data fields you wish to extract (e.g. ['manufacturer', 'flash_point']) to `request_keys`. See `configs.SDSRegexes.SDS_DATA_TITLES` for the proper keys to use. If no keys are requested, all available data fields will be searched.
 ```
 sds_parser = SDSParser(**request_keys=<[keys]>)
 ```
-then call `.get_sds_data()` to retrieve the matches by passing in your SDS document in `.pdf` format. If you wish to turn off automatic ocr functionality, do that here with `ocr_override=False`.
+then call `.get_sds_data()` to retrieve the matches by passing in your SDS document in `.pdf` format.
+
 ```
-chemical_data = sds_parser.get_sds_data(file_path, ocr_override=False)
+chemical_data = sds_parser.get_sds_data(file_path)
 ```
-`chemical_data` will be a dictionary object mapping request key names to their corresponding matches. If the specific field is not found in the SDS, `.get_sds_data()` will return the string 'Data not listed'. If the field is found, but no data is found under it, `.get_sds_data()` will return the string 'No data available'.
+`chemical_data` will be a dictionary object mapping request key names to their corresponding matches:
+```
+{'Manufacturer': 'Sigma-Aldrich', 
+ 'Product Name': 'Sodium dodecyl sulfate', 
+ 'Flash Point': '338', 
+ 'Specific Gravity': 'No data available', 
+ 'NFPA Fire': '3', 
+ 'NFPA Health': '2', 
+ 'NFPA Reactivity': '3', 
+ 'SARA 311/312': 'Data not listed', 
+ 'Revision Date': '06/13/2018', 
+ 'Physical State': 'Rods', 
+ 'CAS # (if pure)': '151-21-3', 
+ 'format': 'sigma_aldrich', 
+ 'filename': 'sigma_aldrich_23.pdf'}
+```
 
-## Contribute
-
-Let people know how they can contribute into your project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
-
-## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
-
-#### Anything else that seems useful
+If the specific field is not found in the SDS, `.get_sds_data()` will return the string 'Data not listed'. 
+If the field is found, but no data is found under it, `.get_sds_data()` will return the string 'No data available'.
 
 ## License
 A short snippet describing the license (MIT, Apache etc)
