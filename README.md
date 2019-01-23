@@ -50,4 +50,4 @@ If the field is found, but no data is found under it, `.get_sds_data()` will ret
 ## License
 A short snippet describing the license (MIT, Apache etc)
 
-MIT © [Yourname]()
+MIT © [Aris Stepe](http://www.arisstepe.com/)
