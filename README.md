@@ -4,11 +4,14 @@
 sds_parser is a browser-based app for extracting chemical data from Safety Data Sheet documents. sds_parser will speed up your
 data-entry process by eliminating the need to read through Safety Data Sheets to get the data you care about.
 
+For a live demo, click here: [SDSParser](http://www.arisstepe.com/projects/submit_sds)
+
+For testing purposes, here are some SDS files to download and use:
+* [Fisher Scientific](https://www.fishersci.com/store/msds?partNumber=M2131&productDescription=MET+ISOBUTYL+KETONE+CR+ACS+1L&vendorId=VN00033897&countryCode=US&language=en)
+* [Sigma Aldrich](https://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=US&language=en&productNumber=P5958&brand=SIGALD&PageToGoToURL=https%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fsearch%3Fterm%3Dpotassium%26interface%3DAll%26N%3D0%26mode%3Dmatch%2520partialmax%26lang%3Den%26region%3DUS%26focus%3Dproduct)
+
 ## Motivation
 Built out of the need to quickly access chemical data from Safety Data Sheets for data-entry purposes. Each chemical manufacturer will stylize and structure their SDSs a little bit differently. sds_parser can easily be updated to read a new manufacturer format by adding a new set of regular expressions to match the format that that specific manufacturer uses. 
-
-## Screenshots
-Include logo/demo screenshot etc.
 
 ## Tech/framework used
 * [pdfminer](https://github.com/euske/pdfminer), a tool for extracting information from PDF documents
