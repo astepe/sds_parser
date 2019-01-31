@@ -12,6 +12,21 @@ class Configs:
     TEST_SDS_PDF_FILES = os.path.join(_test_base, 'test_sds_pdf_files')
     TEST_SDS_TEXT_FILES = os.path.join(_test_base, 'test_sds_text_files')
 
+    # list of keys used for regex lookup
+    REQUEST_KEYS = [
+        'manufacturer',
+        'product_name',
+        'flash_point',
+        'specific_gravity',
+        'nfpa_fire',
+        'nfpa_health',
+        'nfpa_reactivity',
+        'sara_311',
+        'revision_date',
+        'physical_state',
+        'cas_number',
+    ]
+
 
 class SDSRegexes:
 
@@ -230,22 +245,3 @@ class SDSRegexes:
         'revision_date': (r"[R|r]evision [D|d]ate(?P<data>.{20})", (re.S|re.I)),
         'physical_state': (r"F[\s]*?o[\s]*?r[\s]*?m[\s]*?\W(?P<data>.{30})", (re.S|re.I))
     }
-
-    # SDS_DATA_TITLES is a dict mapping data request keys ('flash_point', 'specific_gravity', etc.)
-    # to string titles ('Flash Point (°F)', 'Specific Gravity', etc.)
-    SDS_DATA_TITLES = {
-        'manufacturer': 'Manufacturer',
-        'product_name': 'Product Name',
-        'flash_point': 'Flash Point',
-        'specific_gravity': 'Specific Gravity',
-        'nfpa_fire': 'NFPA Fire',
-        'nfpa_health': 'NFPA Health',
-        'nfpa_reactivity': 'NFPA Reactivity',
-        'sara_311': 'SARA 311/312',
-        'revision_date': 'Revision Date',
-        'physical_state': 'Physical State',
-        'cas_number': 'CAS # (if pure)'
-    }
-
-    REQUEST_KEYS = [key for key, _ in SDS_DATA_TITLES.items()]
-# flash\s*?point([\sC\d°:\(.]*?(?P<data>[0-9.]*)\s*?°?\s*?F)?
