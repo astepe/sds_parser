@@ -1,0 +1,693 @@
+Alta Aesar”
+
+Safety Data Sheet
+per OS
+
+Page 1/4
+
+A HazCom 2012 Printing date 11/23/2015
+
+Reviewed on 02/21/2007
+
+ 
+
+1 Identification
+Product identifier
+Product name: 2-Fluorophenylhydrazine hydrochloride
+
+Stock number: A13716, L04862
+
+CAS Number:
+
+2924—15-4
+
+EC number:
+
+220—885-9
+
+Relevant identified uses of the substance or mixture and uses advised against.
+Identified use: SU24 Scientific research and development
+
+Details of the supplier of the safety data sheet
+
+Manufacturer/Supplier:
+
+Alfa Aesar
+
+Thermo Fisher Scientific Chemicals, Inc.
+
+30 Bond Street
+
+Ward Hill, MA 01835-8099
+
+Tel: 800—343—0660
+
+Fax: 800-322—4 75 7
+
+Email: tech @alfa.com
+
+www.alfa.com
+
+Information Department: Health, Safety and Environmental Department
+
+Emergency telephone number: I I
+During normal busmess hours (Monday-Friday, 8am—7pm EST), call (800) 343-0660. After normal busmess hours, call Carechem 24 at (866) 928—0789.
+
+ 
+
+ 
+
+ 
+
+2 Hazard(s) identification
+Classification of the substance or mixture in accordance with 29 CFR 1910 (OSHA HCS)
+
+GHSOG Skull and crossbones
+
+Acute Tox. 3 H301 Toxicif swallowed. I
+
+® GHSO7
+
+Skin Irrit. 2 H315 Causes skin irritation.
+Eye Irrit. 2A H319 Causes serious eye irritation.
+
+STOT SE 3 H335 May cause Irespiratoty irritation.
+Hazards not otherWIse claSSIfied No In ormation known.
+
+Label elements I I
+GHS label elements The product is classified and labeled In accordance With 29 CFR 1910 (OSHA HCS)
+Hazard pictograms
+
+GHSOS
+
+Signal word Danger
+
+Hazard statements
+
+H301 Toxic if swallowed.
+
+H315 Causes skin irritation. I I
+
+H319 Causes serious eye irritation.
+
+H335 May cause respiratory irritation.
+
+Precautionary statements I I
+
+P261 Av0Id breathing dust/fume/gas/Imist/vapours/spray. I I
+
+P280 Wear rotectiveDgloves/protective clothin /e e protection/face protection.
+
+P301+P310 IF S ALLOWE : Immediately call a PO S N CENTER/ doctor/... I I I I
+
+Il:§;gg+P351+P338 g: IN ll—YldeRmse cautiously With water for several minutes. Remove contact lenses, If present and easy to do. Continue rinsmg.
+tore 00 e u .
+
+P501 Dispose of congents/container in accordance with local/regional/national/international regulations.
+
+WHMIS classification I I I I I
+
+DlB - Toxic materiIal causIng immediate and serious tOXIc effects
+
+D2B — TOXIC material causmg other tOXIc effects
+
+.6)
+
+Classification system
+HMIS ratings (scalIe 0-4) . . I
+(Hazardous Materials Identification System)
+
+HEALTH Health (aCILIIte foGCtS) : 2
+FIRE Flammablllty : 1
+PhySIcal Hazard = 1
+
+Other hazards
+
+Results of PBT and vPvB assessment
+PBT: Not applicable.
+
+vPvB: Not applicable.
+
+ 
+
+ 
+
+3 Composition/information on ingredients
+
+Chemical characterization: Substances
+
+CAS# Descri tion: I I
+2924-15-4 2- luorophenylhydraZIne hydrochloride
+Identification number 3):
+
+EC number: 220-885-
+
+ 
+
+ 
+
+ 
+
+USA —
+
+(Contd. on page 2)Safety Data Sheet
+per OS
+
+Page 2/4
+
+A HazCom 2012 Printing date 11/23/2015
+
+Reviewed on 02/21/2007
+
+ 
+
+|Product name: 2-Fluorophenylhydrazine hydrochloride
+
+ 
+
+(Contd. of page 1)
+
+ 
+
+4 First-aid measures
+
+Description of first aid measures
+
+After inhalation I I I I I I I I
+
+Supply fresh Iair. If reqwred, prowde artifICIal respiration. Keep patient warm.
+
+Seek Immediate medical adVIce.
+
+After skin contact I I
+
+Immediately wash With waterIand soap and rinse thoroughly.
+
+Seek immediate medical adVIce. I I
+
+After eye contact Rinse opened eye for several minutes under running water. Then consult a doctor.
+
+After swallowing Seek medical treatment.
+
+Information for doctor I I I
+
+Most important symptoms and effects, both acute and delayed No further relevant information available. I I
+Indication of any immediate medical attention and speCial treatment needed No further relevant information available.
+
+ 
+
+ 
+
+5 Fire-fighting measures
+
+Extinguishing media
+Suita I
+SpeIcial hazards arising IromI the substance or mixture
+
+If this product is involved in a fire, the fol/0Wing can be released:
+Carbon monOXIde and carbon di0Xide
+
+Nitrogen OXIdes (NOX
+
+Hydrogen fluoride (H )
+
+Advice for firefighters
+
+Protective equipment: I
+
+Wear self-contained rIespiratIor. I
+
+Wear fully protective imperVIous swt.
+
+Ie extinguishing a ents Carbon dioxide, extinguishing powder or water spray. Fight larger fires with water spray or alcohol resistant foam.
+
+ 
+
+ 
+
+6 Accidental release measures
+
+Personal precautions, protective equipment and emergency procedures
+
+Wear protective equmeInt. Keep unprotected persons away.
+
+Ensure adequate ventilation I I I
+Environmental precautions: Do not allow material to be released to the enVIronment Without proper governmental permits.
+Methods and material for containment and cleaning up: .
+
+Dispose of contaminated Imaterial as waste according to section 13.
+
+Ensure adequate ventilation. I I
+
+Prevention of secondary hazards: No speCIal measures reqwred.
+
+Reference to other sections .
+
+See Section 7 for information on safe handling I I
+
+See Section 8 for information on personal protection equipment.
+
+See Section 13 for disposal information.
+
+ 
+
+ 
+
+7 Handling and storage
+
+Handling
+
+Precautions forIsafe handling
+
+Keep container tightly sealed. I
+
+Store in cool, dry place in ti htly closed containers.
+
+Ensure good ventilation att e workplace. I I I
+Information about protection against explosions and fires: No information known.
+
+gonditions for safe storage, including any incompatibilities
+
+tora e
+
+Requﬁements to be met by storerooms and receptacles: No special requirements.
+Information about storage in one common storage facility: Store away from oxidizing agents.
+Further information about storage conditions:
+
+Keep container tightly sealed. I
+
+Store in cool, dry conditions in well sealed containers.
+
+Specific end use(s) No further relevant information available.
+
+ 
+
+ 
+
+8 Exposure controls/personal protection
+
+Additional information about design of technical systems: I I I I
+Properly operating chemical fume hood deSIgned for hazardous chemicals and havmg an average face veIOCIty of at least 100 feet per minute.
+
+Control parameIters I I I I I
+Components With limit values that reqwre monitoring at the workplace: Not reqwred.
+Additional information: No data
+
+Exposure controIs I
+
+Personal protective equipment
+
+General protective and hygienic measures I
+
+The usual precautionary measures for handling chemicals should be followed.
+
+Keep away from foodstuffs, beverages and feed. I
+
+Remove all sailed and contaminated clothing immediately.
+
+Wash hands before breaks and at the end of work.
+
+Avoid contact With the eyes and skin. I I
+
+Maintain an ergonomically appropriate working enVIronIment. I
+
+Breathing equipment: Use suitable respirator When high concentrations are present.
+Protection of hands:
+
+Imperwous gloves I I I I
+
+Check protective gloves prior to each use for their proper condition. I I I
+The selection of suitable loves not only depends on the material, but also on quality. Quality Will vary from manufacturer to manufacturer.
+Eye protection: Safety g asses I
+
+Body protection: Protective work clothing.
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 Physical and chemical properties
+
+ 
+
+Information on basic physical and chemical properties
+General Information
+
+Appearance:
+Form: Powder
+Color: an
+Odor: Not determined
+
+ 
+
+ 
+
+ 
+
+(Contd. on page 3)
+USA —Safety Data Sheet Page 3/4
+per OS A HazCom 2012 Printing date 11/23/2015
+Reviewed on 02/21/2007
+
+ 
+
+|Product name: 2-Fluorophenylhydrazine hydrochloride
+
+ 
+
+ 
+
+(Contd. of page 2)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Odor threshold: Not determined.
+pH-value: Not applicable.
+Change in condition
+Melting point/Melting range: 205 °C (401 °F) (dec)
+Boiling point/Boiling range: Not determined
+Sublimation temperature / start: Not determined
+Flash point: Not a plicable
+Flammability (solid, gaseous) Not etermined.
+Ignition temperature: Not determined
+Decomposition temperature: Not determined
+Auto igniting: Not determined.
+Dan er of explosion: Product does not present an explosion hazard.
+Exp osion limits:
+Lower: Not determined
+Upper: Not determined
+Vapor pressure: Not Iafplicable.
+Density: Not etermined
+Relative density Not determined.
+Vapor density Not applicable.
+Evaporation rate Not applicable.
+Solubility in / Miscibility with
+Water: Not determined
+Partition coefficient (n-octanol/water): Not determined.
+Viscosity: I
+dynamic: Not applicable.
+kinematic: Not applicable. I I
+Other information No further relevant information available.
+
+ 
+
+ 
+
+ 
+
+10 Stability and reactivity
+
+Reactivit No information known.
+
+Chemica stability Stable under recommended stora e conditions. I I I I
+Thermal decomposition / conditions to be avoide : Decom osition will not occur if used and stored according to speCIfications.
+Possibility of hazardous reactions No dangerous reactions nown
+
+Conditions to avoid No further relevant information available.
+
+Incompatible materials: Oxidizing agents
+
+Hazardous decomposition products:
+
+Carbon monoxide and carbon dioxide
+
+Nitrogen oxides
+
+Hydrogen fluoride
+
+ 
+
+ 
+
+11 Toxicological information
+
+Information on toxicolo ical effects
+
+Acute toxicity: Harmfuli swallowed.
+
+LD/LC50 values that are relevant for classification: No data
+
+Skin irritation or corrosion: Causes skin irritation.
+
+Eye irritation or corrosion: Causes serious eye irritation.
+
+Sensitization: No sensitizing effects known.
+
+Germ cell mutagenicit : No effects known. I I I I I
+
+Carcinogenicity: No c assification data on carcinogenic properties of this material is available from the EPA, IARC, NTP, OSHA or ACGIH.
+Reproductive toxicity: No effects known.
+
+Specific target organ system toxicity - repeated exposure: No effects known. I I I
+
+Specific tar et or an system toxicity - single exposure: May cause respiratory Irritation.
+
+Aspiration azar : No effects known.
+
+Subacute to chronic toxicit : No effects known.
+
+Additional toxicological in ormation: To the best of our knowledge the acute and chronic toxicity of this substance is not fully known.
+
+ 
+
+ 
+
+12 Ecological information
+
+Toxicity
+
+Aquatic toxicity: No further relevant information available. I
+
+Persistence and degradability No further relevant information available.
+
+Bioaccumulative potential No further relevant information available.
+
+Mobility in soil No further relevant information available.
+
+Additional ecological information:
+
+General notes: I I I
+Do not allow material to be released to the environment Without proper governmental permits.
+Do not allow undiluted product or large quantities to reach ground water, water course or sewage system.
+Avoid transfer into the environment.
+
+Results of PBT and vPvB assessment
+
+PBT: Not applicable.
+
+vPvB: Not applicable. I
+
+Other adverse effects No further relevant information available.
+
+ 
+
+ 
+
+13 Disposal considerations
+
+Waste treatment methods I
+Recommendation Consult state, local or national regulations to ensure proper disposal.
+Uncleaned packagings: I I I
+Recommendation: Disposal must be made according to offICIal regulations.
+
+ 
+
+ 
+
+14 Transport information I
+Not a hazardous material for transportation.
+
+ 
+
+ 
+
+UN-Number
+
+DOT, IMDG, IATA None
+UN roper shi ing name
+
+DO‘F, IMDG, IAp'IeA None
+
+ 
+
+ 
+
+ 
+
+(Contd. on page 4)
+USA —Safety Data Sheet Page 4/4
+per OS A HazCom 2012 Printing date 11/23/2015
+Reviewed on 02/21/2007
+
+ 
+
+|Product name: 2-Fluorophenylhydrazine hydrochloride
+
+ 
+
+ 
+
+(Contd. of page 3)
+
+ 
+
+Transport hazard class(es)
+DOT, ADR, IMDG, IATA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Class None
+
+Packing group
+
+DOT, IMDG, IATA None
+
+Environmental hazards: Not applicable.
+
+Special precautions for user Not applicable.
+
+Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code Not applicable.
+
+Transport/Additional information: Not dangerous according to the above specifications.
+DOT
+
+Marine Pollutant (DOT): No
+
+ 
+
+ 
+
+ 
+
+15 Regulatory information
+
+Safety, health and environmental re uIations/Ie islation specific for the substance or mixture
+GHS abel elements The product is c assified and abeled in accordance With 29 CFR 1910 (OSHA HCS)
+Hazard pictograms
+
+GHSOB
+
+Signal word Danger
+
+Hazard statements
+
+H301 Toxic if swallowed.
+
+H315 Causes skin irritation.
+
+H319 Causes serious eye irritation.
+
+H335 May cause respiratory irritation.
+
+Precautionary statements I .
+
+P261 Av0id breathing dust/fume/gas/Imist/vapours/spray. I _
+
+P280 Wear rotectivquloves/protective clothin /e e protection/face protection.
+
+P301+P310 IF 8 ALLOWE : Immediately call a PO S N CENTEIR/ doctor/... I . . I
+
+£382+P351+P338 g: IN EYlisthinse cautiously With water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsmg.
+tore oc e u .
+
+P501 Dispose of conptents/container in accordance with local/regionaI/nationaI/international regulations.
+
+National regulations I I I
+
+All components of this product are listed in the U. 8. Environmental Protection Agency TOXIC Substances Control Act Chemical substance Inventory.
+
+SARA Section 313 (specific toxic chemical listings) Substance is not listed.
+
+California Proposition 65 _ I
+
+Prop 65 - Chemicals known to cause cancer Substance is not listed.
+
+Prop 65 - Developmental toxicity Substance is not listed. I
+
+Prop 65 - Developmental toxicity, female Substance is not listed.
+
+Prop 65 - Developmental tOXicity, male Substance is not listed.
+
+Information about limitation of use: For use only by technically qualified individuals.
+
+Other regulations, limitations and rohibitive re ulations
+
+Substance of Ve High Concern SVHC) accor ing to the REACH Regulations (EC) No. 1907/2006. Substance is not listed.
+
+The conditions 0 restrictions according to Article 67 and Annex XVII of the Regulation (EC) No 1907/2006 (REACH) for the manufacturing, placing on the
+
+market and use must be observed.
+
+Substance is not listed. _ _
+
+AnnexI XIV of the REACH Regulations (requiring Authorisation for use) Substance is not listed.
+
+Chemical safety assessment: A Chemical Safety Assessment has not been carried out.
+
+ 
+
+ 
+
+16 Other information I I I _ _ I I I I I I
+Employers should use this information only as a supplement to other information gathered by thIem,Iand should make independent judgement of swtabilit of this
+information to ensure properIuse and protect the health and safety of employees. This information is furnished Without warranty, and any use of the pro uct not in
+conformance With this Material Safety Data Sheet, or in combination With any other product or process, is the responSIbility oft e user.
+
+Department issuing SDS: Global Marketing Department
+Date of preparation / last revision 11/23/2015 / -
+
+Abbrewations and acronyms:
+
+IMDG: International Maritime Code for Dangerous Goods
+
+DOT: US Department of Transportation
+
+IA TA: International Air Transport Association _ _
+
+EINE CS: European Inventory of EXIsting CommerCIaI Chemical Substances
+CAS: Chemical Abstracts SeI'VIce_f(dIVI_SIOI’I of the American Chemical SOC/ety)
+HMIS: Hazardous Materials Ident icatIon System (USA)
+
+WHMIS: Workplace Hazardous Materials Information System (Canada)
+LC50: Lethal concentration, 50 percent
+
+LD50: Lethal dose, 50 percent _ _
+
+vPvB: very Persistent and very Bioaccumulative _ _ _
+
+ACGIH: American Conference of Governmental Industrial HX ienists (USA)
+OSHA: Occupational Safety and Health Administration (US )9
+
+NTP: National _TOXIcoIogy rogram (USA
+
+IARC: InternationaIA ency for Research on Cancer
+
+EPA: EnVIronmentaI rotection Agency (USA)
+
+ 
+
+ 
+
+ 
+
+USA —

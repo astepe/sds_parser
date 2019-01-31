@@ -1,0 +1,546 @@
+R0 B ERT E T SAFETY DATA SHEET
+
+2012 OSHA Hazard Communication Standard (HCS) (29 CFR 1910.1200)
+
+ 
+
+Revision Number: 1
+Revision Date: 15-June-2016
+Issue Date: 29-JuIy-2016
+
+ 
+
+1. PRODUCT AND COMPANY IDENTIFICATION
+
+ 
+
+Product Identifier
+Product Code NV-72614
+Product Name BLUEBERRY FLAVOR (XTREME TYPE), N&A
+
+ 
+
+Recommended use of the chemical and restrictions on use
+Recommended use Flavors. Industrial use.
+Uses advised against Do not ingest as such. Avoid eye contact.
+
+Details of the supplier of the safety data sheet
+Robertet Flavors
+
+1O Colonial Drive
+
+Piscataway, NJ 08854
+
+TEL: 732-981-8300
+
+email: regu|atory@robertetusa.com
+
+ 
+
+Emerqencv telephone number
+Emergency Telephone Number Chemtrec 1-800-424-9300 (24 hrs)
+
+ 
+
+ 
+
+2. HAZARDS IDE NTIFICATION
+
+ 
+
+OSHA Hazard Classification
+
+ 
+
+OSHA Regulatory Status
+This chemical is not considered hazardous by the 2012 OSHA Hazard Communication Standard (29 CFR 1910.122)
+
+Not a dangerous substance or mixture according to the Globally Harmonized System (GHS)
+
+Label elements
+
+Hazards not otherwise classified (HNOC)
+None known
+
+ 
+
+Other Information
+Not applicable
+
+ 
+
+Interactions with Other Chemicals
+Not applicable
+
+ 
+
+Principle Routes of Exposure
+Inhalation Skin contact Eye contact
+
+ 
+
+ 
+
+Flavors SDS US OSHA GHS Page 1 / 63. COMPOSITION/INFORMATION ON INGREDIENTS
+
+This product is a mixture. The ingredients in this mixture are considered to be proprietary and will be revealed here only at the discretion of
+Robertet. In the event of a genuine medical emergency, they will be revealed to a qualified health professional. In non—emergency situations,
+disclosure requests will be handled in accordance with the pertinent provisions of the OSHA Hazard Communication Standard.
+
+ 
+
+ 
+
+ 
+
+Component CAS No Weight-% GHS Classification
+Ethyl acetate 141 —78—6 0 - 10% STOT SE 3 (H336)
+Flam. Liq. 2 (H225)
+Eye lrrit. 2A (H319)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. FIRST AID MEASURES
+
+ 
+
+First Aid Measures
+
+ 
+
+Eye Contact Rinse thoroughly with plenty of water for at least 15 minutes, lifting lower and upper eyelids.
+Consult a physician.
+
+Skin Contact Wash skin with soap and water. In the case of skin irritation or allergic reactions see a
+physician.
+
+Inhalation Remove to fresh air. If symptoms arise, call a physician.
+
+Ingestion Do not induce vomiting without medical advice; Clean mouth with water; Consult a
+
+physician if necessary
+
+Indication of any immediate medical attention and special treatment needed
+
+ 
+
+Notes to Physician Treat symptomatically.
+
+ 
+
+5. FIRE-FIGHTING MEASURES
+
+ 
+
+Suitable Extinquishinq Media
+Use extinguishing measures that are appropriate to local circumstances and the surrounding environment.
+
+ 
+
+Unsuitable Extinquishinq Media
+Do not use a solid water stream as it may scatter and spread fire.
+
+ 
+
+Specific Hazards Arising from the Chemical
+In the event of fire and/or explosion do not breathe fumes.
+
+ 
+
+Protective Equipment and Precautions for Firefiqhters
+As in any fire, wear self-contained breathing apparatus pressure-demand, MSHA/NIOSH (approved or equivalent) and full
+protective gear.
+
+ 
+
+ 
+
+6. ACCIDENTAL RELEASE MEASURES
+
+ 
+
+Personal precautions, protective equipment and emergency procedures
+
+ 
+
+Personal Precautions Ensure adequate ventilation. Use personal protection equipment. Wear protective
+gloves/clothing and eye/face protection.
+
+Environmental Precautions
+
+ 
+
+Environmental Precautions Beware of vapors accumulating to form explosive concentrations. Vapors can accumulate in
+low areas.
+
+Methods and material for containment and cleaning up
+
+ 
+
+Methods for Clean-Up Soak up with inert absorbent material. Prevent product from entering drains.
+
+ 
+
+Flavors SDS US OSHA GHS Page 2/ 67. HANDLING AND STORAGE
+
+ 
+
+Precautions for safe handlinq
+
+ 
+
+HandHng
+
+Handle in accordance with good industrial hygiene and safety practice. Wear personal
+protective equipment/face protection. Avoid contact with eyes, skin and clothing.
+
+Conditions for safe storaqe, includinq anv incompatibilities
+
+Storage Conditions
+8. EX
+
+Control parameters
+
+ 
+
+Exposure Guidelines
+
+Store at 55-85 Deg F/ RH 30-70%.
+
+POSURE CONTROLS/PERSONAL PROTECTION
+
+ 
+
+ 
+
+ 
+
+ 
+
+Component OSHA PEL (TWA) ACGIH TLV (TWA) ACGIH TLV (STEL) California PEL (TWA)
+Ethyl acetate 1400 MGM3, 400 PPM 400 PPM - 1400 MGM3, 400 PPM
+141 -78-6
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appropriate enqineerinq controls
+
+ 
+
+Engineering Controls
+
+Showers
+Eyewash stations
+Ventilation systems.
+
+Individual protection measures, such as personal protective equipment
+
+Eye/face protection
+
+Skin and body protection
+
+Respiratory Protection
+
+General Hygiene Considerations
+
+Avoid contact with eyes. If splashes are likely to occur, wear:. Wear safety glasses with side
+shields (or goggles).
+
+Wear protective gloves and protective clothing.
+
+lf exposure limits are exceeded or irritation is experienced, NIOSH/MSHA approved
+respiratory protection should be worn. Positive-pressure supplied air respirators may be
+required for high airborne contaminant concentrations. Respiratory protection must be
+provided in accordance with current local regulations.
+
+Handle in accordance with good industrial hygiene and safety practice.
+
+ 
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+ 
+
+Information on basic physical and chemical properties
+
+Physical State:
+Appearance:
+Odor:
+
+Odor Threshold:
+
+Property
+
+pH
+
+Melting Point/Range
+Boiling point / boiling range
+Flash Point:
+
+Evaporation rate
+Flammability (solid, gas)
+
+Vapor Pressure (mm Hg @ 20°C):
+
+Liquid
+
+Light red to red liquid
+Characteristic
+
+No information available
+
+ 
+
+ 
+
+Values Remarks/ - Method
+No data available AOAC 945.10
+
+No data available USP <741>
+
+No data available None known
+
+> 93 °C / > 200 °F ASTM D6450
+
+No data available None known
+
+No data available None known
+
+No data available None known
+
+ 
+
+Flavors SDS US OSHA GHS
+
+Page 3/6Vapor Density No data available None known
+
+Relative density No data available None known
+Specific Gravity @ 20/20 °C: 1.0429 +/- 0.02 AOAC 988.06
+Refractive Index @ 20°C: 1.4271 +/- 0.02 AOAC 920.141
+Water Solubility Soluble None known
+Solubility in other solvents No data available None known
+Partition coefficient: n-octanoI/waterNo data available None known
+Autoignition Temperature No data available None known
+Decomposition temperature No data available None known
+Viscosity No data available ASTM D2196
+Explosive Properties No information available
+
+Oxidizing Properties No information available
+
+Other information
+
+ 
+
+ 
+
+10. STABILITY AND REACTIVITY
+
+ 
+
+Reactivity
+No dangerous reaction known under conditions of normal use. Keep away from oxidizing agents and strongly acid or alkaline
+
+materials.
+
+Chemical Stability
+Stable under recommended storage conditions.
+
+Possibility of Hazardous Reactions
+None under normal processing.
+
+ 
+
+Conditions to Avoid
+Extremes of temperature and direct sunlight.
+
+ 
+
+Incompatible Materials
+No information available.
+
+Hazardous Decomposition Products
+None known based on information supplied.
+
+ 
+
+ 
+
+11. TOXICOLOGICAL INFORMATION
+
+ 
+
+Information on Iikelv routes of exposure
+
+ 
+
+Product Information Product does not present an acute toxicity hazard based on known information
+Inhalation No data available.
+Eye Contact No data available.
+Skin Contact No data available.
+Ingestion No data available.
+
+Numerical measures of toxicity - Product Information
+
+ 
+
+The following values are calculated based on chapter 3.1 of the GHS document .
+Oral LD50 >5000 mg/kg
+Dermal LD50 No data available
+
+ 
+
+12. ECOLOGICAL INFORMATION
+
+ 
+
+ 
+
+Flavors SDS US OSHA GHS Page 4/ 6Ecotoxicity
+None known
+
+Persistence/Degradabilitv
+No information available.
+
+ 
+
+Bioaccumulation/ Accumulation
+No information available.
+
+ 
+
+Other adverse effects
+No information available
+
+ 
+
+ 
+
+13. DISPOSAL CONSIDERATIONS
+
+ 
+
+Waste treatment methods
+
+ 
+
+Waste Disposal Method Dispose of in accordance with local regulations.
+
+Contaminated Packaging Do not re-use empty containers.
+
+ 
+
+14. TRANSPORT INFORMATION
+
+ 
+
+m Not regulated
+IMDG/IMO Not regulated
+|ATA/|CAO Not regulated
+ADR/RID Not regulated
+
+ 
+
+15. REGULATORY INFORMATION
+
+ 
+
+USA
+
+Federal Regulations
+
+ 
+
+SARA 313
+
+Section 313 of Title III of the Superfund Amendments and Reauthorization Act of 1986 (SARA). This product does not
+contain any chemicals which are subject to the reporting requirements of the Act and Title 40 of the Code of Federal
+Regulations, Part 372
+
+State Regulations
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+California Proposition 65 This product contains the following Proposition 65 chemicals:
+Component CAS No California Prop. 65
+Pulegone 89-82—7 Listed.
+Eugenyl methyl ether 93-15-2 Listed.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Please note this may include naturally occurring and/or directly added substances. Please contact our Regulatory Department if further information
+is needed.
+
+ 
+
+Flavors SDS US OSHA GHS Page 5/ 6International Regulations
+
+ 
+
+Canada
+
+This product has been classified in accordance with the hazard criteria of the Controlled Products
+Regulations (CPR) and the MSDS contains all the information required by the CPR
+
+WHMIS Hazard Class
+Not determined
+
+ 
+
+16. OTHER INFORMATION
+
+ 
+
+Disclaimer
+
+The information provided on this SDS is correct to the best of our knowledge, information and belief at the date of its
+publication. The information given is designed only as a guide for safe handling, use, processing, storage,
+transportation, disposal and release and is not to be considered as a warranty or quality specification. The information
+relates only to the specific material designated and may not be valid for such material used in combination with any other
+material or in any process, unless specified in the text.
+
+Classification and Labelling according to the lFRA/IOFI Labelling Manual 2013.
+
+Issue Date: 29-July-2016
+End of Safety Data Sheet
+
+ 
+
+Flavors SDS US OSHA GHS Page 6/ 6

@@ -1,0 +1,673 @@
+GHS Safety Data Sheet US
+
+ACcording to Regulation HCS 2012
+
+ 
+
+This Safety Data Sheet cancels and replaces all preceding SDS for this product.
+
+ 
+
+1 IDENTIFICATION OF THE SUBSTANCE/PREPARATION AND OF THE COMPANY/UNDERTAKING
+
+1. 1 Product IdentIt" er
+
+ 
+
+599325 C , ' '
+NAT STRAWBERRY WONF
+©I Firmenich product
+
+II 1.2 Relevant identified 'UseS IQIIthe SUbsta'nce orI IIIIIXIUIG aﬁdlyusesadylsed aQthSt I
+
+Ingredient for use in products that may be ingested.
+Not for personal use in this form or concentratidn.
+Intended to be Used In the manufacture of products for consumers
+
+1.3 Details of the supplier of the safety data Sheet
+
+John Carey
+Firmenich Ilnc
+' P. O. Box 5880 -.
+_ , -Princeton- New Jersey. 08543,- USA
+‘ onh.n carey@firmenich. com
+Tel. :+1 .609. 452. 1000’;
+
+1.4 Emergency telephOne number I
+
+ 
+
+FOR INFORMATION OR IN AN EMERGENCY CALL NCEC @ +1 215 207 0061.
+
+”1! 2 HAZARDS IDENTIFICATION
+
+I I If 2.1 Classification of the substance or meture .
+
+ 
+
+I _I According to Regulation HCS 2012 . , ' II I I
+
+ 
+
+Flammable Liquid- Cat. 4 _ _ ;
+Skin SenSItIzatIon Cat 1
+
+IAddItIonal Information
+
+ 
+
+Full text of listed statements See section 16 , .
+
+I II 2. 2 Label elements
+
+ 
+
+Hazard pictoIgrams:
+
+H227I
+H317
+
+ 
+
+Revised on : 24 June 2018 /v 8.0
+
+Reference : US ' 16427499
+
+’PageI 1/9
+
+Date of printing : 11-JAN-2019
+Product : 599325 C — NAT STRAWBERRY WONFGHS Safety Data Sheet— US
+According to Regulation ~HCS 2012'
+
+This Safety Data Sheet cancels and replaces all preceding SDS for this product.
+
+ 
+
+.JSignal Word:
+
+Warning
+'4 [Hazard Statements: .
+H317 ’ ' ' '1 May cause an allergic skin reaCtion
+H227 ' Combustible liqUid ‘ ‘
+Precautionary Statements: , .
+: P210 f « Keep away from heat/sparks/open’ﬂames/hot surfaces. No smoking.
+P261 ‘ Avoid breathing mist/Vapours.
+P272 ; - Contaminated work clothing should not be allowed out of the workplace.
+P302+P352 . - IF ON SKIN. WaSh with plenty of soap and water.
+P333+P313 _ . ' ‘ If skin irritation or rash occurs: Get medical advice/attention.
+- P403+P235 ' Store In a well- ventilated place. Keep cool.
+2.3 Other hazards
+
+ 
+
+' No data available at this time.-
+
+i ' . 3 COMPOSITION/INFORMATION ON INGREDIENTS
+
+The exact percentage (concentration) of composition has been Withheld as a trade secret.
+
+3. 2 Mixture
+' Mixture of aromatic substances.
+
+Contains _
+
+>= 0. 1 < O 5%
+
+3(2h).- -Furanone, 4- Hydroxy—2, 5-Dimethyl-
+' N° CAS: 0003658- 77-3 *
+
+N.° EINECS: 222-908- -8
+
+>= 0.1 < 0.5%
+
+1 ,6,10-Dodecatrien-3-Ol, 3,7,1 1-Trimethyl-
+N° CAS :50007212-44-4
+
+N" EINECS: 230-597—5
+
+7 , .GHS CIaSSIfIcatIon
+
+ 
+
+Skin SensitiZation- Cat. 1A [H317]
+
+Eye Irritation- Cat. 2A [H31 9] , _
+
+Skin Sensitization - Cat. 18 [H317]
+
+Eye Irritation- Cat.28 [H320] '
+Environmental Hazard (acute) - Cat. 1 [H400]
+Environmental Hazard (chronic) — Cat. 1 [H410]
+
+ 
+
+Reference: US 16427499
+
+Page
+
+Revised on: 24 June 2018 l v 8.0
+Date of printing . 11-JAN— 2019
+Product : 599325 C - NAT STRAWBERRY WONFGHS Safety Data Sheet US
+AcCording to Regulation HCS 2012
+
+This Safety Data Sheet cancels and replaces all preceding SDS for this product.
+
+ 
+
+ 
+
+ 
+
+4 FIRST-AID MEASURES
+
+4. 1 Description of ﬁrst aid measures
+, . General information:~ ’ ' 3 - - 2 ‘ .
+” -' _ .’ ,‘As In all cases of potentIal p0IsonIng, Obtain medIcal adVIce Immediately
+
+ 
+
+' ridln case Of eye contact 3 3 - - . - -- ~ -~
+3 ., gln the event of Contact With the eyes IrrIgate With water for at least 15 minutes; obtaIn medIcal advice if
+irritation persists. .‘ _ 2 , _ . .
+
+-‘ in case of inhalation: . ~ '
+
+. In the event of expOSure to vapors, immediately remove from the area to a fresh air environment.
+Ilndividuals showing evidence of inhalatiOn eXposure Should be taken to an uncontamInated area. Obtain
+7' medical advice ImmedIately ‘ -
+
+-. In case of skin contact: - '
+Remove contaminated clothes. Wash skin with large volumes of Water.
+' ,.If irritation persiSts, Or any sign of tissue damage Is apparent obtain medical advice immediately.
+
+. .lncaseofingestion ' .. « ‘ , 3 ' - ' - ‘ ' . = " - '
+, _ In the event of accidental ingestiOn, rinse mouth with water. Give up to one tumbler (half pint) of milk or water.
+'._?._.Obtai.n mediCal advise immediately. ' , ' _
+Do nOt induce Vomiting, obtain medical advise immediately.
+
+4. 2 Most important symptoms and effects, both acute and delayed
+No information available on the product itself
+
+4. 3 indication of immediate medIcal attentIon and special treatment needed
+None known. ~ ~ . . . . :. .. . _. . .
+
+1 5 FIRE FIGHTING MEASURES
+
+ 
+
+5.1 Extinguishing media ' ' ‘ ' ,
+' In the event of fire, adequate extmgwshers should be used. AVOId InhalatIon of smoke and fumes. in case of ‘
+InsufFCIent ventIlatIon wear swtable respIratory eqUIpment . :r
+Use standard procedures and preferred extmgwshmg medIa as stated belowf-77'g7 ’{
+ExtIngwshIng media: Foam Carbon dioxide or dry chemIcal ‘ ‘ " '5
+
+5. 2 Special hazard arISIng from the substance or meture 23.3 7 '3
+
+5. 3 Advice for fire-fighters A
+No specific advice.
+
+ 
+
+'6 ACCIDENTAL RELEASE-MEASURES . .
+
+6.1'Personal precautions, prOtective equipment and emergency procedures
+For non—emergency personnel:
+
+ 
+
+- . Revised on : 24 June 2018 / v 8.0
+Reference : US ' 16427499 ‘ '1 Date of printing : 11-JAN-2019
+‘ I Product : 599325 C - NAT STRAWBERRY WONF
+Page 3 / 9GHS Safety Data Sheet US
+Acc0rding to Regulatioh HCS 2012
+
+This Safety Data‘Sheet cancels and replaces all preceding SDS for this product.
+
+Adequate protective gloves should be worn when handling spillages. No smoking. Avoid naked ﬂames or other
+potential sources of ignition (eg. electrical equipment).
+Avoid skin contamination and inhalation of vapour.
+
+; individual Washing routines should be fellowed after any potential ContaCt
+
+.ﬁ Ensure adequate ventilation In workIng areas following accidental releases.
+
+' For emergency personnel: , - ‘ '
+Apply the same recommendations as sectIon 6.1
+
+6. 2 Environmental precautions '
+Do not discharge directly into drains, air, into soil or into the aquatic environment
+
+6 3 Methods and material for contaInment and cleaning up
+For containment: ,
+Small spills can be wiped up with a cloth or paper. Standard absOrbents can be used (saw dust, sand,
+
+vermiculite). Wear rubber gloves. Avoid Contact with skin. If skin contact occurs, wash liberally with soap and
+‘ Water
+
+For cleaning- up:
+Spillages should be disposed cf In accordance with GoVemmental Regulations
+
+,7 HANDLING AND STORAGE
+
+7.1 PrecautiOns for safe handling
+Avoid contact with skin and eyes. ~
+‘Wear adequate protective gloVes protection and eye/face protection.
+No Smoking. Avoid any sources of ignition.
+, ‘ Avoid exposing to high temperature during processing. - ' ‘ '
+. 'Do not ingest or apply to the skin as Such. Good personal washing routines should be followed
+Maintain adequate local and general ventIlatIon Where prOduct Is handled.
+
+Protective measures
+
+Keep strict control of dust accumUIation to a minimum. Maintain adequate local and general ventilation Where
+product Is handled. Avoid any sources of IgnItIon ~ - ~
+
+Advice on general occupatIonal hygIene . “ '
+Godd personal Washing routines should be followed
+
+,7. 2 Conditions for safe Storage including any inCompatibilities
+
+It Is gOOd general practice to store in closed preferably fUll contaIners away from heat Sources and protected
+from eXtremes of temperature. Do not reuse the empty container
+Respect generals rules for compatibility storage '
+
+7.,3_Speciﬁc end use(s)
+Not available at this time.
+
+8‘EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+8.1 Control parameters
+
+ 
+
+Revised on : 24 June 2018/ v 8.0
+Reference : US - 16427499 ' Date of printing : 11—JAN-2019
+Product : 599325 C - NAT STRAWBERRY WONF
+Page 4 / 9GHS Safety Data Sheet US
+Acc0rding to Regulation HCS 2012 '
+
+This Safety Data Sheet cancels and replaces all preceding SDS for this product.
+
+ 
+
+ 
+
+‘ .8. 2 Exposure contrOIs * ,
+. K' ' AVOId eXposing to high temperature during processing . . < . '
+‘ : g MaIntaIn adequate local and general ventilation where product Is handled
+
+ 
+
+{ ‘ '. Appropnate engineering Centrols _ _ .
+' Maintain adeCIUate local and general ventIlatIon where product Is handled and dispensed
+
+ 
+
+Environmental exposure controls
+Not avaIIable at this time. Minimize release to the enVIronment
+
+ 
+
+' Personal protectIon , * .
+Respiratory protection: Breathing of the vapors or dust particles may be hazardous. In the absence 0f
+appropriate engineering controls such as spot ventilation, ventilated enclosures, etc., workers should avail
+themselves of the appropriate NIOSH approved respiratory protection.
+
+' 7 Hand protection: Adequate Protective Gloves ShOUId be warn.
+. Eye protection: Adequate safety glasses should be used. _ - '
+
+7 Skin protection: Wear protective clothing, Overall it necessary to limit the odour contamination of personal
+
+cIOthing. Individual washing routines should be followed after any potentIal contact. ,
+
+ 
+
+9 PHYSICAL AND CHEMICAL PROPERTIES
+9.1 lnfOrmation on basic physical and chemical properties
+
+Appearance:_. i ; L ,’ -cLEARTo SLIGHTLYCLOUDY LIQUID
+
+I ‘ Colour; , , ., * ‘ ' _. COLOURLESS TO VERY PALE YELLOW‘
+Odour f ;_ _' , . ‘ ‘ 1' Characteristic strong odour accOrding to the
+
+1 IicommerCIal deScription of the Substance .
+
+pH , , - ' . ‘ ' ‘ :' 8‘ i'v'Not avaIIabIe K
+
+ 
+
+, Melting point/range(° C) , ' ~ ' ‘ _ 8 Not available
+Initial b0IIIng pomt/range(°C) ' ' ~. - . ' ' YpNot available _ '
+_ : Flash pomt (closed cup) {.9 ' " ' f — 190 FahrenheIt( 88 CentIgrade)
+EvaporatIon rate: 7 » ijot; avaIlabIe -
+" ~FlammabIIIty(soIId/gas) ' ‘ ” 3 ' » .i-F'NotappIIcabIe
+‘ Upper/Iower flammability or explosive limits: ,, .. N/A .
+1 -::-’ Vapor pressure (At 20°C In mm Hg ) A 7 I
+I . Calculated vapor pressure (At 20° C In mm Hg): ' - ' "I? . ,7 0.3‘if ;
+TVapOUr denSity: ' « V ' ' a NOt‘av'ailable ‘
+RelatIVe density (d 20/20) : I . 1.028 8'.— 1.048,
+Water solubility (20°C) : Not applicable
+Partition coef. (n- octanoI/water): , . . Not applicable
+' AutO—ignition temperature (°C):- I _ _ - Not available
+. Decemposrtion temperature: . ' 1 Not avaIIable
+Viscosity: ‘ ‘ Not available
+Explosive properties : ' Not available
+Oxidizing properties : ' Not available
+
+ 
+
+Revised on :24 June 2018 l v 8.0
+Reference : US 16427499 _ Date of printing : 11-JAN-2019
+«- ’ Product : 599325 C - NAT STRAWBERRY WONF
+
+Page, 5 /9.GHS Safety Data Sheet— US
+’ - According to RegUIation HCS 2012 ’
+
+_ This Safety Data Sheet cancels and replaces all preceding SDS for this product.
+
+ 
+
+ 
+
+9. 2 Other safety information
+None
+
+ 
+
+‘ . 11.110 STABILITY AND REACTIVITY
+
+V 101 Reactivit - " "
+. —. No reaction anWn With water .
+
+10. 2 Chemical stability ~ ‘
+Presents no significant reactivity hazard. Normally stable even at elevated temperatures and pressures. Avoid
+temperatures above or near to the flash point. Not pyrophoric nor reactive with Water. Does not undergo
+' exploSive decomposmon is shock Stable, and is not an oxygen donor. Does not- ferm explosive miXtUres With
+other organic materials. Will not undergo hazardOus exothermic polymerization. .
+
+ 
+
+10.3 Possibility of hazardous reactiOns
+Not knoWn.
+
+ 
+
+10. 4 Conditions to avOid _ .
+Avoid temperatures above or at least 5 °C below flash point for any flammable liquids
+Do not heat closed containers. 3» I » . - .
+Avoid contact With oxidizing agents
+
+ 
+
+10.5 Incompatible materials ‘ '
+Avoid strong oxidizing agents.
+
+ 
+
+_~;10 6 HaZardous decomposmon products . » ._ ,_
+' Contact with water or storage Under recommended conditions for one year should not produce dangerous '
+decomposrtion products . ~ - ~ . . ~ _. , .
+
+ 
+
+ 
+
+11 TOXICOLOGICAL INFORMATION
+
+11. 1 Information on toxucological effects
+
+ 
+
+This mixtUre has not been subjected to tOXIcological testing as an entity According to available data on the
+constituents the health classﬁ'catron criteria are" met > » . . .
+
+; (a) acute toxmity 7"; _ _ .r .'
+, . _ Calculated LD5O Oral: L050 5 ZQQQm-g/kg bw . .. . ,
+
+(b) skin corrosion/irritation
+Not applicable
+
+(c)kserious eye damage/irritation 3
+Not applicable
+
+(d) respiratory or skin sensitisation
+
+ 
+
+. . Revised on :24 June 2018 / v 8.0
+Reference : US 16427499 , - ' ' Date of. printing : 11-JAN-2019
+Product : 599325 C - NAT STRAWBERRY WONF
+
+Page 6 / 9' mh
+GHS Safety Data Sheet- US
+According to Regulation HCS 2012 »
+
+This Safety Data Sheet cancels and replaces all preceding SDS for this product.
+
+ 
+
+ 
+
+ 
+
+Skin Sensitization - Cat. 1
+
+(e) germ cell mutagenicity
+- Not applIcable ‘
+
+k, _ (t) carCInogenICIty
+'iNOt applIcable
+
+, '(Q) reproductive toxicity , 2‘ 2
+Z Not applicable
+
+_-(h) STOT—single exposure
+Not applicable
+
+(i) STOT-repeated exposure;
+Not applicable
+
+0) aspiration hazard 2
+» Not applicable
+
+12’ ECOLOGICAL INFORMATION ‘
+This mixture has not‘b'een subjected to ecotoxicologiCal testing as art-entity. According to available data on the
+constituents the environmental classification criteria are not met.
+, 12.1'ToXicity '
+' Not applicable
+
+‘7 12. 2 PersistenCe and degradability
+No data ayailable _'
+
+12. 3 Bioaccumulative potential
+Lug-No data available .
+
+12 4 MobIlIty In soil
+" ' No data available
+
+., f 1'12. 5 Results of PET and vPvB aSSeSssment .
+' f' aNOt applicable ,
+
+12.6 Other adverse effects ,
+No data available
+
+13 DISPOSAL CONSIDERATIONS _
+
+I 13.1 Waste treatment methods
+
+ 
+
+- Revised on :24 June 2018 / v 8.0
+Reference : US ' 16427499 2 Date of printing : 11—JAN-2019
+PrOdUCt 2 599325 C - NAT STRAWBERRY WONF
+Page 7 / 9GHS Safety Data Sheet US 
+
+Ac'COrding to Regulation HCS 2012
+
+ 
+
+ThisSafety Data Sheet cancels and replaces all preceding SDS for this product.
+
+ 
+
+Product. The product should be handled according to the instructions given under sections 6, 7 and 8 Dispose
+of according to local or national regulations. The product should not be allowed to enter drains or the
+
+environment.
+
+, Contaminated packaging: Empty packaging should be disposed according to local or national regulations by
+
+' 'l‘fan approved waste handling
+
+14 TRANSPORT INFORMATION
+
+‘ _ in case of a‘CCidental spillage or fire duting transport, refer to instructions given under points 5,6 7 and 8
+
+above.
+
+UN- No: ,
+
+Proper Shipping Name:
+Class. .
+Packing Group;
+
+Land transport (ADR/RID)
+
+ 
+
+‘ UN— No
+' Proper Shipping Name:
+Class:
+
+I I Packing group:
+
+ 
+
+UN No _.
+“Proper Shipping Name m
+
+sea trarispori (lMDG-Code)
+
+Class.
+
+.-_'_Packing group: »
+
+Air transport (ICAO lATA)
+
+ 
+
+UN No
+Proper Shipping Name
+Class. ‘
+
+, . Packing group.
+
+i A Not regulated
+*N/A '
+
+th regulated . ‘
+
+NIA.
+
+I 1 "Not regulated
+
+15 REGULATORY INFORMATION
+
+I Not regulated~=
+N/A > =
+
+15 1 Safety, health and enVironmental regulations/legislation specific for the substance or mixture.
+
+This mixture contains no toxic chemical or chemicals subject to reporting requirements of Section 313 of Title
+III of the SUperfund Amendements and Reauthorization Act of 1986 and 29 CFR Part 19101200.
+
+15.2 Chemical Safety Assessment
+
+ 
+
+No data available at this time.
+
+ 
+
+Reference : US
+
+1 6427499
+
+Page
+
+8
+
+/9
+
+Revised on : 24 June 2018/ v 8.0
+Date of printing : 11—JAN—2019
+Product : 599325 C - NAT STRAWBERRY WONF. rmimch
+GHS Safety Data Sheet US
+
+According to Regulation H08 2012
+
+This Safety Data Sheet cancels and replaces all preceding SDS for this product.
+
+ 
+
+ 
+
+ 
+
+16 OTHER INFORMATION
+
+ 
+
+Revisions
+Jun-2018: Version8.0- Updates to sectionSZ, 8, 9, 11,- 12
+
+ 
+
+‘ Key literature references
+‘ RIFM database
+"OECD SiDS
+’ EU lUCLlD
+Supplier information
+
+ 
+
+Full teXt-of phrases used under seCtion 2
+
+1 H227 Combustible liquid
+
+H317 May cause an allergic skin reaction.
+P210 4 Keep away from heat/sparks/open'ﬂames/hot surfaces. 'Novsmoking.
+. P261 , Avoid breathing dUst/fume/gas/mist/vapours/spray. '
+P272 ; CO‘ntaminated wOrk clothing should not be allOWed out of the workplace.
+P280 ' _ ‘ Wear protective gloves/protective clothing/eye protection/face protection.
+P302+P352 ,, lF ON SKlN: Wash with plenty of soap and water.
+' P333+P313 ‘ lf skin irritatidn or rash occurs: Get medical advice/attention.
+P370+P378 ~In case of fire: Use appropriate fire extinguishers for ﬁre control.
+P363 Wash COntaminated clothing before reuse.
+
+P403+P235 - Store In a well-ventilated place [Keep Cool.
+
+Full text of phrases used under section 3
+
+ 
+
+H317 I May cause an allergic skin reaction.
+
+H400 » . . Very toxic to aquatic life
+H410 very toxic to aquatic life with long lasting effects.
+
+» . We believe that the information contained herein Is current as of the date of this Safety Data Sheet.
+. . Since the use of this information and the Conditions ‘of use of the product are net Within the Control of
+" z 7 Firmenich, it Is the user‘ 5 obllgatlon to determine condItIons of safe use of the product
+
+information contained in this document and related material is proprietary to Firmenich. Disclosure to
+third parties without the prior written consent of Firmenich except where required by applicable laws .
+and regulations and/or reverse engineering are strictly prohibited. .
+
+ 
+
+. Revised on : 24 June 2018 Iv 8.0
+Reference : US 16427499 ~ Date of printing : 11-JAN-2019
+Product : 599325 C - NAT STRAWBERRY WONF
+
+Page 9 / 9

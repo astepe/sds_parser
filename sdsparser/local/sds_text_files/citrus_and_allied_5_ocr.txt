@@ -1,0 +1,1078 @@
+’C SAFETY DATA SHEET.
+
+Version 1
+
+ 
+
+1. IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMPANY/UNDERTAKING
+
+1.1 Product identifier
+Number 150342-P
+EC-No
+Manufacturer C & A Service Inc. as agents for
+
+Citrus and Allied Essences, Ltd
+
+4620 Mercedes Drive
+
+Belcamp, MD 21017
+
+(410) 273-9500
+Product name 180000754 FL FLA SYS LEM JUICE CARBONYLS 17F19LEC
+Pure substance/mixture Natural Complex Substance
+
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+
+ 
+
+Recommended Use No information available
+
+1.3 Details of the supplier of the safety data sheet
+
+ 
+
+For further information, please contact:
+
+ 
+
+E-mail Address ekleinman@candaserviceinc.com
+
+1.4 Emergency telephone number
+
+ 
+
+Emergency telephone Chemtrec: 1-800—424-9300 for US/ 703-527-3887 outside US
+
+ 
+
+2. HAZARDS IDENTIFICATION
+
+ 
+
+2.1 Classification of the substance or mixture
+oral to
+n corrosion/irritation
+irritation
+
+n sensitization
+ronic uatic t
+
+ 
+
+Classification according to EU Directives 67/548/EEC or 1999/45/EC
+For the full text of the Ft-phrases mentioned in this Section, see Section 16
+
+Symbol(s)
+Xn - Harmful
+
+R-code(s)
+Xn;R22 - Xi;R38 - R43 — R52-53
+
+ 
+
+Page 1/10150342-P N/A 180000754 FL FLA SYS LEM JUICE
+CARBONYLS 17F19LEC
+
+Revision Date 11-May-2012
+
+ 
+
+2.2 Label elements
+
+Signal Word
+Warning
+
+H226 — Flammable liquid and vapor H227 - Combustible liquid
+
+Precautionary Statements
+
+P280 - Wear eye protection/ face protection
+
+P321 - Specific treatment (see .? on this label)
+
+P403 + P235 - Store in a well-ventilated place. Keep cool
+
+ 
+
+P370 + P378 - In case of fire: Use dry sand, dry chemical or alcohol-resistant foam for extinction
+P210 - Keep away from heat/sparks/open flames/hot surfaces. - No smoking
+P280 - Wear protective gloves/ eye protection/ face protection
+
+2.3 Other information
+
+ 
+
+ 
+
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+
+ 
+
+3.1 Substances
+
+ 
+
+ 
+
+Chemical Name EC-No CAS-No Alternate
+CAS#
+
+Weight %
+
+Classificatio
+n (67/548)
+
+Classification (Reg.
+1272/2008)
+
+REACH
+Registration
+Number
+
+ 
+
+GERANIAL 205-476-5 141 —27—5
+
+20—30%
+
+Aquatic Acute 2 (H401)
+(EFFA) Skin Sens. 1
+(H317) (EFFA) Skin lrrit. 2
+(315) (EFFA) Acute Tox. 5
+(H303)(EFFA) Acute Tox. 5
+(H313)(EFFA) Flam. Liq. 4
+(H227)(EFFA)
+
+no data available
+
+ 
+
+NERAL 226—394-6 5392-40-5
+
+10-15%
+
+Xi; R38
+R43
+
+Aquatic Acute 2 (H401)
+(EFFA) Skin Sens. 1
+(H317) (EFFA) Skin lrrit. 2
+(315) (EFFA) Acute Tox. 5
+(H303)(EFFA) Acute Tox. 5
+(H313)(EFFA) Flam. Liq. 4
+(H227)(EFFA)
+Aquatic Acute 2 (H401)
+Skin Sens. 1 (H317) Skin
+lrrit. 2 (H315) Acute Tox. 5
+(H303) Acute Tox. 5
+(H313)
+
+Skin lrrit. 2 (H315)
+Skin Sens. 1 (H317)
+
+no data available
+
+ 
+
+A-TERPINEOL 202-680-6 98-55—5
+
+5-10%
+
+XI; R38
+
+Eye lrrit. 1 (H319)
+Skin lrrit. 2 (H316)
+Acute Tox. 5 (H303)
+Flam. Liq. 4 (H227)
+
+no data available
+
+ 
+
+BETA BISABOLENE - 495—61—4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5—10%
+
+ 
+
+ 
+
+Skin Sens. 1 (H317)
+(EFFA) Skin lrrit. 2 (315)
+(EFFA) Asp. Tox. 1 (H304)
+(EFFA)
+
+ 
+
+no data available
+
+ 
+
+ 
+
+ 
+
+Page 2/10150342-P N/A 180000754 FL FLA SYS LEM JUICE
+
+CARBONYLS 17F19LEC
+
+Revision Date 11-May-2012
+
+ 
+
+TERPINEN-4—OL
+
+209-235-5
+
+562-74—3
+
+5-10%
+
+XN; R22, XI;
+R38
+
+Aquatic Acute 3 (H402)
+Eye Irrit. 1 (H319)
+Skin Irrit. 2 (H316)
+
+Acute Tox. 4 (H302)
+Flam. Liq. 4 (H227)
+
+no data available
+
+ 
+
+GERANYL ACETATE
+
+203-341-5
+
+105-87-3
+
+1—5%
+
+N; R51/53;
+
+Aquatic Acute 2 (H401)
+Skin Irrit. 3 (H316)
+Aquatic Chronic 2 (H411)
+
+no data available
+
+ 
+
+LIMONENE
+
+ 
+
+ 
+
+227-813—5
+
+5989-27-5
+
+1-5°/o
+
+R10, XI; R38,
+XI; R43, N;
+R50/53;
+
+Aquatic Acute 1 (H400)
+Skin Sens. 1 (H317)
+Skin Irrit. 2 (H316)
+
+no data available
+
+ 
+
+Asp. Tox. 1 (H304)
+Aquatic Chronic 1 (H410)
+Flam. Liq. 3 (H226)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For the full text of the R-phrases mentioned in this Section, see Section 16
+
+ 
+
+ 
+
+4. FIRST AID MEASURES
+
+ 
+
+4.1 Description of first-aid measures
+
+ 
+
+General advice
+
+Eye contact
+
+Skin contact
+
+Ingestion
+
+Inhalation
+
+Protection of First-aiders
+
+If symptoms persist, call a physician Do not breathe dust/fume/gas/mist/vapors/spray Do
+not get in eyes, on skin, or on clothing
+
+Immediately flush with plenty of water. After initial flushing, remove any contact lenses and
+continue flushing for at least 15 minutes Keep eye wide open while rinsing If symptoms
+persist, call a physician
+
+Wash off immediately with soap and plenty of water while removing all contaminated
+clothes and shoes. Consult a physician if necessary. Remove and wash contaminated
+clothing before re-use. Wash off immediately with plenty of water. If skin irritation persists,
+call a physician. Wash off immediately with soap and plenty of water. Immediate medical
+attention is not required.
+
+Do NOT induce vomiting. Drink plenty of water. If symptoms persist, call a physician. Rinse
+mouth. Clean mouth with water and drink afterwards plenty of water. Never give anything by
+mouth to an unconscious person. Consult a physician.
+
+Move to fresh air. If breathing is irregular or stopped, administer artificial respiration. Avoid
+direct contact with skin. Use barrier to give mouth-to-mouth resuscitation. Consult a
+physician. Immediate medical attention is not required. Move to fresh air in case of
+accidental inhalation of vapors. If symptoms persist, call a physician. Move to fresh air in
+case of accidental inhalation of vapors or decomposition products.
+
+Use personal protective equipment
+
+4.2 Most important symptoms and effects, both acute and delayed
+
+ 
+
+4.3 Indication of any immediate medical attention and special treatment needed
+
+ 
+
+Notes to physician Treat symptomatically May cause sensitization of susceptible persons
+
+ 
+
+5. FIRE-FIGHTING MEASURES
+
+ 
+
+5.1 Extinguishing media
+
+ 
+
+Suitable Extinguishing Media
+Use: Dry chemical Carbon dioxide C02 Water spray Alcohol-resistant foam
+
+ 
+
+Page 3/10150342-P N/A 180000754 FL FLA SYS LEM JUICE Revision Date 11-May-2012
+CARBONYLS 17F19LEC
+
+ 
+
+Extinguishing media which shall not be used for safety reasons
+No information available
+
+5.2 Special hazards arising from the substance or mixture
+
+ 
+
+Special Hazard
+None
+
+5.3 Advice for firefighters
+
+ 
+
+Special protective equipment for fire-fighters
+As in any fire, wear self-contained breathing apparatus and full protective gear
+
+ 
+
+6. ACCIDENTAL RELEASE MEASURES
+
+ 
+
+6.1 Personal precautions, protective equipment and emergency procedures
+
+ 
+
+Evacuate personnel to safe areas. Remove all sources of ignition. Ensure adequate ventilation. Keep people away from and
+upwind of spill/leak. Pay attention to flashback. Take precautionary measures against static discharges. Use personal protective
+equipment. Avoid contact with skin, eyes and clothing.
+
+See Section 12 for additional Ecological Information
+
+6.2 Environmental precautions
+
+ 
+
+Prevent entry into waterways, sewers, basements or confined areas. Do not flush into surface water or sanitary sewer system.
+Prevent further leakage or spillage if safe to do so. Prevent product from entering drains.
+
+6.3 Methods and materials for containment and cleaning up
+
+ 
+
+Soak up with inert absorbent material (e.g. sand, silica gel, acid binder, universal binder, sawdust)
+
+ 
+
+7. HANDLING AND STORAGE
+
+ 
+
+7.1 Precautions for safe handling
+
+Wear personal protective equipment. Do not breathe vapors or spray mist. Avoid contact with skin, eyes and clothing. Remove and
+wash contaminated clothing before re-use. Do not eat, drink or smoke when using this product. Use only in area provided with
+appropriate exhaust ventilation. To avoid ignition of vapors by static electricity discharge, all metal parts of the equipment must be
+grounded. Keep away from heat, sparks and open flame. No smoking. Take necessary action to avoid static electricity discharge
+(which might cause ignition of organic vapors).
+
+ 
+
+7.2 Conditions for safe storage, including any incompatibilities
+
+ 
+
+Keep container tightly closed in a dry and well-ventilated place. Keep out of the reach of children. Keep containers tightly closed in
+a cool, well-ventilated place. Keep in properly labeled containers. Keep away from heat.
+
+7.3 Specific end uses
+
+ 
+
+Exposure scenario N/A
+
+Other Guidelines N/A
+
+ 
+
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+ 
+
+8.1 Control parameters
+
+ 
+
+ 
+
+Page 4/10150342-P N/A 180000754 FL FLA SYS LEM JUICE Revision Date 11—May-2012
+
+CARBONYLS 17F19LEC
+
+ 
+
+Exposure limits
+
+This product, as supplied, does not contain any hazardous materials with occupational
+exposure limits established by the region specific regulatory bodies.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chemical Name European Union The United Kingdom France Spain Germany
+LIMONENE MAK: 20 ppm MAK:
+5989-27-5 110 mg/m3
+Ceiling / Peak: 40 ppm
+Ceiling / Peak: 220
+mg/m3
+TWA: 20 ppm TWA:
+1 10 mg/m3
+Chemical Name Italy Portugal The Netherlands Finland Denmark
+LIMONENE TWA: 25 ppm TWA:
+5989-27-5 140 mg/m3
+STEL: 50 ppm STEL:
+280 mg/m3
+Chemical Name Austria Sweden - Switzerland Poland Norway LlMOl\
+Occupational 5989-
+Exposure Limits -
+TLVs (LLVs)
+STEL: 40 ppm STEL: TWA: 25 ppm TWA:
+220 mg/m3 140 mg/m3
+MAK: 20 ppm MAK: STEL: 37.5 ppm
+110 mg/m3 STEL: 175 mg/m3
+
+ 
+
+Derived No Effect Level (DNEL)
+
+Predicted No Effect Concentration
+(PN EC)
+
+8.2 Exposure controls
+
+ 
+
+Engineering Measures
+
+Personal protective equipment
+Eye Protection
+Hand Protection
+Skin and body protection
+
+Respiratory protection
+
+Hygiene measures
+
+Environmental Exposure Controls
+
+No information available
+
+No information available
+
+Ensure adequate ventilation, especially in confined areas
+
+Tightly fitting safety goggles
+
+Protective gloves
+
+Antistatic boots Impervious gloves Wear fire/ flame resistant/ retardant clothing Long
+sleeved clothing Chemical resistant apron Lightweight protective clothing Apron
+
+No special protective equipment required
+
+When using, do not eat, drink or smoke Provide regular cleaning of equipment, work area
+and clothing
+
+Do not allow material to contaminate ground water system
+
+ 
+
+Page 5/10150342-P N/A 180000754 FL FLA SYS LEM JUICE
+CARBONYLS 17F19LEC
+
+Revision Date 11-May-2012
+
+ 
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+ 
+
+9.1 Information on basic physical and chemical properties
+
+ 
+
+Physical state liquid
+
+Odor Lemon
+
+Property Values
+pH
+
+Melting/freezing point
+
+Boiling point/boiling range
+
+Flash Point
+
+Evaporation rate
+
+Flammability (solid, gas)
+
+Flammability Limits in Air
+upper flammability limit
+lower flammability limit
+
+Vapor pressure mm Hg 20°C
+
+Vapor density
+
+Relative density
+
+Specific Gravity @ 250
+
+Specific Gravity @ 200 0.891 - 0.907
+
+Refractive Index 1.4760 - 1.4860
+
+Water solubility
+
+Partition coefficient: n-octanoI/water
+
+Autoignition temperature
+
+Decomposition temperature
+
+Viscosity, dynamic
+
+93 °C / 200 °F
+
+0.8880
+
+No information available
+No information available
+
+Explosive properties
+Oxidizing Properties
+
+9.2 Other information
+VOC Content(%) 1
+Molecular Weight No information available
+
+ 
+
+Appearance
+Color
+
+Methods
+
+No information available
+
+No information available
+FCC Method
+
+Closed cup
+FCC Method
+
+No information available
+No information available
+
+No information available
+No information available
+No information available
+
+- 0.9040 FCC Method
+
+FCC Method
+
+FCC Method
+
+No information available
+No information available
+No information available
+No information available
+No information available
+
+liquid
+straw yellow to
+yellowish-orange
+
+ 
+
+10. STABILITY AND REACTIVITY
+
+ 
+
+10.1 Reactivity
+
+10.2 Chemical stability
+
+ 
+
+Stable under normal conditions
+
+10.3 Possibility of hazardous reactions
+
+ 
+
+10.4 Conditions to Avoid
+
+ 
+
+Heat, flames and sparks
+
+10.5 Incompatible Materials
+
+ 
+
+No materials to be especially mentioned
+
+10.6 Hazardous Decomposition Products
+
+ 
+
+None under normal use conditions
+
+ 
+
+Page 6/10150342-P N/A 180000754 FL FLA SYS LEM JUICE
+
+CARBONYLS 17F19LEC
+
+Revision Date 11-May—2012
+
+ 
+
+ 
+
+11. TOXICOLOGICAL INFORMATION
+
+ 
+
+11.1 Information on toxicological effects
+
+ 
+
+Acute toxicity
+Product Information
+Inhalation
+
+Eye contact
+
+Skin contact
+Ingestion
+
+Acute toxicity
+
+The following values are calculated based on chapter 3.1 of the GHS document (Rev. 1, 2005):
+
+Oral
+Dermal
+
+Product does not present an acute toxicity hazard based on known or supplied information.
+
+There is no data available for this product
+
+There is no data available for this product
+
+There is no data available for this product
+
+There is no data available for this product
+
+7.5% of the mixture consists of ingredient(s) of unknown toxicity
+
+1,024.76 mg/kg
+2,426.90 mg/kg
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chemical Name LD50 Oral LD50 Dermal LC50 Inhalation
+GERANIAL 500 mg/kg ( Rat )
+NERAL 4950 mg/kg ( Rat ) 2000 mg/kg ( Rat) 2250 mg/kg (
+Rabbit )
+A-TERPINEOL 5170 mg/kg (Rat)
+TERPINEN-4-OL 1300 mg/kg (Rat) 2500 mg/kg (Rabbit)
+GERANYL ACETATE 6330 mg/kg ( Rat )
+LIMONENE 4400 mg/kg (Rat) 2000 mg/kg (Rabbit)
+
+ 
+
+ 
+
+ 
+
+Skin corrosion/irritation
+Eye damage/irritation
+Sensitization
+
+Germ Cell Mutagenicity
+Carcinogenicity
+
+Specific target organ systemic
+toxicity (single exposure)
+
+Specific target organ systemic
+toxicity (repeated exposure)
+
+Target Organ Effects
+
+Aspiration hazard
+
+No information available
+No information available
+No information available
+No information available
+No information available
+
+No information available
+
+No information available
+
+No information available
+
+No information available
+
+ 
+
+12. ECOLOGICAL INFORMATION
+
+ 
+
+12.1 Toxicity
+
+ 
+
+Page 7/10150342-P N/A 180000754 FL FLA SYS LEM JUICE Revision Date 11-May-2012
+CARBONYLS 17F19LEC
+
+ 
+
+Ecotoxicity effects Harmful to aquatic organisms, may cause long-term adverse effects in the aquatic
+environment.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chemical Name Toxicity to algae Toxicity to fish Toxicity to daphnia and other
+aquatic invertebrates
+NERAL 16: 72 h Desmodesmus subspicatus 46-10: 96 h Leuciscus idus mg/L 7: 48 h Daphnia magna mg/L E050
+mgA.ECSO19:96ifDesmodesmus LCSOsKHm
+subspmaumrngﬂ.E050
+LIMONENE 0.619—0.796: 96 h Pimephales
+promelas mg/L L050 flow-through
+35: 96 h Oncorhynchus mykiss
+mgﬂ_LC50
+12.2 Persistence and degradability
+No information available
+12.3 Bioaccumulative potential
+No information available
+Chemical Name log Pow
+NERAL 2.76
+
+ 
+
+ 
+
+ 
+
+ 
+
+12.4 Mobility in soil
+
+ 
+
+No information available
+
+12.5 Results of PBT and vPvB assessment
+
+ 
+
+12.6 Other adverse effects
+
+ 
+
+ 
+
+13. DISPOSAL CONSIDERATIONS
+
+ 
+
+13.1 Waste treatment methods
+
+ 
+
+Waste from residues / unused Dispose of in accordance with local regulations
+
+products
+
+Contaminated packaging Empty containers should be taken to an approved waste handling site for recycling or
+disposal
+
+Other information According to the European Waste Catalogue, Waste Codes are not product specific, but
+
+application specific Waste codes should be assigned by the user based on the application
+for which the product was used
+
+ 
+
+14. TRANSPORT INFORMATION |
+
+ 
+
+IMDG / IMO
+Proper shipping name ENVIRONMENTALLY HAZARDOUS SUBSTANCE, N.O.S. (NERAL, LIMONENE)
+Hazard class 9
+UN/ID No 3082
+Packing Group III
+Marine pollutant This product contains a chemical which is listed as a marine pollutant according to
+
+IMDG/IMO
+
+ 
+
+Page 8/10150342-P N/A 180000754 FL FLA SYS LEM JUICE Revision Date 11-May-2012
+CARBONYLS 17F19LEC
+
+ 
+
+ICAO/IATA Not regulated
+
+ 
+
+15. REGULATORY INFORMATION
+
+ 
+
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+
+International Inventories
+
+All of the components in the product are on the following Inventory lists: No information available, United States of America
+(TSCA), Canada (DSL/NDSL), Europe (ElNECS/ELINCS/NLP), Australia (AICS), Korea (ECL), China (IECSC), Japan (ENCS),
+Philippines (PICCS).
+
+ 
+
+TSCA -
+EINECS/ELINCS -
+DSL/NDSL -
+PICCS -
+ENCS -
+IECSC -
+AICS -
+KECL -
+
+Legend
+
+TSCA - United States Toxic Substances Control Act Section 8(b) Inventory
+
+ElNECS/ELINCS - European Inventory of Existing Commercial Chemical Substances/EU List of Notified Chemical Substances
+DSL/NDSL - Canadian Domestic Substances List/Non—Domestic Substances List
+
+PICCS - Philippines Inventory of Chemicals and Chemical Substances
+
+ENCS - Japan Existing and New Chemical Substances
+
+IECSC - China Inventory of Existing Chemical Substances
+
+AICS - Australian Inventory of Chemical Substances
+
+KECL - Korean Existing and Evaluated Chemical Substances
+
+15.2 Chemical Safety Assessment
+
+ 
+
+ 
+
+16. OTHER INFORMATION
+
+ 
+
+Risk Combination Phrases
+
+R51/53 - Toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment
+R50/53 - Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment
+R52/53 - Harmful to aquatic organisms, may cause long-term adverse effects in the aquatic environment
+
+Full text of H-Statements referred to under sections 2 and 3
+
+H401 — Toxic to aquatic life H316 — Causes mild skin irritation H411 - Toxic to aquatic life with long lasting effects H317 - May cause an allergic skin
+reaction H303 - May be harmful if swallowed H313 - May be harmful in contact with skin H227 — Combustible liquid H304 - May be fatal if swallowed
+and enters airways H315 - Causes skin irritation H402 - Harmful to aquatic life H319 — Causes serious eye irritation H302 - Harmful if swallowed
+H400 — Very toxic to aquatic life H410 — Very toxic to aquatic life with long lasting effects H226 - Flammable liquid and vapor
+
+Revision Date 11-May-2012
+Revision Note not applicable.
+
+This material safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006.
+
+ 
+
+Page 9/10150342-P N/A 180000754 FL FLA SYS LEM JUICE Revision Date 11-May-2012
+CARBONYLS 17F19LEC
+
+ 
+
+Disclaimer
+
+The information provided on this SDS is correct to the best of our knowledge, information and belief at the date of its
+publication. The information given is designed only as a guide for safe handling, use, processing, storage,
+transportation, disposal and release and is not to be considered as a warranty or quality specification. The information
+relates only to the specific material designated and may not be valid for such material used in combination with any other
+material or in any process, unless specified in the text.
+
+ 
+
+Page 10/10

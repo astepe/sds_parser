@@ -1,0 +1,826 @@
+A
+‘7
+
+ 
+
+SAFETY DATA SHEET.
+according to Regulation (EC) No. 1907/2006
+
+Issuing date 16/02/2011 Revision Date 30-Mar-2012 Version 3
+
+ 
+
+1. Identification of the substance/mixture and of the company/undertaking
+
+ 
+
+Product identifier
+
+ 
+
+Product code 23600/180000313
+Product name CE OIL LIME TERPENELESS 17351 LOT
+
+Relevant identified uses of the substance or mixture and uses advised against Relevant identified uses of the substance
+
+ 
+
+or mixture and uses advised against
+
+ 
+
+Recommended use No information available
+Uses advised against No information available
+
+Details of the supplier of the safety data sheet
+
+ 
+
+R.C. Treatt & Co. Ltd
+
+Northern Way
+
+Bury St Edmunds
+
+Suffolk
+
+IP32 6NL
+
+United Kingdom
+
+Telephone: +44 (0) 1284 702500
+Fax: +44 (0) 1284 703809
+
+For further information, please contact:
+
+ 
+
+ 
+
+ 
+
+E-mail address technical@treatt.com
+Emergency telephone number Emergency telephone number
+Emergency telephone Duncan McBain: +44 (0) 7721 556463
+
+ 
+
+Emergency telephone - §45 - (EC)1272/2008
+Europe I112
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Hazards identification
+
+ 
+
+Classification of the substance or mixture
+
+ 
+
+ 
+
+Product code23600/180000313 Product name CE OIL LIME Page 1 / 9
+TERPENELESS
+17351 LOT23600/180000313 - CE OIL LIME TERPENELESS Revision Date 30-Mar-2012
+17351 LOT
+
+ 
+
+ration to
+n corrosion/irritation
+
+n sensitisation
+ronic uatic t
+
+Classification according to EU Directives 67/548/EEC or 1999/45/EC
+For the full text of the R-phrases mentioned in this Section, see Section 16
+
+ 
+
+Symbol(s) Xi - Irritant
+R-code(s) R38
+
+Label elements
+
+£7
+
+ 
+
+Signal word
+DANGER
+
+Hazard statements
+
+H304 - May be fatal if swallowed and enters airways
+H315 - Causes skin irritation
+
+H317 - May cause an allergic skin reaction
+
+H411 - Toxic to aquatic life with long lasting effects
+
+Precautionary statements
+
+P312 - Call a POISON CENTER or doctor/ physician if you feel unwell
+
+P264 - Wash face, hands and any exposed skin thoroughly after handling
+
+P332 + P313 - If skin irritation occurs: Get medical advice/ attention
+
+P362 - Take off contaminated clothing and wash before reuse
+
+P261 - Avoid breathing dust/ fume/ gas/ mist/ vapours/ spray
+
+P272 - Contaminated work clothing should not be allowed out of the workplace
+
+P302 + P352 - IF ON SKIN: Wash with plenty of soap and water
+
+P333 + P313 - If skin irritation or rash occurs: Get medical advice/ attention
+
+P321 - Specific treatment (see supplemental first aid instructions on this label)
+
+P363 - Wash contaminated clothing before reuse
+
+P273 - Avoid release to the environment
+
+P391 - Collect spillage
+
+P301 + P310 - IF SWALLOWED: Immediately call a POISON CENTER or doctor/ physician
+P331 - Do NOT induce vomiting
+
+P405 - Store locked up
+
+P303 + P361 + P353 - IF ON SKIN (or hair): Remove/ Take off immediately all contaminated clothing. Rinse skin with water/
+shower
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 3 Other information
+ﬁne Not classified
+3. Composition/information on ingredients
+Product code23600/180000313 Product name CE OIL LIME page 2 / 9
+
+TERPENELESS
+17351 LOT23600/180000313 - CE OIL LIME TERPENELESS
+
+Revision Date 30—Mar—2012
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+17351 LOT
+Chemical Name EC-No CAS-No Weight percent Classification GHS REACH
+(67/548) Classification Registration
+Number
+Alpha Terpineol 202-680-6 98-55-5 40—60 Xi;R38 Skin lrrit. 2 (H315) no data available
+Terpinene-4-ol 209-235—5 562-74-3 2-10 Xn;R22 Xi;R38 Skin lrrit. 2 (H315) no data available
+Acute Tox. 4
+(H302)
+Terpinolene 209-578-0 586-62-9 2—10 FL;R10 Xn;R65 Asp. Tox. 1 (H304) no data available
+N;R51/53 Aquatic Chronic 2
+(H411)
+Flam Liq. 3 (H226)
+Bisabolene 241-610-9 17627-44-0 1-5 Xn; R65 Xi; R38 Asp. Tox. 1 (H304) no data available
+R43 Skin lrrit. 2 (H315)
+Skin Sens. 1
+(H317)
+p-Mentha-1,4-diene 202-794-6 99-85-4 0-2.5 FL;R10 Xn;R65 Asp. Tox. 1 (H304) no data available
+Xi;R38 R43 Skin lrrit. 2 (H315)
+N;R50/53; Skin Sens. 1
+(H317)
+Aquatic Acute 1
+(H400)
+Aquatic Chronic 1
+(H410)
+Flam Liq. 3 (H226)
+Caryophyllene 201-746-1 87-44-5 0—2.5 Xn;R65 Asp. Tox. 1 (H304) no data available
+Limonene 227-813-5 5989-27-5 0-2.5 FL;R10 Xn;R65 Asp. Tox. 1 (H304) no data available
+Xi;R38 R43 Skin lrrit. 2 (H315)
+N;R50/53; Skin Sens. 1
+(H317)
+Aquatic Acute 1
+(H400)
+Aquatic Chronic 1
+(H410)
+Flam Liq. 3 (H226)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For the full text of the R-phrases mentioned in this Section, see Section 16
+
+ 
+
+ 
+
+4. First aid measures
+
+ 
+
+Description of first aid measures Description of first aid measures
+
+ 
+
+Eye contact
+
+Skin contact
+
+Ingestion
+
+Inhalation
+
+Rinse thoroughly with plenty of water for at least 15 minutes and consult a physician
+
+Wash off immediately with soap and plenty of water while removing all contaminated
+clothes and shoes
+
+Clean mouth with water
+If swallowed, do not induce vomiting — seek medical advice
+
+Move to fresh air
+
+Most important symptoms and effects, both acute and delayed
+
+ 
+
+ 
+
+Product code23600/180000313
+
+CE OIL LIME
+TERPENELESS
+17351 LOT
+
+Product name
+
+Page 3/923600/180000313 - CE OIL LIME TERPENELESS Revision Date 30-Mar-2012
+17351 LOT
+
+ 
+
+Indication of any immediate medical attention and special treatment needed Indication of any immediate medical
+attention and special treatment needed
+
+ 
+
+ 
+
+Notes to physician Treat symptomatically
+
+ 
+
+5. Fire-fighting measures
+
+ 
+
+Extinguishing media Extinguishing media
+
+ 
+
+Suitable extinguishing media
+Use extinguishing measures that are appropriate to local circumstances and the surrounding environment
+
+Extinguishing media which shall not be used for safety reasons
+Water
+
+Special hazards arising from the substance or mixture
+
+ 
+
+Special hazard
+No information available
+
+Advice for fire-fighters Advice for firefighters
+
+ 
+
+Special protective equipment for fire-fighters
+As in any fire, wear self-contained breathing apparatus and full protective gear
+
+ 
+
+6. Accidental release measures
+
+ 
+
+Personal precautions, protective equipment and emergency procedures
+
+ 
+
+Ensure adequate ventilation
+Use personal protective equipment
+
+Environmental precautions
+
+ 
+
+Prevent further leakage or spillage if safe to do so
+See Section 12 for additional Ecological Information
+
+Methods and material for containment and cleaning up Methods and materials for containment and cleaning up
+
+ 
+
+Contain spillage, and then collect with non—combustable absorbent material, (e.g. sand, earth, diatomaceous earth, vermiculite) and
+place in container for disposal according to local / national regulations (see section 13).
+
+ 
+
+7. Handling and storage I
+
+ 
+
+7.1 Precautions for safe handling
+
+ 
+
+Ensure adequate ventilation
+Handle in accordance with good industrial hygiene and safety practice
+
+Conditions for safe storage, including any incompatibilities
+
+ 
+
+ 
+
+Product code23600/180000313 Product name CE OIL LIME Page 4 / 9
+TERPENELESS
+17351 LOT23600/180000313 - CE OIL LIME TERPENELESS Revision Date 30-Mar-2012
+17351 LOT
+
+ 
+
+K—eep container tightly closed in a dry and well-ventilated place
+
+Specific end uses
+
+ 
+
+ 
+
+8. Exposure controls/personal protection
+
+ 
+
+Control parameters
+
+ 
+
+Derived No Effect Level (DNEL) No information available
+
+Predicted No Effect Concentration No information available
+(PNEC)
+
+Exposure controls
+
+ 
+
+Engineering measures Ensure adequate ventilation, especially in confined areas
+
+Personal protective equipment
+
+Eye protection Tightly fitting safety goggles
+Hand protection Protective gloves
+Skin and body protection Wear suitable protective clothing.
+Respiratory protection None under normal use conditions
+Hygiene measures Handle in accordance with good industrial hygiene and safety practice
+
+Environmental exposure controls The product should not be allowed to enter drains, water courses or the soil
+
+ 
+
+9. Physical and chemical properties
+
+ 
+
+9.1 Information on basic physical and chemical properties
+
+ 
+
+ 
+
+Physical state liquid
+Property Values
+Flash point = 87 °C / 188.6 °F
+
+Other information
+
+ 
+
+ 
+
+10. Stability and reactivity
+
+ 
+
+Reactivity
+
+Chemical stability
+
+ 
+
+Stable under normal conditions
+
+10.3 Possibility of hazardous reactions
+
+ 
+
+Conditions to avoid
+
+ 
+
+ 
+
+Product code23600/180000313 Product name CE OIL LIME page 5 / 9
+TERPENELESS
+17351 LOT23600/180000313 - CE OIL LIME TERPENELESS
+17351 LOT
+
+Revision Date 30—Mar—2012
+
+ 
+
+Heat, flames and sparks
+Exposure to air or moisture over prolonged periods
+
+Incompatible materials Incompatible materials
+
+ 
+
+No information available
+
+Hazardous decomposition products
+
+ 
+
+No information available
+
+ 
+
+11. Toxicological information
+
+ 
+
+Potential health effects
+
+ 
+
+Inhalation None known
+Eye contact None known
+Skin contact None known
+Ingestion Potential for aspiration if swallowed
+
+Information on toxicological effects Information on toxicological effects
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chemical Name LD50 Oral LD50 Dermal LC50 Inhalation
+Alpha Terpineol 5170 mg/kg ( Rat )
+Terpinene-4-ol 1300 mg/kg (Rat) 2500 mg/kg (Rabbit)
+Terpinolene 4390 mg/kg (Rat)
+p-Mentha-1,4-diene 3650 mg/kg (Rat)
+Limonene 4400 mg/kg (Rat) 5005 mg/kg (Rabbit)
+Chronic toxicity
+Sensitisation No information available
+Target Organ Effects No information available
+
+ 
+
+12. Ecological information
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Toxicity
+Ecotoxicity effects Toxic to aquatic organisms, may cause long-term adverse effects in the aquatic
+environment
+Chemical Name Toxicity to algae Toxicity to fish Toxicity to Toxicity to daphnia and
+microorganisms other aquatic invertebrates
+Product code23600/180000313 Product name CE OIL LIME Page 6 / 9
+
+TERPENELESS
+17351 LOT23600/180000313 - CE OIL LIME TERPENELESS Revision Date 30-Mar-2012
+
+17351 LOT
+
+ 
+
+ 
+
+Limonene
+
+ 
+
+ 
+
+ 
+
+0619-0796: 96 h
+Pimephales promelas mg/L
+L050 flow-through 35: 96 h
+Oncorhynchus mykiss mg/L
+
+L050
+
+ 
+
+ 
+
+ 
+
+ 
+
+Persistence and degradability
+
+ 
+
+No information available
+
+Bioaccumulative potential
+
+ 
+
+No information available
+Mobility in soil
+
+No information available
+
+Results of PBT and vPvB assessment
+
+ 
+
+Other adverse effects
+
+ 
+
+ 
+
+13. Disposal considerations
+
+ 
+
+Waste treatment methods Waste treatment methods
+
+ 
+
+Waste from residues / unused
+
+products
+
+Contaminated packaging
+
+Dispose of in accordance with local regulations
+
+Empty containers should be taken to an approved waste handling site for recycling or
+
+disposal
+
+ 
+
+14. Transport information
+
+ 
+
+IMDG/IMO
+
+ADR/RID
+
+ICAO/IATA
+
+not regulated
+
+not regulated
+
+not regulated
+
+ 
+
+15. Regulatory information
+
+ 
+
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+
+ 
+
+International Inventories
+
+ 
+
+TSCA Complies
+ElNECS/ELINCS Complies
+DSL/NDSL Complies
+PICCS Complies
+Product code23600/180000313 Product name CE OIL LIME Page 7 / 9
+
+TERPENELESS
+17351 LOT23600/180000313 - CE OIL LIME TERPENELESS Revision Date 30-Mar-2012
+
+17351 LOT
+
+ 
+
+ENCS -
+IECSC Complies
+AICS Complies
+KECL -
+
+Legend
+
+TSCA - United States Toxic Substances Control Act Section 8(b) Inventory
+
+ElNECS/ELINCS - European Inventory of Existing Commercial Chemical Substances/EU List of Notified Chemical Substances
+DSL/NDSL - Canadian Domestic Substances List/Non—Domestic Substances List
+
+PICCS - Philippines Inventory of Chemicals and Chemical Substances
+
+ENCS - Japan Existing and New Chemical Substances
+
+IECSC - China Inventory of Existing Chemical Substances
+
+AICS — Australian Inventory of Chemical Substances
+
+KECL - Korean Existing and Evaluated Chemical Substances
+
+15.2 Chemical Safety Assessment
+
+ 
+
+ 
+
+16. Other information
+
+ 
+
+Full text of R-phrases referred to under sections 2 and 3
+
+R38 - Irritating to skin
+
+R10 - Flammable
+
+R22 - Harmful if swallowed
+
+R43 - May cause sensitisation by skin contact
+
+R65 - Harmful: may cause lung damage if swallowed
+
+Combination of R-phrases
+
+R50/53 - Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment
+R51/53 - Toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment
+
+Hazard statements
+
+H304 - May be fatal if swallowed and enters airways
+H315 - Causes skin irritation
+
+H317 - May cause an allergic skin reaction
+
+H411 - Toxic to aquatic life with long lasting effects
+
+Precautionary statements
+
+P312 - Call a POISON CENTER or doctor/ physician if you feel unwell
+
+P264 - Wash face, hands and any exposed skin thoroughly after handling
+P332 + P313 - If skin irritation occurs: Get medical advice/ attention
+
+P362 - Take off contaminated clothing and wash before reuse
+
+P261 - Avoid breathing dust/ fume/ gas/ mist/ vapours/ spray
+
+P272 - Contaminated work clothing should not be allowed out of the workplace
+P302 + P352 - IF ON SKIN: Wash with plenty of soap and water
+
+P333 + P313 - If skin irritation or rash occurs: Get medical advice/ attention
+P321 - Specific treatment (see supplemental first aid instructions on this label)
+P363 - Wash contaminated clothing before reuse
+
+P273 - Avoid release to the environment
+
+P391 - Collect spillage
+
+P301 + P310 - IF SWALLOWED: Immediately call a POISON CENTER or doctor/ physician
+P331 - Do NOT induce vomiting
+
+P405 - Store locked up
+
+P303 + P361 + P353 - IF ON SKIN (or hair): Remove/ Take off immediately all contaminated clothing. Rinse skin with water/
+
+ 
+
+shower
+
+Issuing date 16/02/2011
+
+Revision Date 30-Mar-2012
+
+Product code23600/180000313 Product name CE OIL LIME
+
+TERPENELESS
+17351 LOT23600/180000313 - CE OIL LIME TERPENELESS Revision Date 30-Mar-2012
+17351 LOT
+
+ 
+
+Revision Note not applicable.
+This safety datasheet complies with the requirements of Regulation (EC) No. 1907/2006
+
+Disclaimer
+
+The information provided in this Safety Data Sheet is correct to the best of our knowledge, information and belief at the
+date of its publication. The information given is designed only as a guidance for safe handling, use, processing, storage,
+transportation, disposal and release and is not to be considered a warranty or quality specification. The information
+relates only to the specific material designated and may not be valid for such material used in combination with any other
+materials or in any process, unless specified in the text.
+
+End of Safety Data Sheet
+
+ 
+
+Product code23600/180000313 Product name CE OIL LIME page 9 / 9
+TERPENELESS
+17351 LOT

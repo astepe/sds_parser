@@ -1,0 +1,923 @@
+’C SAFETY DATA SHEET.
+
+Version 1
+
+ 
+
+1. IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMPANY/UNDERTAKING
+
+1.1 Product identifier
+Number 1504-TL
+EC-No
+Manufacturer C & A Service Inc. as agents for
+
+Citrus and Allied Essences, Ltd
+
+4620 Mercedes Drive
+
+Belcamp, MD 21017
+
+(410) 273-9500
+Product name CE OIL LIME DISTLD MEX 7FOLD 17107DMF
+Pure substance/mixture Natural Complex Substance
+
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+
+ 
+
+Recommended Use No information available
+
+1.3 Details of the supplier of the safety data sheet
+
+ 
+
+For further information, please contact:
+
+ 
+
+E-mail Address ekleinman@candaserviceinc.com
+
+1.4 Emergency telephone number
+
+ 
+
+Emergency telephone Chemtrec: 1-800—424-9300 for US/ 703-527-3887 outside US
+
+ 
+
+2. HAZARDS IDENTIFICATION
+
+ 
+
+2.1 Classification of the substance or mixture
+dermal t
+n corrosion/irritation
+irritation
+
+n sensitization
+uaticto
+ronic uatict
+mablel uids
+
+ 
+
+Classification according to EU Directives 67/548/EEC or 1999/45/EC
+For the full text of the Ft-phrases mentioned in this Section, see Section 16
+
+Symbol(s)
+Xi - Irritant
+
+R-code(s)
+R10 - Xi;R38 — R43 - R52—53
+
+ 
+
+Page 1/91504-TL N/A CE OIL LIME DISTLD MEX 7FOLD Revision Date 11-May-2012
+17107DMF
+
+ 
+
+2.2 Label elements
+
+ 
+
+Signal Word
+Warning
+
+H226 - Flammable liquid and vapor
+
+Precautionary Statements
+
+P301 + P310 - IF SWALLOWED: Immediately call a POISON CENTER or doctor/ physician
+P331 - Do NOT induce vomiting
+
+P322 - Specific measures (see .? on this label)
+
+P280 - Wear eye protection/ face protection
+
+P321 - Specific treatment (see .? on this label)
+
+P370 + P378 - In case of fire: Use dry sand, dry chemical or alcohol-resistant foam for extinction
+P210 - Keep away from heat/sparks/open flames/hot surfaces. - No smoking
+
+ 
+
+2.3 Other information
+
+ 
+
+ 
+
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+
+ 
+
+3.1 Substances
+
+ 
+
+ 
+
+ 
+
+Chemical Name EC-No CAS-No Alternate Weight % Classificatio Classification (Reg. REACH
+C AS # n (67/543) 1272/2008) Registration
+Number
+A-TERPINEOL 202-680—6 98—55—5 30—50% Xl; R38 Eye Irrit. 1 (H319) no data available
+
+Skin Irrit. 2 (H316)
+Acute Tox. 5 (H303)
+Flam. Liq. 4 (H227)
+
+ 
+
+LIMONENE 227-813-5 5989-27-5 15% R10, XI; R38, Aquatic Acute 1 (H400) no data available
+XI; R43, N; Skin Sens. 1 (H317)
+R50/53; Skin Irrit. 2 (H316)
+
+Asp. Tox. 1 (H304)
+Aquatic Chronic 1 (H410)
+Flam. Liq. 3 (H226)
+CITRAL 226-394-6 5392-40-5 1-5°/o XI; R38, XI; Aquatic Acute 2 (H401) no data available
+R43; Skin Sens. 1 (H317)
+Skin Irrit. 2 (H316)
+Acute Tox. 5 (H303)
+Acute Tox. 5 (H313)
+Flam. Liq. 4 (H227)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For the full text of the R-phrases mentioned in this Section, see Section 16
+
+ 
+
+ 
+
+4. FIRST AID MEASURES
+
+ 
+
+ 
+
+Page 2/91504-TL N/A CE OIL LIME DISTLD MEX 7FOLD Revision Date 11-May-2012
+17107DMF
+
+ 
+
+4.1 Description of first-aid measures
+
+ 
+
+General advice Immediate medical attention is required Show this material safety data sheet to the doctor
+in attendance. If symptoms persist, call a physician
+
+Eye contact Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes If
+symptoms persist, call a physician Immediately flush with plenty of water. After initial
+flushing, remove any contact lenses and continue flushing for at least 15 minutes Keep eye
+wide open while rinsing
+
+Skin contact Wash off immediately with plenty of water. Remove and wash contaminated clothing before
+re-use. If skin irritation persists, call a physician. Wash off immediately with soap and plenty
+of water. Immediate medical attention is not required. Wash off immediately with soap and
+plenty of water while removing all contaminated clothes and shoes.
+
+Ingestion Do NOT induce vomiting. Drink plenty of water. Immediate medical attention is not required.
+Rinse mouth. Clean mouth with water and drink afterwards plenty of water. Never give
+anything by mouth to an unconscious person. Consult a physician.
+
+Inhalation Move to fresh air. If symptoms persist, call a physician. Immediate medical attention is not
+required. Move to fresh air in case of accidental inhalation of vapors. Move to fresh air in
+case of accidental inhalation of vapors or decomposition products.
+
+Protection of First-aiders Remove all sources of ignition Use personal protective equipment
+
+4.2 Most important symptoms and effects, both acute and delayed
+
+ 
+
+4.3 Indication of any immediate medical attention and special treatment needed
+
+ 
+
+Notes to physician May cause sensitization of susceptible persons Treat symptomatically
+
+ 
+
+5. FIRE-FIGHTING MEASURES
+
+ 
+
+5.1 Extinguishing media
+
+ 
+
+Suitable Extinguishing Media
+Use: Dry chemical Carbon dioxide 002 Water spray Alcohol-resistant foam
+
+Extinguishing media which shall not be used for safety reasons
+No information available
+
+5.2 Special hazards arising from the substance or mixture
+
+ 
+
+Special Hazard
+None
+
+5.3 Advice for firefighters
+
+ 
+
+Special protective equipment for fire-fighters
+As in any fire, wear self-contained breathing apparatus and full protective gear
+
+ 
+
+6. ACCIDENTAL RELEASE MEASURES
+
+ 
+
+6.1 Personal precautions, protective equipment and emergency procedures
+
+ 
+
+Remove all sources of ignition. Evacuate personnel to safe areas. Ensure adequate ventilation. Use personal protective equipment.
+Keep people away from and upwind of spill/leak. Pay attention to flashback. Take precautionary measures against static
+discharges.
+
+ 
+
+Page 3/91504-TL N/A CE OIL LIME DISTLD MEX 7FOLD Revision Date 11-May-2012
+17107DMF
+
+ 
+
+See Section 12 for additional Ecological Information
+
+6.2 Environmental precautions
+
+ 
+
+Prevent further leakage or spillage if safe to do so. Prevent product from entering drains. Do not flush into surface water or sanitary
+sewer system.
+
+6.3 Methods and materials for containment and cleaning up
+
+ 
+
+Soak up with inert absorbent material (e.g. sand, silica gel, acid binder, universal binder, sawdust)
+
+ 
+
+7. HANDLING AND STORAGE
+
+ 
+
+7.1 Precautions for safe handling
+
+Ensure adequate ventilation. Keep away from open flames, hot surfaces and sources of ignition. Take precautionary measures
+against static discharges. Use only in an area containing flame proof equipment. To avoid ignition of vapors by static electricity
+discharge, all metal parts of the equipment must be grounded. Use only in area provided with appropriate exhaust ventilation. Wear
+personal protective equipment. Do not breathe vapors or spray mist. Keep away from heat, sparks and open flame. No smoking.
+Take necessary action to avoid static electricity discharge (which might cause ignition of organic vapors).
+
+ 
+
+7.2 Conditions for safe storage, including any incompatibilities
+
+ 
+
+Keep tightly closed in a dry and cool place. Keep in properly labeled containers. Keep containers tightly closed in a cool,
+well-ventilated place. Keep away from heat.
+
+7.3 Specific end uses
+
+ 
+
+Exposure scenario N/A
+
+Other Guidelines N/A
+
+ 
+
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+ 
+
+8.1 Control parameters
+
+ 
+
+Exposure limits This product, as supplied, does not contain any hazardous materials with occupational
+exposure limits established by the region specific regulatory bodies.
+
+ 
+
+ 
+
+Chemical Name European Union The United Kingdom France Spain Germany
+LIMONENE MAK: 20 ppm MAK:
+5989-27-5 1 10 mg/m3
+
+Ceiling / Peak: 40 ppm
+Ceiling / Peak: 220
+
+ 
+
+ 
+
+ 
+
+Exposure Limits -
+TLVs (LLVs)
+
+mg/m3
+TWA: 20 ppm TWA:
+1 10 mg/m3
+Chemical Name Italy Portugal The Netherlands Finland Denmark
+LIMONENE TWA: 25 ppm TWA:
+5989-27-5 140 mg/m3
+STEL: 50 ppm STEL:
+280 mg/m3 .
+Chemical Name Austria Sweden - Switzerland Poland Norway LIMOI\
+Occupational 5989-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STEL: 40 ppm STEL: TWA: 25 ppm TWA:
+220 mg/m3 140 mg/m3
+
+MAK: 20 ppm MAK: STEL: 37.5 ppm
+110 mg/m3 STEL: 175 mg/m3
+
+ 
+
+ 
+
+Page 4/91504-TL N/A CE OIL LIME DISTLD MEX 7FOLD
+17107DMF
+
+Revision Date 11-May-2012
+
+ 
+
+Derived No Effect Level (DNEL) No information available
+
+Predicted No Effect Concentration No information available
+(PNEC)
+
+8.2 Exposure controls
+
+ 
+
+Engineering Measures
+
+Personal protective equipment
+Eye Protection
+Hand Protection
+Skin and body protection
+
+Tightly fitting safety goggles
+Protective gloves
+
+Ensure adequate ventilation, especially in confined areas
+
+sleeved clothing Apron Chemical resistant apron
+
+Respiratory protection
+
+Hygiene measures
+and clothing
+
+Environmental Exposure Controls
+
+No special protective equipment required
+
+Do not allow material to contaminate ground water system
+
+Antistatic boots Wear fire/ flame resistant/ retardant clothing Impervious gloves Long
+
+When using, do not eat, drink or smoke Provide regular cleaning of equipment, work area
+
+ 
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+ 
+
+9.1 Information on basic physical and chemical properties
+
+ 
+
+Physical state liquid
+
+Odor lime
+
+Property Values
+pH
+
+Melting/freezing point
+
+Boiling point/boiling range
+
+Flash Point
+
+Evaporation rate
+
+Flammability (solid, gas)
+
+Flammability Limits in Air
+upper flammability limit
+lower flammability limit
+
+Vapor pressure mm Hg 20°C
+
+Vapor density
+
+Relative density
+
+Specific Gravity @ 25C
+
+Specific Gravity @ 20C
+
+Refractive Index
+
+Water solubility
+
+Partition coefficient: n-octanol/water
+
+Autoignition temperature
+
+Decomposition temperature
+
+Viscosity, dynamic
+
+46 °C / 115 °F
+
+0.908 — 0.928
+1.4790 - 1.4990
+
+No information available
+No information available
+
+Explosive properties
+Oxidizing Properties
+
+9.2 Other information
+VOC Content(%)
+Molecular Weight
+
+ 
+
+1.51000002026558
+No information available
+
+Appearance
+Color
+
+Methods
+No information available
+
+No information available
+FCC Method
+
+Closed cup
+FCC Method
+
+No information available
+No information available
+
+No information available
+No information available
+No information available
+
+0.9050 - 0.9250FCC Method
+
+FCC Method
+
+FCC Method
+
+No information available
+No information available
+No information available
+No information available
+No information available
+
+Oily
+dark yellow brownish
+
+ 
+
+Page 5/91504-TL N/A CE OIL LIME DISTLD MEX 7FOLD Revision Date 11-May-2012
+17107DMF
+
+ 
+
+10. STABILITY AND REACTIVITY
+
+ 
+
+10.1 Reactivity
+
+10.2 Chemical stability
+
+ 
+
+Stable under normal conditions
+
+10.3 Possibility of hazardous reactions
+
+ 
+
+10.4 Conditions to Avoid
+
+ 
+
+Heat, flames and sparks
+
+10.5 Incompatible Materials
+
+ 
+
+No materials to be especially mentioned
+
+10.6 Hazardous Decomposition Products
+
+ 
+
+None under normal use conditions
+
+ 
+
+11. TOXICOLOGICAL INFORMATION
+
+ 
+
+11.1 Information on toxicological effects
+
+ 
+
+Acute toxicity
+
+Product Information Product does not present an acute toxicity hazard based on known or supplied information.
+Inhalation There is no data available for this product
+
+Eye contact There is no data available for this product
+
+Skin contact There is no data available for this product
+
+Ingestion There is no data available for this product
+
+Acute toxicity 0% of the mixture consists of ingredient(s) of unknown toxicity
+
+The following values are calculated based on chapter 3.1 of the GHS document (Rev. 1, 2005):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oral 5,148.87 mg/kg
+Dermal 2,000.00 mg/kg
+Chemical Name LD50 Oral LD50 Dermal LC50 Inhalation
+A-TERPINEOL 5170 mg/kg (Rat)
+LIMONENE 4400 mg/kg (Rat) 2000 mg/kg (Rabbit)
+CITRAL 4950 mg/kg ( Rat ) 2250 mg/kg ( Rabbit ) 2000 mg/kg
+( Rat)
+Skin corrosion/irritation No information available
+Eye damage/irritation No information available
+Sensitization No information available
+Germ Cell Mutagenicity No information available
+
+ 
+
+Page 6/91504-TL N/A CE OIL LIME DISTLD MEX 7FOLD
+
+17107DMF
+
+Revision Date 11-May—2012
+
+ 
+
+Carcinogenicity
+Specific target organ systemic
+toxicity (single exposure)
+
+Specific target organ systemic
+toxicity (repeated exposure)
+
+Target Organ Effects
+
+Aspiration hazard
+
+No information available
+
+No information available
+
+No information available
+
+No information available
+
+No information available
+
+ 
+
+12. ECOLOGICAL INFORMATION
+
+ 
+
+12.1 Toxicity
+
+Ecotoxicity effects
+
+Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic
+environment Harmful to aquatic organisms, may cause long-term adverse effects in the
+
+aquatic environment.
+
+ 
+
+Chemical Name
+
+Toxicity to algae
+
+Toxicity to fish
+
+Toxicity to daphnia and other
+aquatic invertebrates
+
+ 
+
+LIMONENE
+
+0619—0796: 96 h Pimephales
+promelas mg/L L050 flow-through
+35: 96 h Oncorhynchus mykiss
+mg/L L050
+
+ 
+
+CITRAL
+
+ 
+
+ 
+
+16: 72 h Desmodesmus subspicatus
+mg/L E050 19: 96 h Desmodesmus
+subspicatus mg/L E050
+
+ 
+
+46—10: 96 h Leuciscus idus mg/L
+L050 static
+
+ 
+
+7: 48 h Daphnia magna mg/L E050
+
+ 
+
+ 
+
+12.2 Persistence and degradability
+
+ 
+
+No information available
+
+12.3 Bioaccumulative potential
+
+ 
+
+No information available
+
+ 
+
+Chemical Name
+
+log Pow
+
+ 
+
+ 
+
+CITRAL
+
+ 
+
+2.76
+
+ 
+
+ 
+
+12.4 Mobility in soil
+
+ 
+
+No information available
+
+12.5 Results of PBT and vPvB
+
+assessment
+
+ 
+
+12.6 Other adverse effects
+
+ 
+
+ 
+
+13. DISPOSAL CONSIDERATIONS
+
+ 
+
+13.1 Waste treatment methods
+
+ 
+
+Waste from residues / unused
+products
+
+Dispose of in accordance with local regulations
+
+ 
+
+Page 7/91504-TL N/A CE OIL LIME DISTLD MEX 7FOLD Revision Date 11-May-2012
+17107DMF
+
+ 
+
+Contaminated packaging Empty containers should be taken to an approved waste handling site for recycling or
+disposal
+Other information According to the European Waste Catalogue, Waste Codes are not product specific, but
+
+application specific Waste codes should be assigned by the user based on the application
+for which the product was used
+
+ 
+
+14. TRANSPORT INFORMATION
+
+ 
+
+IMDG / IMO
+Proper shipping name TERPENE HYDROCARBONS, N.O.S.
+Hazard class 3
+UN/ID No 2319
+
+Packing Group III
+
+ICAO/IATA
+UN/ID No 2319
+Proper shipping name TERPENE HYDROCARBONS, N.O.S.
+Hazard class 3
+
+Packing Group III
+
+ 
+
+15. REGULATORY INFORMATION
+
+ 
+
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+International Inventories
+
+All of the components in the product are on the following Inventory lists: Canada (DSL/NDSL), Europe
+(ElNECS/ELINCS/NLP).
+
+ 
+
+TSCA -
+EINECS/ELINCS -
+DSL/NDSL -
+PICCS -
+ENCS '
+IECSC '
+AICS '
+KECL -
+
+Legend
+
+TSCA - United States Toxic Substances Control Act Section 8(b) Inventory
+
+EINECS/ELINCS - European Inventory of Existing Commercial Chemical Substances/EU List of Notified Chemical Substances
+DSL/NDSL - Canadian Domestic Substances List/Non—Domestic Substances List
+
+PICCS - Philippines Inventory of Chemicals and Chemical Substances
+
+ENCS - Japan Existing and New Chemical Substances
+
+IECSC - China Inventory of Existing Chemical Substances
+
+AICS - Australian Inventory of Chemical Substances
+
+KECL - Korean Existing and Evaluated Chemical Substances
+
+15.2 Chemical Safety Assessment
+
+ 
+
+ 
+
+16. OTHER INFORMATION
+
+ 
+
+ 
+
+Page 8/91504-TL N/A CE OIL LIME DISTLD MEX 7FOLD Revision Date 11-May-2012
+17107DMF
+
+ 
+
+Risk Combination Phrases
+
+R50/53 - Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic environment
+R51/53 - Toxic to aquatic organisms, may cause long—term adverse effects in the aquatic environment
+R52/53 - Harmful to aquatic organisms, may cause long-term adverse effects in the aquatic environment
+
+Full text of H-Statements referred to under sections 2 and 3
+
+H401 — Toxic to aquatic life H317 — May cause an allergic skin reaction H316 - Causes mild skin irritation H303 - May be harmful if swallowed H313 -
+May be harmful in contact with skin H227 - Combustible liquid H400 - Very toxic to aquatic life H304 - May be fatal if swallowed and enters airways
+H410 - Very toxic to aquatic life with long lasting effects H226 — Flammable liquid and vapor H319 - Causes serious eye irritation H411 - Toxic to
+aquatic life with long lasting effects
+
+Revision Date 11-May—2012
+Revision Note not applicable.
+This material safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006.
+
+Disclaimer
+
+The information provided on this SDS is correct to the best of our knowledge, information and belief at the date of its
+publication. The information given is designed only as a guide for safe handling, use, processing, storage,
+transportation, disposal and release and is not to be considered as a warranty or quality specification. The information
+relates only to the specific material designated and may not be valid for such material used in combination with any other
+material or in any process, unless specified in the text.
+
+ 
+
+Page 9/9

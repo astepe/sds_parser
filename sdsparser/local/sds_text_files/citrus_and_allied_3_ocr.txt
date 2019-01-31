@@ -1,0 +1,627 @@
+’6 SAFETY DATA SHEET.
+
+Version 1
+
+ 
+
+1. IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE
+
+ 
+
+ 
+
+ 
+
+ 
+
+COMPANY/UNDERTAKING
+1.1 Product identifier
+Number A52360
+EC-No 21 1-892-8
+Manufacturer C & A Service Inc. as agents for
+
+Citrus and Allied Essences, Ltd
+4620 Mercedes Drive
+Belcamp, MD 21017
+
+(410) 273-9500
+
+Product name GAMMA DECALACTONE (NATURAL)
+Synonyms Decan-4-olide
+2(3H)-Furanone, 5—hexyldihydro-
+5-Hexyldihydrofuran-2(3H)-one
+4-n-Hexyl-4-hydroxybutanoic acid iactone
+4-Hydroxydecanoic acid, gamma-lactone
+Pure substance/mixture Substance
+Formula C1 OH1802
+
+1.2 Relevant identified uses of the substance or mixture and uses advised against
+
+ 
+
+Recommended Use No information available
+
+1.3 Details of the supplier of the safety data sheet
+
+ 
+
+For further information, please contact:
+
+ 
+
+E-mail Address dchristopher@candaserviceinc.com
+
+1.4 Emergency telephone number
+
+ 
+
+Emergency telephone Chemtrec: 1-800-424-9300 for US/ 703-527-3887 outside US
+
+ 
+
+2. HAZARDS IDENTIFICATION
+
+ 
+
+2.1 Classification of the substance or mixture
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Serious eye damage/eye irritation Category 2
+Acute aquatic toxicity Category 3
+Flammable liquids Category 4
+
+ 
+
+ 
+
+Classification according to EU Directives 67/548/EEC or 1999/45/EC
+For the full text of the Fi-phrases mentioned in this Section, see Section 16
+
+Symbol(s)
+Not dangerous
+
+ 
+
+Page 1/7A52360 N/A GAMMA DECALACTONE (NATURAL) Revision Date 25-Sep-2013
+
+ 
+
+2.2 Label elements
+
+Signal Word
+Warning
+
+H227 — Combustible liquid
+
+Precautionary Statements
+
+P403 + P235 - Store in a well-ventilated place. Keep cool
+
+P370 + P378 - In case of fire: Use dry sand, dry chemical or alcohol-resistant foam for extinction
+P210 - Keep away from heat/sparks/open flames/hot surfaces. - No smoking
+
+P280 - Wear protective gloves/ eye protection/ face protection
+
+ 
+
+2.3 Other information
+
+ 
+
+ 
+
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+
+ 
+
+3.1 Substances
+
+ 
+
+For the full text of the R-phrases mentioned in this Section, see Section 16
+
+ 
+
+ 
+
+4. FIRST AID MEASURES
+
+ 
+
+4.1 Description of first-aid measures
+
+ 
+
+Eye contact Rinse thoroughly with plenty of water for at least 15 minutes and consult a physician.
+
+Skin contact Wash off immediately with soap and plenty of water while removing all contaminated
+clothes and shoes.
+
+Ingestion Clean mouth with water and drink afterwards plenty of water.
+
+Inhalation Move to fresh air.
+
+4.2 Most important symptoms and effects, both acute and delayed
+
+ 
+
+4.3 Indication of any immediate medical attention and special treatment needed
+
+ 
+
+Notes to physician Treat symptomatically
+
+ 
+
+5. FIRE-FIGHTING MEASURES
+
+ 
+
+5.1 Extinguishing media
+
+ 
+
+Suitable Extinguishing Media
+Use extinguishing measures that are appropriate to local circumstances and the surrounding environment
+
+Extinguishing media which shall not be used for safety reasons
+No information available
+
+5.2 Special hazards arising from the substance or mixture
+
+ 
+
+ 
+
+Page 2/7A52360 N/A GAMMA DECALACTONE (NATURAL) Revision Date 25-Sep-2013
+
+ 
+
+Special Hazard
+None
+
+5.3 Advice for firefighters
+
+ 
+
+Special protective equipment for fire-fighters
+As in any fire, wear self-contained breathing apparatus and full protective gear
+
+ 
+
+6. ACCIDENTAL RELEASE MEASURES
+
+ 
+
+6.1 Personal precautions, protective equipment and emergency procedures
+
+ 
+
+Ensure adequate ventilation.
+
+See Section 12 for additional Ecological Information
+
+6.2 Environmental precautions
+
+ 
+
+Prevent further leakage or spillage if safe to do so.
+
+6.3 Methods and materials for containment and cleaning up
+
+ 
+
+Soak up with inert absorbent material (e.g. sand, silica gel, acid binder, universal binder, sawdust)
+
+ 
+
+7. HANDLING AND STORAGE
+
+ 
+
+7.1 Precautions for safe handling
+Ensure adequate ventilation.
+
+ 
+
+7.2 Conditions for safe storage, including any incompatibilities
+
+ 
+
+Keep container tightly closed in a dry and well-ventilated place.
+
+7.3 Specific end uses
+
+ 
+
+Exposure scenario N/A
+
+Other Guidelines N/A
+
+ 
+
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+ 
+
+8.1 Control parameters
+
+ 
+
+Exposure limits This product, as supplied, does not contain any hazardous materials with occupational
+exposure limits established by the region specific regulatory bodies.
+Derived No Effect Level (DNEL) No information available
+
+Predicted No Effect Concentration No information available
+(PNEC)
+
+8.2 Exposure controls
+
+ 
+
+Engineering Measures Ensure adequate ventilation, especially in confined areas
+
+Personal protective equipment
+
+ 
+
+Page 3/7A52360 N/A GAMMA DECALACTONE (NATURAL)
+
+Revision Date 25-Sep-2013
+
+ 
+
+Eye Protection
+
+Hand Protection
+
+Skin and body protection
+Respiratory protection
+
+Tightly fitting safety goggles
+Protective gloves
+Long sleeved clothing
+
+Hygiene measures
+
+Environmental Exposure Controls No information available
+
+No special protective equipment required
+
+Handle in accordance with good industrial hygiene and safety practice.
+
+ 
+
+9. PHYSICAL AND CHEMICAL PROPERTIES
+
+ 
+
+9.1 Information on basic physical and chemical properties
+
+ 
+
+Physical state liquid
+
+Odor Fruity
+
+Property Values
+pH
+
+Melting/freezing point
+Boiling point/boiling range
+Flash Point
+Evaporation rate
+Flammability (solid, gas)
+Flammability Limits in Air
+upper flammability limit
+lower flammability limit
+Vapor pressure mm Hg 20°C
+
+93 °C / 200 °F
+
+Vapor density
+
+Relative density
+
+Specific Gravity @ 25C 0.949
+Specific Gravity @ 20C 0.952 - 0.958
+
+Refractive Index 1.446 - 1.450
+
+Water solubility
+
+Partition coefficient: n-octanoI/water
+Autoignition temperature
+Decomposition temperature
+Viscosity, dynamic
+
+No information available
+No information available
+
+Explosive properties
+Oxidizing Properties
+
+9.2 Other information
+Molecular Weight
+
+ 
+
+No information available
+
+Appearance
+Color
+
+Methods
+
+No information available
+No information available
+FCC Method
+
+Closed cup
+
+FCC Method
+
+No information available
+No information available
+
+No information available
+
+No information available
+
+No information available
+- 0.955FCC Method
+
+FCC Method
+
+FCC Method
+
+No information available
+
+No information available
+
+No information available
+
+No information available
+
+No information available
+
+clear
+Colorless to pale yellow.
+
+ 
+
+10. STABILITY AND REACTIVITY
+
+ 
+
+10.1 Reactivity
+
+10.2 Chemical stability
+
+ 
+
+Stable under normal conditions
+
+10.3 Possibility of hazardous reactions
+
+ 
+
+10.4 Conditions to Avoid
+
+ 
+
+Heat, flames and sparks
+
+10.5 Incompatible Materials
+
+ 
+
+ 
+
+Page 4/7A52360 N/A GAMMA DECALACTONE (NATURAL) Revision Date 25-Sep-2013
+
+ 
+
+No materials to be especially mentioned
+
+10.6 Hazardous Decomposition Products
+
+ 
+
+None under normal use conditions
+
+ 
+
+11. TOXICOLOGICAL INFORMATION
+
+ 
+
+11.1 Information on toxicological effects
+
+ 
+
+Acute toxicity
+
+Product Information Product does not present an acute toxicity hazard based on known or supplied information.
+Inhalation There is no data available for this product
+Eye contact There is no data available for this product
+Skin contact There is no data available for this product
+Ingestion There is no data available for this product
+Acute toxicity 100% of the mixture consists of ingredient(s) of unknown toxicity
+Oral 99,999.00
+Dermal 99,999.00
+Gas 99,999.00
+Mist 99,999.00
+Vapor 99,999.00
+Skin corrosion/irritation No information available
+Eye damage/irritation No information available
+Sensitization No information available
+Germ Cell Mutagenicity No information available
+Carcinogenicity No information available
+Specific target organ systemic No information available
+
+toxicity (single exposure)
+
+Specific target organ systemic No information available
+toxicity (repeated exposure)
+
+Target Organ Effects No information available
+
+Aspiration hazard No information available
+
+ 
+
+12. ECOLOGICAL INFORMATION
+
+ 
+
+12.1 Toxicity
+
+ 
+
+Page 5/7A52360 N/A GAMMA DECALACTONE (NATURAL) Revision Date 25-Sep-2013
+
+ 
+
+Ecotoxicity effects Contains no substances known to be hazardous to the environment or not degradable in
+waste water treatment plants
+
+12.2 Persistence and degradability
+
+ 
+
+No information available
+
+12.3 Bioaccumulative potential
+
+ 
+
+No information available
+
+12.4 Mobility in soil
+
+ 
+
+No information available
+
+12.5 Results of PET and vPvB assessment
+
+ 
+
+12.6 Other adverse effects
+
+ 
+
+ 
+
+13. DISPOSAL CONSIDERATIONS
+
+ 
+
+13.1 Waste treatment methods
+
+ 
+
+Waste from residues / unused Dispose of in accordance with local regulations
+
+products
+
+Contaminated packaging Empty containers should be taken to an approved waste handling site for recycling or
+disposal
+
+ 
+
+14. TRANSPORT INFORMATION
+
+ 
+
+IMDG / IMO Not regulated
+
+ICAO/IATA Not regulated
+
+ 
+
+15. REGULATORY INFORMATION
+
+ 
+
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+WGK Classification
+
+ 
+
+International Inventories
+
+All of the components in the product are on the following Inventory lists: No information available, United States of America
+(TSCA), Canada (DSL/NDSL), Europe (ElNECS/ELINCS/NLP), Australia (AICS), Korea (ECL), China (IECSC), Japan (ENCS),
+Philippines (PICCS).
+
+TSCA Complies
+EINECS/ELINCS Complies
+DSL/NDSL Complies
+PICCS Complies
+
+ 
+
+Page 6/7A52360 N/A GAMMA DECALACTONE (NATURAL) Revision Date 25-Sep-2013
+
+ 
+
+ENCS Complies
+IECSC Complies
+AICS Complies
+KECL Complies
+Legend
+
+TSCA - United States Toxic Substances Control Act Section 8(b) Inventory
+
+ElNECS/ELINCS - European Inventory of Existing Commercial Chemical Substances/EU List of Notified Chemical Substances
+DSL/NDSL - Canadian Domestic Substances List/Non—Domestic Substances List
+
+PICCS - Philippines Inventory of Chemicals and Chemical Substances
+
+ENCS - Japan Existing and New Chemical Substances
+
+IECSC - China Inventory of Existing Chemical Substances
+
+AICS — Australian Inventory of Chemical Substances
+
+KECL - Korean Existing and Evaluated Chemical Substances
+
+15.2 Chemical Safety Assessment
+
+ 
+
+ 
+
+16. OTHER INFORMATION
+
+ 
+
+Revision Date 25-Sep-2013
+Revision Note not applicable.
+This material safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006.
+
+Disclaimer
+
+The information provided on this SDS is correct to the best of our knowledge, information and belief at the date of its
+
+publication. The information given is designed only as a guide for safe handling, use, processing, storage,
+
+transportation, disposal and release and is not to be considered as a warranty or quality specification. The information
+relates only to the specific material designated and may not be valid for such material used in combination with any other
+
+material or in any process, unless specified in the text.
+
+ 
+
+Page 7/7

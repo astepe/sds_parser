@@ -1,0 +1,899 @@
+A R6 SAFETY DATA SHEET
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+{inﬁll Ei§=
+
+Creation Date 19-Nov-2009 Revision Date 29-Nov-2016 Revision Number 2
+SECTION 1: IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE
+
+COMPANY/UNDERTAKING
+
+1.1. Product identification
+
+Product Description: D-Mannitol
+
+Cat No. : 423920000; 423920010; 423920050; 423922500
+
+Synonyms D-Manninol; Isotol
+
+CAS-No 69-65-8
+
+EC-No. 200-711-8
+
+Molecular Formula C6 H14 06
+
+1.2. Relevant identified uses of the substance or mixture and uses advised against
+
+Recommended Use Laboratory chemicals.
+Uses advised against No Information available
+
+1.3. Details of the supplier of the safety data sheet
+
+Company Acros Organics BVBA
+Janssen Pharmaceuticalaan 3a
+2440 Geel, Belgium
+
+E-mail address begel.sdsdesk@thermofisher.com
+
+1.4. Emergency telephone number
+
+ 
+
+For information US call: 001-800-ACROS—O1 / Europe call: +32 14 57 52 11
+Emergency Number US:001-201-796-7100 / Europe: +32 14 57 52 99
+CHEMTREC Tel. No.US:OO1-800-424-9300 / Europe:OO1-703-527-3887
+
+SECTION 2: HAZARDS IDENTIFICATION
+
+ 
+
+ 
+
+2.1. Classification of the substance or mixture
+
+ 
+
+ 
+
+CLP Classification - Regulation (EC) No 1272/2008
+
+Physical hazards
+
+Based on available data, the classification criteria are not met
+Health hazards
+Based on available data, the classification criteria are not met
+
+Environmental hazards
+Based on available data, the classification criteria are not met
+
+ 
+
+ 
+
+ 
+
+2.2. Label elements
+
+ 
+
+Hazard Statements
+
+ 
+
+ACR42392
+Page 1 / 8SAFETY DATA SHEET
+
+D-Mannitol Revision Date 29-Nov-2016
+
+ 
+
+Precautionary Statements
+
+2.3. Other hazards
+
+ 
+
+No information available
+
+SECTION 3: COMPOSITION/INFORMATION ON INGREDIENTS
+
+ 
+
+ 
+
+3.1. Substances
+
+ 
+
+Component CAS-No EC-No. Weight % CLP Classification - Regulation (EC) No
+1272/2008
+
+D-Mannitol 69-65-8 EEC No. 200—711—8 >95 —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Full text of Hazard Statements: see section 16
+
+SECTION 4: FIRST AID MEASURES
+
+ 
+
+ 
+
+4.1. Description of first aid measures
+
+ 
+
+Eye Contact Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes. Get
+medical attention if symptoms occur.
+
+Skin Contact Rinse with plenty of water. Get medical attention if symptoms occur.
+
+Ingestion Do not induce vomiting. Get medical attention if symptoms occur.
+
+Inhalation Move to fresh air. Get medical attention if symptoms occur. If not breathing, give artificial
+respiration.
+
+Protection of First-aiders No special precautions required.
+
+4.2. Most important symptoms and effects, both acute and delayed
+
+ 
+
+No information available.
+
+4.3. Indication of any immediate medical attention and special treatment needed
+
+ 
+
+ 
+
+Notes to Physician Treat symptomatically.
+
+SECTION 5: FIREFIGHTING MEASURES
+
+ 
+
+ 
+
+5.1. Extinquishinq media
+
+ 
+
+Suitable Extinguishing Media
+Use water spray, alcohol-resistant foam, dry chemical or carbon dioxide.
+
+Extinguishing media which must not be used for safety reasons
+No information available.
+
+5.2. Special hazards arising from the substance or mixture
+
+ 
+
+Thermal decomposition can lead to release of irritating gases and vapors. Keep product and empty container away from heat and
+sources of ignition.
+
+Hazardous Combustion Products
+Carbon monoxide (CO), Carbon dioxide (002).
+
+5.3. Advice for firefiqhters
+
+ 
+
+ 
+
+ACR42392
+Page 2 / 8SAFETY DATA SHEET
+
+D-Mannitol Revision Date 29-Nov-2016
+
+ 
+
+As in any fire, wear self-contained breathing apparatus pressure-demand, MSHA/NIOSH (approved or equivalent) and full
+protective gear.
+
+ 
+
+SECTION 6: ACCIDENTAL RELEASE MEASURES
+
+ 
+
+6.1. Personal precautions, protective equipment and emerqencv procedures
+
+ 
+
+Ensure adequate ventilation. Use personal protective equipment. Avoid dust formation.
+
+6.2. Environmental precautions
+
+ 
+
+Avoid release to the environment.
+
+6.3. Methods and material for containment and cleaninq up
+
+ 
+
+Sweep up or vacuum up spillage and collect in suitable container for disposal. Avoid dust formation.
+
+6.4. Reference to other sections
+
+ 
+
+Refer to protective measures listed in Sections 8 and 13.
+
+SECTION 7: HANDLING AND STORAGE
+
+ 
+
+ 
+
+7.1. Precautions for safe handling
+
+ 
+
+Wear personal protective equipment. Ensure adequate ventilation. Avoid contact with skin, eyes and clothing. Avoid ingestion and
+inhalation. Avoid dust formation.
+
+Hygiene Measures
+
+Handle in accordance with good industrial hygiene and safety practice. Keep away from food, drink and animal feeding stuffs. Do
+not eat, drink or smoke when using this product. Remove and wash contaminated clothing before re-use. Wash hands before
+breaks and at the end of workday.
+
+7.2. Conditions for safe storage, includinq anv incompatibilities
+
+ 
+
+Keep containers tightly closed in a dry, cool and well-ventilated place.
+
+7.3. Specific end usels)
+
+ 
+
+Use in laboratories
+
+ 
+
+SECTION 8: EXPOSURE CONTROLS/PERSONAL PROTECTION
+
+ 
+
+8.1. Control parameters
+
+ 
+
+Exposure limits
+This product, as supplied, does not contain any hazardous materials with occupational exposure limits established by the region
+specific regulatory bodies
+
+Biological limit values
+This product, as supplied, does not contain any hazardous materials with biological limits established by the region specific
+regulatory bodies.
+
+ 
+
+ACR42392
+Page 3 / 8SAFETY DATA SHEET
+
+D-Mannitol Revision Date 29-Nov-2016
+
+ 
+
+Monitoring methods
+
+BS EN 140422003 Title Identifier: Workplace atmospheres. Guide for the application and use of procedures for the assessment of
+exposure to chemical and biological agents.
+
+MDHSf4/3 General methods for sampling and gravimetric analysis of respirable and inhalable dust
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Derived No Effect Level (DNEL) No information available
+Route of exposure Acute effects (local) Acute effects Chronic effects Chronic effects
+(systemic) (local) (systemic)
+Oral
+Dermal
+Inhalation
+
+Predicted No Effect Concentration No information available.
+(PNEC)
+8.2. Exposure controls
+Engineering Measures
+None under normal use conditions.
+Personal protective equipment
+
+Eye Protection Safety glasses with side-shields (European standard - EN 166)
+
+Hand Protection Protective gloves
+
+Glove material Breakthrough time Glove thickness EU standard Glove comments
+Nitrile rubber See manufacturers - EN 374 (minimum requirement)
+Neoprene recommendations
+Natural rubber
+PVC
+Skin and body protection Wear appropriate protective gloves and clothing to prevent skin exposure
+
+Inspect gloves before use.
+
+Please observe the instructions regarding permeability and breakthrough time which are provided by the supplier of the gloves.
+(Refer to manufacturer/supplier for information)
+
+Ensure gloves are suitable for the task: Chemical compatability, Dexterity, Operational conditions, User susceptibility, e.g.
+sensitisation effects, also take into consideration the specific local conditions under which the product is used, such as the danger
+of cuts, abrasion.
+
+Remove gloves with care avoiding skin contamination.
+
+Respiratory Protection No protective equipment is needed under normal use conditions.
+Large scale/emergency use Use a NIOSH/MSHA or European Standard EN 136 approved respirator if exposure limits
+are exceeded or if irritation or other symptoms are experienced
+
+Recommended Filter type: Particle filter
+Small scale/Laboratory use Maintain adequate ventilation
+
+Environmental exposure controls No information available.
+
+SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES
+
+ 
+
+ 
+
+9.1. Information on basic physical and chemical properties
+
+ 
+
+ 
+
+ 
+
+Appearance White
+
+Physical State Solid
+
+Odor Odorless
+
+Odor Threshold No data available
+
+pH No information available
+ACR42392
+
+Page 4/8SAFETY DATA SHEET
+
+ 
+
+D-Mannitol Revision Date 29-Nov-2016
+Melting Point/Range 165 - 170 °C / 329 - 338 °F
+
+Softening Point No data available
+
+Boiling Point/Range No information available
+
+Flash Point No information available Method - No information available
+Evaporation Rate Not applicable Solid
+
+Flammability (solid,gas) No information available
+
+Explosion Limits No data available
+
+Vapor Pressure No data available
+
+Vapor Density Not applicable Solid
+
+Specific Gravity / Density No data available
+
+Bulk Density No data available
+
+Water Solubility soluble
+
+Solubility in other solvents No information available
+
+Partition Coefficient (n-octanol/water)
+
+Autoignition Temperature Not applicable
+
+Decomposition Temperature No data available
+
+Viscosity Not applicable Solid
+
+Explosive Properties No information available
+
+Oxidizing Properties No information available
+
+9.2. Other information
+
+ 
+
+Molecular Formula C6 H14 06
+Molecular Weight 182.17
+
+ 
+
+SECTION 10: STABILITY AND REACTIVITY
+
+ 
+
+10.1. Reactivity . . .
+None known, based on information available
+
+10.2. Chemical stability
+Stable under normal conditions.
+
+10.3. Possibility of hazardous reactions
+
+ 
+
+Hazardous Polymerization Hazardous polymerization does not occur.
+Hazardous Reactions None under normal processing.
+
+10.4. Conditions to avoid
+
+ 
+
+Incompatible products. Excess heat. Avoid dust formation.
+10.5. Incompatible materials
+
+ 
+
+Strong oxidizing agents.
+
+10.6. Hazardous decomposition products
+Carbon monoxide (CO). Carbon dioxide (002).
+
+SECTION 11: TOXICOLOGICAL INFORMATION
+
+ 
+
+ 
+
+ 
+
+11.1. Information on toxicological effects
+
+ 
+
+Product Information
+
+(a) acute toxicity;
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oral Based on available data, the classification criteria are not met
+Dermal No data available
+Inhalation No data available
+Component LD50 Oral LD50 Dermal LC50 Inhalation
+D-Mannitol LD50 = 13500 mg/kg ( Rat)
+ACR42392
+
+Page 5/8SAFETY DATA SHEET
+
+D-Mannitol Revision Date 29-Nov-2016
+
+ 
+
+(b) skin corrosion/irritation; No data available
+
+(c) serious eye damage/irritation; No data available
+
+(d) respiratory or skin sensitization;
+
+Respiratory No data available
+Skin No data available
+(e) germ cell mutagenicity; No data available
+(f) carcinogenicity; No data available
+
+There are no known carcinogenic chemicals in this product
+
+(g) reproductive toxicity; No data available
+(h) STOT-single exposure; No data available
+(i) STOT-repeated exposure; No data available
+Target Organs None known.
+(j) aspiration hazard; Not applicable
+Solid
+Other Adverse Effects The toxicological properties have not been fully investigated.
+
+Symptoms / effects,both acute and No information available
+delayed
+
+ 
+
+SECTION 12: ECOLOGICAL INFORMATION
+
+ 
+
+12.1. Toxicity
+Ecotoxicity effects
+
+12.2. Persistence and deqradability
+
+ 
+
+ 
+
+Persistence Soluble in water, Persistence is unlikely, based on information available.
+12.3. Bioaccumulative potential Bioaccumulation is unlikely
+12.4. Mobility in soil The product is water soluble, and may spread in water systems Will likely be mobile in the
+
+ 
+
+environment due to its water solubility. Highly mobile in soils
+
+12.5. Results of PBT and vPvB No data available for assessment.
+assessment
+
+ 
+
+12.6. Other adverse effects
+
+Endocrine Disruptor Information This product does not contain any known or suspected endocrine disruptors
+Persistent Organic Pollutant This product does not contain any known or suspected substance
+
+Ozone Depletion Potential This product does not contain any known or suspected substance
+
+SECTION 13: DISPOSAL CONSIDERATIONS
+
+ 
+
+ 
+
+ 
+
+13.1. Waste treatment methods
+
+ 
+
+Waste from Residues / Unused Chemical waste generators must determine whether a discarded chemical is classified as a
+Products hazardous waste. Consult local, regional, and national hazardous waste regulations to
+ensure complete and accurate classification.
+
+ 
+
+ACR42392
+Page 6 / 8SAFETY DATA SHEET
+
+D-Mannitol Revision Date 29-Nov-2016
+
+ 
+
+Contaminated Packaging Empty remaining contents. Dispose of in accordance with local regulations. Do not re-use
+empty containers.
+
+European Waste Catalogue (EWC) According to the European Waste Catalogue, Waste Codes are not product specific, but
+application specific.
+
+ 
+
+ 
+
+Other Information Waste codes should be assigned by the user based on the application for which the product
+was used.
+SECTION 14: TRANSPORT INFORMATION
+IMDG/IMO Not regulated
+
+14.1. UN number
+
+14.2. UN proper shippinq name
+14.3. Transport hazard class(es)
+14.4. Packinq qroup
+
+ 
+
+ 
+
+ 
+
+ 
+
+ADR Not regulated
+
+14.1. UN number
+
+14.2. UN proper shippinq name
+14.3. Transport hazard class(es)
+14.4. Packinq qroup
+
+ 
+
+ 
+
+ 
+
+ 
+
+IATA Not regulated
+
+14.1. UN number
+
+14.2. UN proper shippinq name
+14.3. Transport hazard class(es)
+14.4. Packinq qroup
+
+ 
+
+ 
+
+ 
+
+ 
+
+14.5. Environmental hazards No hazards identified
+
+ 
+
+14.6. Special precautions for user No special precautions required
+
+ 
+
+14.7. Transport in bulk according to Not applicable, packaged goods
+Annex II of MARPOL73/78 and the
+IBC Code
+
+ 
+
+ 
+
+ 
+
+SECTION 15: REGULATORY INFORMATION
+
+ 
+
+15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+International Inventories X = listed
+Component EINECS ELINCS NLP TSCA DSL NDSL PICCS ENCS IECSC AICS KECL
+D—Mannitol 200-711—8 - X X - X X X X X
+National Regulations
+Component Germany - Water Classification (VwVwS) Germany - TA-Luft Class
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D-Mannitol WGK 2
+
+ 
+
+Take note of Control of Substances Hazardous to Health Regulations (COSHH) 2002 and 2005 Amendment.
+
+Take note of Dir 94/33/EC on the protection of young people at work
+
+Take note of Directive 98/24/EC on the protection of the health and safety of workers from the risks related to chemical agents at
+work
+
+15.2. Chemical safety assessment
+
+ 
+
+ 
+
+ 
+
+ACR42392
+Page 7 / 8SAFETY DATA SHEET
+
+D-Mannitol
+
+Revision Date 29-Nov-2016
+
+ 
+
+A Chemical Safety Assessment/Report (CSA/CSR) has not been conducted
+
+ 
+
+SECTION 16: OTHER INFORMATION
+
+ 
+
+Full text of H-Statements referred to under sections 2 and 3
+
+Legend
+
+CAS - Chemical Abstracts Service
+
+TSCA - United States Toxic Substances Control Act Section 8(b)
+Inventory
+
+ElNECS/ELINCS - European Inventory of Existing Commercial Chemical DSL/NDSL — Canadian Domestic Substances List/Non-Domestic
+
+Substances/EU List of Notified Chemical Substances
+
+PICCS - Philippines Inventory of Chemicals and Chemical Substances
+IECSC - Chinese Inventory of Existing Chemical Substances
+
+KECL - Korean Existing and Evaluated Chemical Substances
+
+WEL - Workplace Exposure Limit
+
+ACGIH — American Conference of Governmental Industrial Hygienists
+DNEL - Derived No Effect Level
+
+RPE - Respiratory Protective Equipment
+
+LC50 - Lethal Concentration 50%
+
+NOEC — No Observed Effect Concentration
+
+PBT - Persistent, Bioaccumulative, Toxic
+
+ADR — European Agreement Concerning the International Carriage of
+Dangerous Goods by Road
+
+IMO/IMDG — International Maritime Organization/International Maritime
+Dangerous Goods Code
+
+OECD — Organisation for Economic Co-operation and Development
+BCF - Bioconcentration factor
+
+Key literature references and sources for data
+
+Substances List
+
+ENCS - Japanese Existing and New Chemical Substances
+AICS - Australian Inventory of Chemical Substances
+NZIoC - New Zealand Inventory of Chemicals
+
+TWA - Time Weighted Average
+
+IARC — International Agency for Research on Cancer
+PNEC — Predicted No Effect Concentration
+
+LD50 - Lethal Dose 50%
+
+EC50 — Effective Concentration 50%
+
+POW - Partition coefficient Octanol:Water
+
+vPvB — very Persistent, very Bioaccumulative
+
+lCAO/IATA — International Civil Aviation Organization/International Air
+Transport Association
+
+MARPOL - International Convention for the Prevention of Pollution from
+Ships
+
+ATE — Acute Toxicity Estimate
+
+VOC - Volatile Organic Compounds
+
+Suppliers safety data sheet, Chemadvisor - LOLI, Merck index, RTECS
+
+Training Advice
+
+Chemical hazard awareness training, incorporating labelling, Safety Data Sheets (SDS), Personal Protective Equipment (PPE) and
+
+hygiene.
+Creation Date 19—Nov-2009
+Revision Date 29-Nov-2016
+
+Revision Summary Update to Format.
+
+This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006
+
+Disclaimer
+The information provided in this Safety Data Sheet is correct to the best of our knowledge, information and belief at the
+date of its publication. The information given is designed only as a guidance for safe handling, use, processing, storage,
+transportation, disposal and release and is not to be considered a warranty or quality specification. The information
+relates only to the specific material designated and may not be valid for such material used in combination with any other
+materials or in any process, unless specified in the text
+
+End of Safety Data Sheet
+
+ 
+
+ACR42392
+
+Page 8/8

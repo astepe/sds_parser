@@ -1,0 +1,963 @@
+Alta Aesar“
+
+Safety Data Sheet
+per OS
+
+Page 1/6
+
+A HazCom 2012 Printing date 11/24/2015
+
+Reviewed on 08/03/2015
+
+ 
+
+1 Identification
+Product identifier
+Product name: Ethanol, anhydrous, denatured
+
+Stock number:_2_2930 _ . .
+Relevant identified uses of the substance or mixture and uses adwsed against.
+Identified use: SU24 Soientific research and development
+
+Details of the supplier of the safety data sheet
+Manufacturer/Supplier:
+
+Alfa Aesar
+
+Thermo Fisher Scientific Chemicals, Inc.
+
+30 Bond Street
+
+Ward Hill, MA 01835-8099
+
+Tel: 800—343-0660
+
+Fax: 800—322-4 75 7
+
+Email: tech @alfa.com
+
+www.alfa.com
+
+Information Department: Health, Safety and Environmental Department
+Emergency telephone number:
+
+ 
+
+During normal busmess hours (Monday—Friday, 8am-7pm EST), call (800) 343-0660. After normal business hours, call Carechem 24 at (866) 928-0789.
+
+ 
+
+ 
+
+2 Hazard(s) identification
+Classification of the substance or mixture in accordance with 29 CFR 1910 (OSHA HCS)
+
+GHSOZ Flame
+Flam Liqa 2. H225 .Highlyﬂammable liquidand vapor. ,
+
+@ GHSOB Health hazard
+
+STOT SE 2 H371 May cause dama e to the eyes and the brain. Route of exposure: Oral and Inhalative, Dermal.
+Hazards not otherwise classified 0 information known.
+
+Label elements I I . .
+GHS label elements The product is claSSIfied and labeled in accordance With 29 CFR 1910 (OSHA HCS)
+Hazard pictograms
+
+<94?
+
+GHSOZ GHSOB
+
+Signal word Danger
+
+Hazard-determining components of labeling:
+
+Methanol
+
+Hazard statements
+
+H225 Highly flammable liquid and vapor. I I
+
+H371 May cause damage to the eyes and the brain. Route of exposure: Oral and Inhalative, Dermal.
+Precautionary statements I
+
+P210 Keep away from heat/sparks/O/Jen flames/hot surfaces. No smoking.
+
+P260 Do not breathe dust/fume/gas mist/vapours/spray. I I
+
+P280 Wear protectiveI loves/protective clothing/eye protection/face protection. I I
+P303+P361+P353 If on skin (or hair : Take off immediately all contaminated clothing. Rinse skin With water/shower.
+P405 Store locked up. I I I I I I I I
+P501 Dispose of contents/container in accordance With local/regionaI/national/international regulations.
+
+WHMIS classification
+32 — Flammable liqwd I I
+D23 - TOXIC material causmg other tOXIc effects
+
+.6)
+
+Classification system
+HMIS ratings scale 0-4) I I I
+(Hazardous aterials Identification System)
+
+HEALTH Health (aCILIIte foGCtS) : 2
+FIRE Flammablllty : 3
+Phy5ical Hazard = 1
+
+Other hazards
+
+Results of PBT and vPvB assessment
+PBT: Not applicable.
+
+vPvB: Not applicable.
+
+   
+  
+
+ 
+
+ 
+
+ 
+
+3 Composition/information on ingredients
+Chemical characterization: Mixtures
+
+64-1 7-5 E
+— 1
+
+None known.
+
+ 
+
+ 
+
+4 First-aid measures
+
+Description of first aid measures
+After inhalatioIn I I I I I I I I
+Supply fresh air. If reqwred, prowde artifICIal respiration. Keep patient warm.
+
+ 
+
+(Contd. on page 2)
+USASafety Data Sheet
+per OS
+
+Page 2/6
+
+A HazCom 2012 Printing date 11/24/2015
+
+Reviewed on 08/03/2015
+
+ 
+
+|Product name: Ethanol, anhydrous, denatured
+
+ 
+
+ 
+
+Seek immediate medical advice.
+
+After skin contact .
+
+Immediately wash with waterIand soap and rinse thoroughly.
+
+Seek Immediate medical adVIce.
+
+After eye contact Rinse opened eye for several minutes under running water. Then consult a doctor.
+
+After swallowing Seek medical treatment.
+
+Information for doctor . . I
+
+Most important symptoms and effects, both acute and delayed No further relevant information available.
+
+Indication of any immediate medical attention and special treatment needed No further relevant information available.
+
+(Contd. of page 1)
+
+ 
+
+ 
+
+5 Fire-fighting measures
+
+Extinguishing media
+Suita
+Special hazards arising mm the substance or mixture
+
+If this product is involved in a fire, the following can be released:
+Carbon monoxide and carbon dioxide
+
+Advice for firefighters
+
+Protective equipment: I
+
+Wear self-contained rIespiratIor. I
+
+Wear fully protective imperVIous swt.
+
+Ie extinguishing a ents Carbon dioxide, extinguishing powder or water spray. Fight larger fires with water spray or alcohol resistant foam.
+
+ 
+
+ 
+
+6 Accidental release measures
+
+Personal precautions, protective equipment and emergency procedures
+
+Wear protective equment. Keep unprotected persons away.
+
+Ensure ade uateI ventilation
+
+Keep away rom ignition sources I .
+EnVironmental precautions: Do not allow material to be released to the environment Without proper governmental permits.
+Methods and material for containment and cleaning up:
+
+Keep away frIomIi nIition sources. I . I I I I
+
+Absorb With liqui -bindin material (sand, diatomiteI, aCId binders, universal binders, sawdust).
+
+Dispose of contaminate material as waste according to section 13.
+
+Ensure adequate ventilation. I I _
+
+Prevention of secondary hazards: Keep away from ignition sources.
+
+Reference to other sections I
+
+See Section 7 for information on safe handling I I
+
+See Section 8 for information on personal protection equipment.
+
+See Section 13 for disposal information.
+
+ 
+
+ 
+
+7 Handling and storage
+
+Handling
+
+Precautions forIsafe handling
+
+Keep container tightly sealed. I
+
+Store in cool, dry place in ti%htly closed containers.
+
+Ensure good ventilation att e workplace.
+
+Information about protection against explosions and fires:
+Protect against electrostatic charges. I I
+
+Fumes can combine with air to form an explosive mixture.
+Keep ignition sources away.
+
+gonditions for safe storage, including any incompatibilities
+tora e
+
+Requﬁements to be met by storerooms and receptacles: Store in a cool location.
+Information about storage in one common storage facility:
+Store away from OXIdizmg agents.
+
+Store away from water/maisture.
+
+Further information about storage conditions:
+
+This product is hygroscopic.
+
+Store underI dry inert gas.
+
+Keep container tightly sealed. I
+
+Store in cool, dry conditions in well sealed containers.
+
+Protect from humidit and water. I I I
+Specific end use(s No further relevant information available.
+
+ 
+
+ 
+
+8 Exposure controls/personal protection
+
+Additional information about design of technical systems: I I I I
+Properly operating chemical fume hood deSIgned for hazardous chemicals and havmg an average face veIOCIty of at least 100 feet per minute.
+
+Control parameters
+
+ 
+
+ 
+
+Components with limit values that require monitoring at the workplace:
+
+ 
+
+64-17-5 Ethyl alcohol (90.0%)
+
+ 
+
+PEL (USA) Long-term value: 1900 mg/m3, 1000 ppm
+REL (USA) Long-term value: 1900 mg/m3, 1000 ppm
+TLV (USA) Short-term value: 1880 mg/m3, 1000 ppm
+EV (Canada) Long-term value: 1.900 mg/m3, 1.000 ppm
+
+ 
+
+67-56-1 Methanol (5.0%)
+
+ 
+
+PEL (USA) Long-term value: 260 mg/m3, 200 ppm
+
+REL (USA) Short-term value: 325 mg/m3, 250 ppm
+
+gang-term value: 260 mg/m3, 200 ppm
+in
+
+TLV (USA) Short-term value: 328 mg/m3, 250 ppm
+
+Long-term value: 262 mg/m3, 200 ppm
+
+Skin; BEI
+
+EL (Canada) Short-term value: 250 ppm
+
+Long-term value: 200 ppm
+
+Skin
+
+EV (Canada) Short-term value: 325 mg/m3, 250 ppm
+
+ging-term value: 260 mg/m3, 200 ppm
+in
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Contd. on page 3)
+USA —Safety Data Sheet
+per OS A HazCom 2012
+
+Page 3/6
+
+Printing date 11/24/2015
+Reviewed on 08/03/2015
+
+ 
+
+|Product name: Ethanol, anhydrous, denatured
+
+ 
+
+ 
+
+(Contd of page 2)
+
+ 
+
+67-63-0 2-Propanol (5.0%)
+
+ 
+
+PEL (USA) Long-term value: 980 mg/m3, 400 ppm
+REL (USA) Short-term value: 1225 m /m3, 500 ppm
+Long-term value: 980 mg m3, 400 ppm
+TLV (USA) Short—term value: 984 mg/m3, 400 ppm
+Egg-term value: 492 mg/m3, 200 ppm
+
+EL (Canada) Short-term value: 400 ppm
+Long-term value: 200 ppm
+EV (Canada) Short-term value: 400 ppm
+Long—term value: 200 ppm
+
+ 
+
+ 
+
+ 
+
+Ingredients With biological limit values:
+
+ 
+
+67-56-1 Methanol (5.0%)
+
+ 
+
+BEI (USA) 15 mg/L I
+
+Medium: urine
+
+Time: end of shift I I
+Parameter: Methanol (background, nonspeCIfic)
+
+ 
+
+67-63-0 2-Propanol (5.0%)
+
+ 
+
+BEI (USA) 40 mg/L I
+
+Medium: urine
+
+Time: end of shift at end of workweek I I
+Parameter: Acetone (background, nonspeCIfic)
+
+ 
+
+ 
+
+Additional information: No data
+
+Exposure controls I
+
+Personal protective equipment
+
+General protective and hygienic measures I
+
+The usual precautionary measures for handling chemicals should be followed.
+Keep away from foodstuffs, beverages and feed. I
+Remove all sailed and contaminated clothing immediately.
+Wash hands before breaks and at the end of work.
+
+Do not inhale dust / smoke / mist. .
+
+Avoid contact With the eyes and skin. I I
+Maintain an ergonomically appropriate working enVIronment.
+Breathing equipment:
+
+approved under appropriate government standards such as NIOSH (USA) or CEN (EU).
+
+Protection of hands:
+
+ImperVIous gloves I I I I
+
+Check protective gloves prior to each use for their proper condition. I I I
+
+The selection of swtable gloves not only depends on the material, but also on quality. Quality Will vary from manufacturer to manufacturer.
+Material of gloves BuP/I rubber, BR I
+
+Penetration time of g ove material (in minutes) Not determined
+
+Eye protection: Safety glasses
+
+Body protection: Protective work clothing.
+
+Use self-contained breathing apparatus (SCBA) as a backup to engineering controls. Risk assessment should be performed. Only use equipment tested and
+
+ 
+
+ 
+
+9 Physical and chemical properties
+
+ 
+
+Information on basic physical and chemical properties
+General Information
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ap earance:
+Fgrm: Liquid
+Color: Colorless
+Odor: Alcohol-like
+Odor threshold: Not determined.
+pH-value: Not determined.
+Change in condition
+Melting point/Melting range: -90 °C {-130 °F)
+Boiling point/Boiling range: 78 °C (1 72 °F)
+Sublimation temperature / start: Not determined
+Flash point: 11 °C (52 °F)
+Flammability (solid, gaseous) Not applicable.
+Ignition temperature: 455 °C (851 °F)
+Decomposition temperature: Not determined
+Auto igniting: Product is not selfigniting.
+Dan er of explosion: Product is not explosive. However, formation of explosive air/vapor mixtures is possible.
+Exp osion limits:
+Lower: 3.5 Vol %
+Upper: 15.0 Vol %
+Vapor pressure at 20 °C (68 °F): 57 hPa 43 mm Hg)
+Density at 20 °C (68 °F): 0.789 g cm3 (6.584 lbs/gal)
+Relative density Not determined.
+Vapor density Not determined.
+Evaporation rate Not determined.
+Solubility in / Miscibility with
+Water: Fully miscible
+PartitioIn coefficient (n-octanol/water): Not determined.
+Viscosny: I
+dynamic: Not determined.
+kinematic: Not determined.
+Solvent content:
+Organic solvents: 10.0 %
+Other information No further relevant information available.
+
+ 
+
+ 
+
+ 
+
+10 Stability and reactivity
+
+Reactivity No information known. I I
+Chemical stability Stable underIrecommended stora e conditions.I I I I I I I
+Thermal decomposmon / conditions to be avaide : Decomposmon Will not occur if used and stored according to speCIfications.
+
+ 
+
+ 
+
+(Contd. on page 4)
+USA —Safety Data Sheet Page 4/6
+per OS A HazCom 2012 Printing date 11/24/2015
+Reviewed on 08/03/2015
+
+ 
+
+|Product name: Ethanol, anhydrous, denatured
+
+ 
+
+ 
+
+(Contd. of page 3)
+Possibility of hazardous reactions No dangerous reactions known
+Conditions to avoid No further relevant information available.
+Incompatible materials:
+OXIdIZIng agents
+Water/maisture
+Hazardous decomposition products: Carbon monoxide and carbon dioxide
+
+ 
+
+ 
+
+11 Toxicological information
+
+Information on toxicological effects
+
+Acute toxicity:
+
+Harmful if inhaled.
+
+Harmful in contact with skin.
+
+Harmful if swallowed. I
+
+Danger through skInI absorption. . I I I I I
+
+The Registry of TOXIC Effects of Chemical Substances (RTECS) contains acute tOXICIty data for components In this product.
+
+ 
+
+ 
+
+LD/LC50 values that are relevant for classification:
+64-17-5 Ethyl alcohol
+
+ 
+
+ 
+
+ 
+
+ 
+
+Oral |LD50 \ 7060 mg/kg (rat)
+67-56-1 Methanol
+Oral LD50 14200 mg/kg (rabbit)
+
+Inhalative LC50/6H 41000 ppm/6H (mouse)
+67-63-0 2-Propanol
+Oral LD50 5045 mg/kg (rat)
+Dermal LD50 12800 mg/kg (rabbit)
+Inhalative LC50/8H 12560 ppm/8H (rat)
+
+Skin irritation or corrosion: May cause irritation
+Eye irritation or corrosion: Ma cause irritation
+Sensitization: No sensitizing ef ects known. I I I I
+germ cell qutagenicity: The Registry of Toxic Effects of Chemical Substances (RTE CS) contains mutation data for components In this product.
+
+arcmo enlClt :
+ACGIH 3: Aninjgal carcinogen: Agent is carcinogenic in experimental IanimalsIat a relatively high dose, by ro_ute(s) of administration, at site(s), of histologic type(s),
+or by mechanism(s) not conSIdered relevant to worIker exposure. Available epidemologic studies do not confirm anI Increased risk of cancer In exposed humans.
+Available eVIdenceI Isu gests that the agentIis not likely to cause cancer In humans except under uncommon or unlikely routes or levels of exposure.
+[ARC-3: Not claSSIfiab e as to carCInogenICIty to humans. I I I I I I I I I
+ACGIH A4: Not classifiable as a human carcinogen: Inade uate data on which to claSSIfy the agent In terms of Its carCInogenICIty In humans and/oIr animals.
+The Re istry of TOXIC Effects of Chemical Substances (RT CS) contains tumori enic and/or carCInogenic and/or neoplastic data for components In this product.
+Repro uctive toxicity: The Registry of Toxic Effects of Chemical Substances ( TECS) contains reproductive data for components In this product.
+Specific target organ system toxicity - repeated exposure: No effects known. I I
+Specific tar et or an system toxicity - single exposure: May cause damage to the eyes and the brain. Route of exposure: Oral and Inhalative, Dermal.
+Aspiration azar : No effects known. I I I
+Subacute to chronic toxicit : The Registry of Toxic Effects of Chemical Substances (RTECS) contains multiple dose tOXICIty data for this substance.
+Additional toxicological in ormation: I I I I I
+To the best of our knowledge the acute and chronic toxIICIty of this substance Is not fully known. I
+I7_'Ihe pIIoIduct shows the following dangers according to Internally approved calculation methods for preparations:
+
+arm u
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 Ecological information
+
+Toxicity
+
+Aquatic toxicity: No further relevant information available.
+
+Persistence and degradability No further relevant information available.
+
+Bioaccumulative potential No further relevant information available.
+
+Mobility in soil No further relevant information available.
+
+Additional ecological information:
+
+General notes: I I I
+Do not allow material to be released to the environment Without proper governmental permits.
+Do not allow undiluted product or large quantities to reach ground water, water course or sewage system.
+Avoid transfer into the environment.
+
+Results of PBIT and vPvB assessment
+
+PBT: Not applicable.
+
+vPvB: Not applicable.
+
+Other adverse effects No further relevant information available.
+
+ 
+
+ 
+
+13 Disposal considerations
+
+Waste treatment methods
+
+Recommendation Consult state, local or national regulations to ensure proper disposal.
+Uncleaned packagings: I I I
+Recommendation: Disposal must be made according to offICIal regulations.
+Recommended cleansing agent: Water, if necessary with cleansmg agents.
+
+ 
+
+ 
+
+14 Transport information
+
+ 
+
+ 
+
+ 
+
+UN-Number
+
+DOT, IMDG, IATA UN1987
+
+UN ro er shipping name
+
+D019 p Alcohols, n.o.s.
+
+IMDG, IATA ALCOHOLS, N. O. 8.
+Transport hazard class(es)
+
+DOT
+
+Class 3 Flammable liquids.
+Label . .
+Class 3 (F1) Flammable liqUIds
+
+ 
+
+ 
+
+ 
+
+(Contd. on page 5)
+USA —Safety Data Sheet Page 5/6
+per OS A HazCom 2012 Printing date 11/24/2015
+Reviewed on 08/03/2015
+
+ 
+
+|Product name: Ethanol, anhydrous, denatured
+
+ 
+
+ 
+
+(Contd. of page 4)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Label 3
+
+IMDG, IA TA
+
+Class 3 Flammable liquids.
+
+Label 3
+
+Packing group
+
+DOT, IMDG, IATA II
+
+Environmental hazards:
+
+Marine pollutant (IMDG): No
+
+Special precautions for user Warning: Flammable liquids
+EMS Number: F-E,S-D
+
+ 
+
+Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code Not applicable.
+Transport/Additional information:
+
+ 
+
+ 
+
+DOT
+Marine Pollutant (DOT): No
+UN "Model Regulation": UN1987, Alcohols, n.o.s., special provision 640D, 3, II
+
+ 
+
+ 
+
+ 
+
+15 Regulatory information
+
+Safety, health and environmental re uIations/Ie islation specific for the substance or mixture
+GHS abel elements The product is c assified and abeled in accordance With 29 CFR 1910 (OSHA HCS)
+Hazard pictograms
+
+GHSOZ GHSOB
+
+Signal word Danger
+
+Hazard-determining components of labeling:
+
+Methanol
+
+Hazard statements I I
+
+H225 Highly flammable liquid and vapor. I I
+
+H371 May cause damage to the eyes and the brain. Route of exposure: Oral and Inhalative, Dermal.
+Precautionary statements I
+
+P210 Keep away from heat/sparks/O/JeIn flames/hot surfaces. No smoking.
+
+P260 Do not breathe dust/fume/gas mist/vapours/spray. I I
+
+P280 Wear protective loves/protective clothing/eye protection/face protection. I I
+IP38§+P361+P353 If on skin (or hair : Take off immediately all contaminated clothing. Rinse skin With water/shower.
+
+Store locked up. I I I I . I I _
+P50I1 I Dispose of contents/container in accordance With local/regional/national/international regulations.
+National regulations
+
+All components of this product are listed in the U. S. Environmental Protection Agency Toxic Substances Control Act Chemical substance Inventory.
+All components of this product are listed on the Canadian Domestic Substances List (DSL).
+
+SARA Section 313 (specific toxic chemical listings)
+
+67-56—1 Methanol 5.0%
+67—63—0 2—Propanol 5.0%
+California Proposition 65
+
+Prop 65 - Chemicals known to cause cancer
+
+None of the ingredients are listed.
+
+Prop 65 - Developmental toxicity
+
+6 7—56—1 | Methanol | 5.0%
+
+Prop 65 - Developmental toxicity, female
+None of the ingredients are listed.
+
+Prop 65 - Developmental toxicity, male
+None of the ingredients are listed.
+
+Information about limitation of use: ForI use only by technically qualified individuals.
+Other regulations, limitations and prohibitive regulations
+
+Substance of Very High Concern (SVHC) according to the REACH Regulations (EC) No. 1907/2006.
+
+None of the ingredients are listed.
+
+The conditions of restrictions according to Article 67 and Annex XVII of the Regulation (EC) No 1907/2006 (REACH) for the manufacturing, placing on the
+market and use must be observed.
+
+None of the ingredients is listed.
+
+Annex XIV of the REA CH Regulations (requiring Authorisation for use)
+
+None of the ingredients is listed.
+
+Chemical safety assessment: A Chemical Safety Assessment has not been carried out.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16 Other information I I I I I I I I I I I
+Employers should use this information only as a supplement to other information gathered by thIem,Iand should make independent judgement of swtabilit of this
+information to ensure properIuse and protect the health and safety of employees. This information is furnished WithouIt warranty, and any use of the pro uct not in
+conformance With this Material Safety Data Sheet, or in combination With any other product or process, is the responSIbility oft e user.
+
+Department issuing SDS: Global Marketing Department
+Date of preparation / last revision 11/24/2015 / —
+
+AbbreViations and acronyms: _ _ _ _ _ _
+RID: Réglement international concernant Ietransport des marchandises dangereuses par chem/n de fer (Regulations Concerning the International Transport of Dangerous Goods by Rail)
+ICAO: International CiViI AVIation Organization _ _ _ _
+
+ADR: Accord européen sur le transport des marchandises dangereuses par Route (European Agreement concerning the International Carriage of Dangerous Goods by Road)
+
+IMDG: International Maritime Code for Dangerous Goods
+
+DOT: US Department of Transportation _
+
+IA TA: International Air Transport AsIsOICIation _ _
+
+EINE CS: European Inventory of EXIsting ICommerCIaI Chemical Substances
+
+ELINCS: European List of Notified Chemical Substances _ _
+
+CAS: Chemical Abstracts Service division of the American Chemical SOC/ety)
+
+HMIS: Hazardous Materials Identi ication System (USA)
+
+ 
+
+ 
+
+(Contd. on page 6)
+USA —Safety Data Sheet Page 6/6
+
+per OS A HazCom 2012 Printing date 11/24/2015
+Reviewed on 08/03/2015
+
+|Product name: Ethanol, anhydrous, denatured
+
+ 
+
+_ _ (Contd. of page 5)
+WHMIS: Workplace Hazardous Materials Information System (Canada)
+
+LC50: Lethal concentration, 50 percent
+
+LD50: Lethal dose, 50 percent
+
+vPvB: very Persistent and very Bioaccumulative
+
+ACGIH: American Conference of Governmental Industrial l-Ilzy ienists (USA)
+OSHA: Occupational Safet and Health Administration (US )9
+
+NTP.‘ National Toxicology rogram (USA)
+
+IARC: InternationalA ency for Research on Cancer
+
+EPA: Environmental rotection Agency (USA)
+
+ 
+
+USA

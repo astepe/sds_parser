@@ -1,0 +1,804 @@
+Alta Aesar”
+
+Safety Data Sheet
+per OS
+
+Page 1/5
+
+A HazCom 2012 Printing date 11/24/2015
+
+Reviewed on 02/11/2014
+
+ 
+
+1 Identification
+Product identifier
+Product name: Sodium
+
+Stock number: 10336
+
+CAS Number:
+
+7440—23—5
+
+EC number:
+
+231 -132-9
+
+Index number:
+
+011-001-00-0
+
+Relevant identified uses of the substance or mixture and uses advised against.
+Identified use: SU24 Scientific research and development
+
+Details of the supplier of the safety data sheet
+Manufacturer/Supplier:
+
+Alfa Aesar
+
+Thermo Fisher Scientific Chemicals, Inc.
+
+30 Bond Street
+
+Ward Hill, MA 01835-8099
+
+Tel: 800-343—0660
+
+Fax: 800—322-4 75 7
+
+Email: tech @alfa.com
+
+www.alfa.com I
+Information Department: Health, Safety and EnVIronmental Department
+Emergency telephone number:
+
+During normal business hours (Monday—Friday, 8am-7pm EST), call (800) 343—0660. After normal business hours, call Carechem 24 at (866) 928—0789.
+
+ 
+
+ 
+
+2 Hazard(s) identification
+Classification of the substance or mixture in accordance with 29 CFR 1910 (OSHA HCS)
+
+GHSOZ Flame
+Water-react. 1, H260 I In contact with waterreleases flammable gases which Imayignite spontaneously.
+
+GHSOS Corrosion
+
+Skin Corr. lB H314 Causes severe slI<in burns and eye damage.
+Hazards not otherwise classified No information known.
+
+Label elements I I
+GHS label elements The product is classified and labeled In accordance With 29 CFR 1910 (OSHA HCS)
+Hazard pictograms
+
+<9
+
+GHSOZ GHSOS
+
+Signal word Danger
+
+Hazard statements I I I
+
+H260 In contact with water releases flammable gases which may Ignite spontaneously.
+H314 Causes severe skin burns and eye damage.
+
+Precautionary statements
+
+P231 +P232 Handle under inert gas. Protect from moisture.
+
+P260 Do not breathe dust/fume/fgas/mist/vapours/spray. I I I I I
+
+P303+P361+P353 If on skinE(or hair): Take 0 immediately all contaminated clothing. Rinse skin With water/shower. I I I
+
+£382+P351+P338 g: IN EYkSaRinse cautiously With water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsmg.
+tore oc e up.
+
+P501 Dispose of contents/container in accordance with local/regional/national/international regulations.
+
+WHMIS classification I
+
+B6 - Reactive flammable material I
+
+D2B - Toxic material causmg other tOXIc effects
+E - Corrosive material
+
+®®O
+
+Classification system
+HMIS ratings (scalIe 0-4) _ _ I
+(Hazardous Materials Identification System)
+
+HEALTH Health (acute foGCtS) : 3
+FIRE Flammablllty : 3
+Physical Hazard = 3
+
+Other hazards
+
+Results of PBT and vPvB assessment
+PBT: Not applicable.
+
+vPvB: Not applicable.
+
+ 
+
+ 
+
+ 
+
+3 Composition/information on ingredients
+
+Chemical characterization: Substances
+CAS# Description:
+
+7440-23-5 Sodium
+
+Identification number s):
+
+EC number: 231 -132-
+
+lndex number: 011—001—00—0
+
+ 
+
+USA —
+
+ 
+
+(Contd. on page 2)Safety Data Sheet
+per OS
+
+Page 2/5
+
+A HazCom 2012 Printing date 11/24/2015
+
+Reviewed on 02/11/2014
+
+ 
+
+|Product name: Sodium
+
+ 
+
+(Contd. of page 1)
+
+ 
+
+4 First-aid measures
+
+Description of first aid measures
+
+General information Immediately remove any clothing soiled by the product.
+
+After inhalation I I I
+
+Supply fresh air. If required, provide artificial respiration. Keep patient warm.
+
+Seek Immediate medical adVIce.
+
+After skin contact I
+
+Immediately wash with waterIand soap and rinse thoroughly.
+
+Seek Immediate medical adVIce. I I
+
+After eye contact Rinse opened eye for several minutes under running water. Then consult a doctor.
+
+After swallowing Seek medical treatment.
+
+Information for doctor
+
+Most important symptoms and effects, both acute and delayed
+
+Causes severe skin burns.
+
+Causes serious eye damage. I I I
+Indication of any immediate medical attention and special treatment needed No further relevant information available.
+
+ 
+
+ 
+
+5 Fire-fighting measures
+
+Extinguishing media
+
+Suita le extinguishing agents Special powder for metal fires. Do not use water.
+For safety reasons unsuitable extinﬁuishing agents Water
+Special hazards arising from the su stance or mixture
+Reacts violently with water I I
+
+If this product is involved in a fire, the followmg can be released:
+Sodium oxide
+
+Advice for firefighters
+
+Protective eqmpment: I
+
+Wear self-contained rIespiratIor. I
+
+Wear fully protective imperVIous swt.
+
+ 
+
+ 
+
+6 Accidental release measures
+
+Personal precautions, protective equipment and emergency procedures
+
+Wear protective equmeInt. Keep unprotected persons away.
+
+Ensure ade uateI ventilation
+
+Keep away rom ignition sources I I I I
+Environmental precautions: Do not allow material to be released to the enVIronment Without proper governmental permits.
+Methods and material for containment and cleaning up:
+
+Keep away from ignition sources.
+
+Use neutralizmg agent. I I I
+
+Dispose of contaminated Imaterial as waste according to section 13.
+
+Ensure adequate ventilation. I
+
+Do not flush With water or aqueous cleansmg agents I I I
+
+Prevention of secondary hazards: Keep away from ignition sources.
+
+Reference to other sections I
+
+See Section 7 for information on safe handling I I
+
+See Section 8 for information on personal protection equment.
+
+See Section 13 for disposal information.
+
+ 
+
+ 
+
+7 Handling and storage
+
+Handling
+
+Precautions for safe handling
+
+Handle under dry protective (gas.
+
+Keep container tightly sea/Ie . I
+
+Store in cool, dry place in ti htly closed containers.
+
+Ensure good ventilation att e workplace.
+
+Information about protection against explosions and fires: No information known.
+
+gonditions for safe storage, including any incompatibilities
+tora e
+
+Requirements to be met by storerooms and receptacleIsI: No special requirements.
+Information about storage in one common storage faCiIity:
+Store away from air. I
+
+Store away from water/maisture.
+
+Do not store togetherIWith aCIds.
+
+Store away from OXIdIZIng agents.
+
+Store away from halogens.
+
+Store away from halocarbons.
+
+Store away from alcohols. . I
+
+Further information about storage conditions:
+
+StoIre under dry inert gas. I I
+
+This product is mIOISture Isensmve.
+
+This product is air sIenSItive.
+
+Protect from humidity and water.
+
+Keep container tight y sealed. I
+
+Store in cool, dry conditions in well sealed containers. I
+Specific end use(s) No further relevant information available.
+
+ 
+
+ 
+
+8 Exposure controls/personal protection
+
+Additional information about design of technical systems: I I I I
+Properly operating chemical fume hood deSIgned for hazardous chemicals and havmg an average face veIOCIty of at least 100 feet per minute.
+
+Control parameters
+
+Components with limit values that require monitoring at the workplace: I
+
+The product does not contain any relevant quantities of materials With critical values that have to be monitored at the workplace.
+Additional information: No data
+
+Exposure controIs I
+
+Personal protective equipment
+
+General protective and hygienic measures I
+
+The usual precautionary measures for handling chemicals should be followed.
+Keep away from foodstuffs, beverages and feed. I
+
+Remove all sailed and contaminated clothing immediately.
+
+ 
+
+ 
+
+ 
+
+(Contd. on page 3)
+USA —Safety Data Sheet
+per OS A HazCom 2012
+
+Page 3/5
+
+Printing date 11/24/2015
+Reviewed on 02/11/2014
+
+ 
+
+|Product name: Sodium
+
+ 
+
+ 
+
+Wash hands before breaks and at the end of work.
+
+Avoid contact With the eyes and skin. . I
+
+Maintain an ergonomically appropriate working enVIronment.
+
+Breathing e ui ment: Use suitable respirator when high concentrations are present.
+
+Recommen e filter device for short term use:
+
+purifying respirators are appropriate. Only use equipment tested and approved un er appropriate government standards.
+Protection of hands:
+
+ImperVIous gloves I I I I
+
+Check protective gloves prior to each use for their proper condition. I I I
+The selection of suitable gloves not only depends on the material, but also on quality. Quality Will vary from manufacturer to manufacturer.
+Material of gloves Nitrile rubber, NBR
+
+Penetration_time of glove material (in minutes) Not determined
+
+Eye protection:
+
+Tightly sealed goggles
+
+Full face protection I
+
+Body protection: Protective work clothing.
+
+Use a respirator with type P100 (USA) or P3 (EN 143) cartridges as a backup to enjgineering controls. Risk assessment should be performed to determine if air—
+
+(Contd. of page 2)
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 Physical and chemical properties
+
+ 
+
+Information on basic physical and chemical properties
+General Information
+
+ 
+
+ 
+
+ 
+
+Appearance:
+Form: Solid in various forms
+Color: Silver grey
+Odor: Odorless
+Odor threshold: Not determined.
+pH-vaIue: Not applicable.
+Change in condition
+Melting point/Melting range: 98 °C (208 °F)
+Boiling point/Boiling range: 883 °C (1621 °F)
+Sublimation temperature / start: Not determined I
+Flammability (solid, gaseous) Contact With water liberates extremely flammable gases.
+Ignition temperature: >115 °C (>239 °F)
+Decomposition temperature: Not determined
+Auto igniting: Not determined.
+Dan er of explosion: Not determined.
+Exp osion limits:
+Lower: Not determined
+Upper: Not determined
+Vapor pressure at 400 °C (752 °F): 1.59 hPa (1 mm Hg)
+Density at 20 °C (68 °F): 0.968 g/cm3 (8.07 lbs/gal)
+Relative density Not determined.
+Vapor density Not applicable.
+Evaporation rate Not applicable.
+Solubility in / Miscibility with
+Water: Reacts violently
+Contact with water releases flammable gases
+Alcohols: Reacts
+PartitioIn coefficient (n-octanoI/water): Not determined.
+Visc05ity: I
+dynamic: Not applicable.
+kinematic: Not applicable.
+Other information No further relevant information available.
+
+ 
+
+ 
+
+ 
+
+10 Stability and reactivity
+
+Reactivity
+
+Reacts Violently with water. I I I
+
+In contact with water releases flammable gases which may ignite spontaneously.
+
+Chemical stability Stable underIrecommended stora e conditions. I I I I
+Thermal decomp03ition / conditions to be avoide : Decomposition will not occur if used and stored according to speCIfications.
+Possibility of hazardous reactions
+
+Reacts With strong OXIdizmg agents
+
+Contact with water releases flammable gases
+
+Reacts Violently With water
+
+Conditions to avoid No further relevant information available.
+
+Incompatible materials:
+
+AIcids
+
+Alr. . .
+
+OXIdizmg agents
+
+Halogens
+
+Halocarbons
+
+Alcohols I
+
+Water/maisture I I
+
+Hazardous decomposmon products: Sodium oxide
+
+ 
+
+ 
+
+11 Toxicological information
+
+Information on toxicological effects
+
+Acute toxicity: I I
+
+Swallowmg Will lead to a strong corrosIve effect on mouth and throat and to the danger of perforation of esophagus and stomach.
+The Registry of Toxic Effects of Chemical Substances (RTECS) contains acute toxmity data for this substance.
+
+LD/LC50 values that are relevant for classification: No data
+
+Skin irritation or corrosion: Causes severe skin burns.
+
+Eye irritation or corrosion: Causes serious eye damage.
+
+Sensitization: No sensitizing effects known.
+
+Germ cell mutagenicit : No effects known. I I I
+
+Carcinogenicity: No c assification data on carcinogenic properties of this material is available from the EPA, IARC, NTP, OSHA or ACGIH.
+Reproductive toxicity: No effects known.
+
+Specific target organ system toxicity - repeated exposure: No effects known.
+
+Specific target organ system toxicity - single exposure: No effects known.
+
+ 
+
+ 
+
+(Contd. on page 4)
+USA —Safety Data Sheet Page 4/5
+per OS A HazCom 2012 Printing date 11/24/2015
+Reviewed on 02/11/2014
+
+ 
+
+|Product name: Sodium
+
+ 
+
+ 
+
+(Contd. of page 3)
+Aspiration hazard: No effects known. I I I
+Subacute to chronic toxiCit : The Registry of Toxic Effects of Chemical Substances (RTIECS)_ contains multiple dose tOXICIty data for this substance.
+Additional toxicological in ormation: To the best of our knowledge the acute and chronic tOXICIty of this substance is not fully known.
+
+ 
+
+ 
+
+12 Ecological information
+
+Toxicity
+
+Aquatic toxicity: No further relevant information available.
+
+Persistence and degradability No further relevant information available.
+Bioaccumulative potential No further relevant information available.
+
+Mobility in soil No further relevant information available.
+
+Additional ecological information:
+
+General notes: I
+Do not allow material to be released to the environment without proper governmental permits.
+Avoid transfer into the environment.
+
+Results of PBT and vPvB assessment
+
+PBT: Not applicable.
+
+vPvB: Not applicable.
+
+Other adverse effects No further relevant information available.
+
+ 
+
+ 
+
+13 Disposal considerations
+
+Waste treatment methods
+
+Recommendation Consult state, local or national regulations to ensure proper disposal.
+Uncleaned packagings: . . _
+Recommendation: Disposal must be made according to offICIal regulations.
+
+ 
+
+ 
+
+ 
+
+ 
+
+14 Transport information
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UN-Number
+
+DOT, IMDG, IATA UN1428
+
+UN roper shipping name
+
+DO‘F Sodium
+
+IMDG, IATA SODIUM
+
+Transport hazard class(es)
+
+DOT
+
+flags? 2% Substances which, in contact with water, emit flammable gases.
+a e .
+
+Class 4.3 (W2) Substances which, in contact with water, emit flammable gases
+
+Label 4.3
+
+IMDG, IA TA
+
+Class 4.3 Substances which, in contact with water, emit flammable gases.
+
+Label 4.3
+
+Packing group
+
+DOT, IMDG, IATA I
+
+Environmental hazards: Not applicable.
+
+S ecial precautions for user Warning: Substances which, in contact with water, emit flammable gases
+MS Number: F—G,S—N
+
+ 
+
+Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code Not applicable.
+Transport/Additional information:
+
+ 
+
+ 
+
+DOT
+Marine Pollutant (DOT): No
+UN "Model Regulation": UN1428, Sodium, 4.3, I
+
+ 
+
+ 
+
+ 
+
+15 Regulatory information
+
+Safety, health and environmental re ulations/Ie islation specific for the substance or mixture
+GHS labeIl elements The product is c assified and abeled in accordance With 29 CFR 1910 (OSHA HCS)
+Hazard pictograms
+
+<99
+
+GHSOZ GHSOS
+
+Signal word Danger
+
+Hazard statements . I .
+
+H260 In contact with water releases flammable gases which may ignite spontaneously.
+H314 Causes severe skin burns and eye damage.
+
+Precautionary statements
+
+P231 +P232 Handle under inert gas. Protect from moisture.
+P260 Do not breathe dust/fume/Igas/mistI/vapours/spray. _ . I I I
+P303+P361+P353 If on skin or hair): Take 0 immediately all contaminated clothing. Rinse skin With water/shower.
+
+5382+P351+P338 g: IN E YkSa Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing.
+tore oc e up.
+
+P50I1 . Dispose of contents/container in accordance with local/regional/national/international regulations.
+
+National regulations I . I I I I
+
+All components of this product are listed in the U. S. En_VIronmentaI Protection Agency TOXIc Substances Control Act Chemical substance Inventory.
+
+All components of this product are listed on the Canadian Domestic Substances List (DSL).
+
+ 
+
+ 
+
+(Contd. on page 5)
+USA —Safety Data Sheet Page 5/5
+per OS A HazCom 2012 Printing date 11/24/2015
+Reviewed on 02/11/2014
+
+ 
+
+|Product name: Sodium
+
+ 
+
+ 
+
+(Contd. of page 4)
+
+ 
+
+SARA Section 313 (specific toxic chemical listings)
+
+7440-23-5 i Sodium
+
+California Proposition 65 I I
+
+Prop 65 - Chemicals known to cause cancer Substance is not listed.
+
+Prop 65 - Developmental tox1c1ty Substance is not listed. I
+
+Prop 65 - Developmental toxicity, female Substance is not listed.
+
+Prop 65 - Developmental toxicity, male Substance is not listed.
+
+Information about limitation of use: For use only by technically qualified individuals.
+
+Other regulations, limitations and rohibitive re ulations
+
+Substance of Ve High Concern SVHC) accor ing to the REACH Regulations (EC) No. 1907/2006. Substance is not listed.
+The conditions 0 restrictions according to Article 67 and Annex XVII of the Regulation (EC) No 1907/2006 (REACH) for the manufacturing, placing on the
+market and use must be observed.
+
+Substance is not listed. I I I I I I I
+
+AnnexI XIV of the REA CH Regulations (requiring Authorisation for use) Substance is not listed.
+
+Chemical safety assessment: A Chemical Safety Assessment has not been carried out.
+
+ 
+
+ 
+
+ 
+
+ 
+
+16 Other information I I I . . I I I I I I
+Employers should use this information only as a supplement to other information gathered by them,_and should make independent judgement of swtabilit of this
+information to ensure properIuse and protect the health and safety of employees. This information is furnished Without warranty, and any use of the pro uct not in
+conformance With this Material Safety Data Sheet, or in combination With any other product or process, is the responSIbility oft e user.
+
+Department issuIing SDS: Global Marketing Department
+Date of preparation / last rewsion 11/24/2015 / —
+
+Abbrewations and acronyms: _ _ _ _ _ _
+RID: Réglement international concernant Ie transport des marchandises dangereuses par chem/n de fer (Regulations Concerning the International Transport of Dangerous Goods by Rail)
+ICAO: International Civil Aviation Organization
+
+ADR: Accord européen sur Ie transport des marchandises dangereuses par Route (European Agreement concerning the International Carriage of Dangerous Goods by Road)
+
+IMDG: International Maritime Code for Dangerous Goods
+
+DOT: US Department of Transportation
+
+IA TA: International Air Transport Association
+
+EINECS: European Inventory of Existing Commercial Chemical Substances
+
+CAS: Chemical Abstracts SerVIcef(dIVI3ion of the American Chemical SOC/ety)
+
+HMIS: Hazardous Materials Ident' [cation System (USA)
+
+WHMIS: Workplace Hazardous Materials Information System (Canada)
+
+LC50: Lethal concentration, 50 percent
+
+LD50: Lethal dose, 50 percent
+
+vPvB: very Persistent and very Bioaccumulative
+
+ACGIH: American Conference of Governmental Industrial l-IIX ienists (USA)
+
+OSHA: Occupational Safet and Health Administration (US )9
+
+NTP: National TOXIcoIogy rogram (USA)
+
+IARC: lnternationaIA ency for Research on Cancer
+
+EPA: Environmental rotection Agency (USA)
+
+ 
+
+ 
+
+USA —
