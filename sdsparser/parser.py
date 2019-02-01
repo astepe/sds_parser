@@ -12,7 +12,7 @@ from pytesseract import image_to_string
 from PIL import Image
 import progressbar
 import tempfile
-from configs import SDSRegexes, Configs
+from .configs import SDSRegexes, Configs
 
 
 class SDSParser:
@@ -25,7 +25,7 @@ class SDSParser:
         if request_keys is not None:
             self.request_keys = request_keys
         else:
-            self.request_keys = SDSRegexes.REQUEST_KEYS
+            self.request_keys = Configs.REQUEST_KEYS
 
         self.ocr_override = True
         self.ocr_ran = False
@@ -33,15 +33,15 @@ class SDSParser:
         self.debug = debug
 
     @staticmethod
-    def find_text_file_path(sds_file_path):
+    def find_matching_text_file(sds_file_path, sds_text_files):
         """
         find txt file with same name as sds file
         and return the path to the txt file if found
         """
         sds_file_name = sds_file_path.split('.')[0].split('/')[-1]
-        for text_file in os.listdir(Configs.SDS_TEXT_FILES):
+        for text_file in os.listdir(sds_text_files):
             if text_file.startswith(sds_file_name):
-                return os.path.join(Configs.SDS_TEXT_FILES, text_file)
+                return os.path.join(sds_text_files, text_file)
         return None
 
     @staticmethod
@@ -83,7 +83,8 @@ class SDSParser:
         sds_data['format'] = file_info['manufacturer']
         sds_file_path = file_info['sds_file_path']
         sds_data['filename'] = sds_file_path.split('/')[-1]
-        text_file_path = SDSParser.find_text_file_path(sds_file_path)
+        text_file_path = SDSParser.find_matching_text_file(sds_file_path,
+                                                           Configs.SDS_TEXT_FILES)
         if text_file_path is not None:
             _ocr_ran = 'ocr' in text_file_path.split('/')[-1]
         else:
@@ -122,14 +123,10 @@ class SDSParser:
 
             if request_key in regexes:
 
-                title = SDSRegexes.SDS_DATA_TITLES[request_key]
                 regex = regexes[request_key]
                 match = SDSParser.find_match(sds_text, regex)
 
-                if request_key == 'manufacturer':
-                    sds_data[title] = match.lower().title()
-                else:
-                    sds_data[title] = match
+                sds_data[request_key] = match
 
         return sds_data
 
@@ -145,41 +142,46 @@ class SDSParser:
         return True
 
     @staticmethod
+    def get_match_string(matches):
+        """
+        retrieve matched group string
+        """
+
+        group_matches = 0
+        match_string = ''
+
+        for name, group in matches.groupdict().items():
+            if group is not None:
+
+                group = group.replace('\n', '').strip()
+
+                if group_matches > 0:
+                    match_string += ', ' + group
+                else:
+                    match_string += group
+
+                group_matches += 1
+
+        if match_string:
+            return match_string
+        else:
+            return 'No data available'
+
+    @staticmethod
     def find_match(sds_text, regex):
         """
         perform a regular expression match and return matched data
         """
 
-        match = regex.search(sds_text)
+        matches = regex.search(sds_text)
 
-        if match is not None:
+        if matches is not None:
 
-            group_matches = 0
-            match_string = ''
-            output_string = ''
-
-            for name, group in match.groupdict().items():
-                if group is not None:
-
-                    group = group.replace('\n', '').strip()
-
-                    if group_matches > 0:
-                        match_string += ', ' + group
-                    else:
-                        match_string += group
-
-                    group_matches += 1
-
-            if match_string:
-                output_string = match_string
-            else:
-                output_string = 'No data available'
+            return SDSParser.get_match_string(matches)
 
         else:
 
-            output_string = 'Data not listed'
-
-        return output_string
+            return 'Data not listed'
 
     @staticmethod
     def get_manufacturer(sds_text):
@@ -222,7 +224,8 @@ class SDSParser:
         """
 
         if self.debug:
-            text_file_path = SDSParser.find_text_file_path(sds_file_path)
+            text_file_path = SDSParser.find_matching_text_file(sds_file_path,
+                                                               Configs.SDS_TEXT_FILES)
             if text_file_path is not None:
                 return SDSParser.get_text_from_file(text_file_path)
 
@@ -267,6 +270,13 @@ class SDSParser:
 
         return text
 
+    def get_sorted_dir_list(path):
+
+        dir_list = os.listdir(path)
+        regex = re.compile(r"[\d]*(?=\.jpg)")
+        dir_list.sort(key=lambda x: regex.search(x)[0])
+        return dir_list
+
     @staticmethod
     def get_sds_image_text(sds_file_path):
         """
@@ -278,25 +288,22 @@ class SDSParser:
 
         with tempfile.TemporaryDirectory() as path:
 
-            page_images = convert_from_path(sds_file_path, fmt='jpeg', output_folder=path, dpi=500)
-            dir_list = os.listdir(path)
-
-            # sort path list
-            regex = re.compile(r"[\d]*(?=\.jpg)")
-            dir_list.sort(key=lambda x: regex.search(x)[0])
+            page_images = convert_from_path(sds_file_path, fmt='jpeg', output_folder=path, dpi=450)
+            dir_list = get_sorted_dir_list(path)
 
             # initialize progress bar
-            p_bar = progressbar.ProgressBar().start()
-            p_bar_increment = len(dir_list)
+            progress_bar = progressbar.ProgressBar().start()
+            num_pages = len(dir_list)
 
             sds_image_text = ''
             for idx, page_image in enumerate(dir_list):
 
                 _temp_path = os.path.join(path, page_image)
                 sds_image_text += image_to_string(Image.open(_temp_path))
-                p_bar.update((idx/p_bar_increment)*100)
 
-            p_bar.update(100)
+                progress_bar.update((idx/num_pages)*100)
+
+            progress_bar.update(100)
             print()
             return sds_image_text
 
