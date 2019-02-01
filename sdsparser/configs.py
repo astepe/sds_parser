@@ -4,8 +4,8 @@ import os
 
 class Configs:
 
-    _local_base = os.path.join(os.getcwd(), 'local')
-    _test_base = os.path.join(os.getcwd(), 'test')
+    _local_base = os.path.join(os.getcwd(), 'sdsparser', 'local')
+    _test_base = os.path.join(os.getcwd(), 'sdsparser', 'test')
 
     SDS_PDF_FILES = os.path.join(_local_base, 'sds_pdf_files')
     SDS_TEXT_FILES = os.path.join(_local_base, 'sds_text_files')

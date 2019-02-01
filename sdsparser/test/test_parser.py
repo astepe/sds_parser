@@ -95,6 +95,6 @@ def test_get_sds_pdf_text(parser_obj, sig_file_path, sig_text):
     assert extracted_text == sig_text
 
 
-def test_get_sds_image_text(parser_obj, iff_file_path, iff_image_text):
+def tes_get_sds_image_text(parser_obj, iff_file_path, iff_image_text):
     extracted_text = parser_obj.get_sds_image_text(iff_file_path)
     assert extracted_text == iff_image_text
