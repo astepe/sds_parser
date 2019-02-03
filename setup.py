@@ -1,4 +1,4 @@
-from distutils.core import setup
+from setuptools import setup, findpackages
 import os
 
 setup(
@@ -6,7 +6,7 @@ setup(
     version='0.1.0',
     author='A. Stepe',
     author_email='arisstepe@gmail.com',
-    packages=['sdsparser'],
+    packages=findpackages(exclude=['test']),
     scripts=['bin/update_sds.py'],
     url='https://github.com/astepe/sds_parser',
     license='LICENSE.txt',
