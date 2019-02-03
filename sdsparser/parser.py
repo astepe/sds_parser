@@ -12,7 +12,7 @@ from pytesseract import image_to_string
 from PIL import Image
 import progressbar
 import tempfile
-from .configs import SDSRegexes, Configs
+from sdsparser.configs import SDSRegexes, Configs
 
 
 class SDSParser:
@@ -25,7 +25,7 @@ class SDSParser:
         if request_keys is not None:
             self.request_keys = request_keys
         else:
-            self.request_keys = Configs.REQUEST_KEYS
+            self.request_keys = SDSRegexes.REQUEST_KEYS
 
         self.ocr_override = True
         self.ocr_ran = False
@@ -73,7 +73,8 @@ class SDSParser:
 
         if self.debug:
             file_info = {'manufacturer': manufacturer,
-                         'sds_file_path': sds_file_path}
+                         'sds_file_path': sds_file_path,
+                         'ocr_ran': self.ocr_ran}
             sds_data = SDSParser.add_file_info(sds_data, file_info)
 
         return sds_data
@@ -88,7 +89,7 @@ class SDSParser:
         if text_file_path is not None:
             _ocr_ran = 'ocr' in text_file_path.split('/')[-1]
         else:
-            _ocr_ran = self.ocr_ran
+            _ocr_ran = file_info['ocr_ran']
         sds_data['extract method'] = 'ocr' if _ocr_ran else 'text'
 
         return sds_data
@@ -289,7 +290,8 @@ class SDSParser:
         with tempfile.TemporaryDirectory() as path:
 
             page_images = convert_from_path(sds_file_path, fmt='jpeg', output_folder=path, dpi=450)
-            dir_list = get_sorted_dir_list(path)
+            dir_list = SDSParser.get_sorted_dir_list(path)
+            print(path)
 
             # initialize progress bar
             progress_bar = progressbar.ProgressBar().start()
@@ -342,7 +344,7 @@ if __name__ == '__main__':
 
     with open('chemical_data.csv', 'w') as _:
         writer = csv.writer(_)
-        writer.writerow([SDSRegexes.SDS_DATA_TITLES[key] for key in sds_parser.request_keys])
+        writer.writerow(SDSRegexes.REQUEST_KEYS)
 
         for file in os.listdir(Configs.SDS_PDF_FILES):
             if sds_requests:

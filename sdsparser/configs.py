@@ -4,13 +4,16 @@ import os
 
 class Configs:
 
-    _local_base = os.path.join(os.getcwd(), 'sdsparser', 'local')
-    _test_base = os.path.join(os.getcwd(), 'sdsparser', 'test')
+    _local_base = os.path.join(os.getcwd(), 'local')
+    _test_base = os.path.join(os.getcwd(), 'test')
 
     SDS_PDF_FILES = os.path.join(_local_base, 'sds_pdf_files')
     SDS_TEXT_FILES = os.path.join(_local_base, 'sds_text_files')
     TEST_SDS_PDF_FILES = os.path.join(_test_base, 'test_sds_pdf_files')
     TEST_SDS_TEXT_FILES = os.path.join(_test_base, 'test_sds_text_files')
+
+
+class SDSRegexes:
 
     # list of keys used for regex lookup
     REQUEST_KEYS = [
@@ -26,9 +29,6 @@ class Configs:
         'physical_state',
         'cas_number',
     ]
-
-
-class SDSRegexes:
 
     # SDS_FORMAT_REGEXES is a dict mapping manufacturer names ('Takasago', 'Robertet', etc.)
     # to a dict of regexes specific to the manufacturer SDS format where the keys are data_request_keys
