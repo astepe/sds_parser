@@ -12,7 +12,7 @@ from pytesseract import image_to_string
 from PIL import Image
 import progressbar
 import tempfile
-from sdsparser.configs import SDSRegexes, Configs
+from sdsparser.configs import SDSRegexes, DevelopmentConfigs
 
 
 class SDSParser:
@@ -30,6 +30,7 @@ class SDSParser:
         self.ocr_override = True
         self.ocr_ran = False
         self.force_ocr = False
+
         self._development = _development
 
     def get_sds_data(self, sds_file_path, extract_method=None):
@@ -38,6 +39,7 @@ class SDSParser:
         """
 
         self.reset_state()
+
         self.define_extract_method(extract_method)
 
         self.sds_text = self.get_sds_text(sds_file_path)
@@ -92,7 +94,7 @@ class SDSParser:
 
         if self._development:
             text_file_path = SDSParser.find_matching_text_file(sds_file_path,
-                                                               Configs.SDS_TEXT_FILES)
+                                                               DevelopmentConfigs.SDS_TEXT_FILES)
             if text_file_path is not None:
                 return SDSParser.get_text_from_file(text_file_path)
 
@@ -301,7 +303,7 @@ class SDSParser:
         sds_file_path = file_info['sds_file_path']
         sds_data['filename'] = sds_file_path.split('/')[-1]
         text_file_path = SDSParser.find_matching_text_file(sds_file_path,
-                                                           Configs.SDS_TEXT_FILES)
+                                                           DevelopmentConfigs.SDS_TEXT_FILES)
         if text_file_path is not None:
             _ocr_ran = 'ocr' in text_file_path.split('/')[-1]
         else:
@@ -347,10 +349,10 @@ if __name__ == '__main__':
         writer = csv.writer(_)
         writer.writerow(SDSRegexes.REQUEST_KEYS)
 
-        for file in os.listdir(Configs.SDS_PDF_FILES):
+        for file in os.listdir(DevelopmentConfigs.SDS_PDF_FILES):
             if sds_requests:
                 if not is_requested(sds_requests, file):
                     continue
-            file_path = os.path.join(Configs.SDS_PDF_FILES, file)
+            file_path = os.path.join(DevelopmentConfigs.SDS_PDF_FILES, file)
             chemical_data = sds_parser.get_sds_data(file_path)
             writer.writerow([data for category, data in chemical_data.items()])
