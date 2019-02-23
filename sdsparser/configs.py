@@ -13,7 +13,6 @@ class DevelopmentConfigs:
     TEST_SDS_TEXT_FILES = os.path.join(_test_base, 'test_sds_text_files')
 
 
-
 class SDSRegexes:
 
     # list of keys used for regex lookup
