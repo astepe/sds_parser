@@ -17,7 +17,7 @@ from sdsparser.configs import SDSRegexes, Configs
 
 class SDSParser:
 
-    def __init__(self, request_keys=None, debug=False):
+    def __init__(self, request_keys=None, _development=False):
         """
         define a set of data request keys
         """
@@ -30,7 +30,7 @@ class SDSParser:
         self.ocr_override = True
         self.ocr_ran = False
         self.force_ocr = False
-        self.debug = debug
+        self._development = _development
 
     def get_sds_data(self, sds_file_path, extract_method=None):
         """
@@ -54,7 +54,7 @@ class SDSParser:
             print(f'No matches found in {sds_file_path}. Performing ocr...')
             sds_data = self.get_sds_data(sds_file_path, extract_method='ocr')
 
-        if self.debug:
+        if self._development:
             file_info = {'manufacturer': manufacturer,
                          'sds_file_path': sds_file_path,
                          'ocr_ran': self.ocr_ran}
@@ -90,7 +90,7 @@ class SDSParser:
         specified extract method
         """
 
-        if self.debug:
+        if self._development:
             text_file_path = SDSParser.find_matching_text_file(sds_file_path,
                                                                Configs.SDS_TEXT_FILES)
             if text_file_path is not None:
@@ -337,7 +337,7 @@ if __name__ == '__main__':
         args = arg_parser.parse_args()
         return args
 
-    sds_parser = SDSParser(debug=True)
+    sds_parser = SDSParser(_development=True)
     # set arguments
     args = generate_args()
     # get requested manufacturers
