@@ -344,7 +344,7 @@ if __name__ == '__main__':
     args = generate_args()
     # get requested manufacturers
     sds_requests = get_args(args)
-
+    
     with open('chemical_data.csv', 'w') as _:
         writer = csv.writer(_)
         writer.writerow(SDSRegexes.REQUEST_KEYS)

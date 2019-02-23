@@ -11,7 +11,7 @@ def parser_obj():
 
 @pytest.fixture(scope='module')
 def iff_file_path():
-    return os.path.join(configs.Configs.TEST_SDS_PDF_FILES, 'iff_4_ocr.pdf')
+    return os.path.join(configs.DevelopmentConfigs.TEST_SDS_PDF_FILES, 'iff_4_ocr.pdf')
 
 
 @pytest.fixture(scope='module')
@@ -21,12 +21,12 @@ def iff_image_text():
 
 @pytest.fixture(scope='module')
 def sig_file_path():
-    return os.path.join(configs.Configs.TEST_SDS_PDF_FILES, 'sigma_aldrich_10.pdf')
+    return os.path.join(configs.DevelopmentConfigs.TEST_SDS_PDF_FILES, 'sigma_aldrich_10.pdf')
 
 
 def get_file_text(file_name):
 
-    text_file = os.path.join(configs.Configs.TEST_SDS_TEXT_FILES, file_name)
+    text_file = os.path.join(configs.DevelopmentConfigs.TEST_SDS_TEXT_FILES, file_name)
 
     with open(text_file, 'r') as t:
         text = t.read()
@@ -67,12 +67,12 @@ def test_find_match(parser_obj, sig_regexes, sig_text, test_input, expected):
 
 
 def manufacturer_test_set():
-    text_folder = configs.Configs.TEST_SDS_TEXT_FILES
+    text_folder = configs.DevelopmentConfigs.TEST_SDS_TEXT_FILES
     text_files = os.listdir(text_folder)
     test_set = []
     for text_file in text_files:
         expected = '_'.join(text_file.split('_')[0:-2])
-        text_file_path = os.path.join(configs.Configs.SDS_TEXT_FILES, text_file)
+        text_file_path = os.path.join(configs.DevelopmentConfigs.SDS_TEXT_FILES, text_file)
         with open(text_file_path, 'r') as text:
             test_input = text.read()
         test_set.append((test_input, expected))
