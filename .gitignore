@@ -5,3 +5,4 @@
 /local/sds_text_files
 *.ipynb
 *.pyc
+/development
