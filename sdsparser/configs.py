@@ -2,15 +2,16 @@ import re
 import os
 
 
-class Configs:
+class DevelopmentConfigs:
 
-    _local_base = os.path.join(os.getcwd(), 'local')
-    _test_base = os.path.join(os.getcwd(), 'test')
+    _local_base = os.path.join(os.getcwd(), 'development/local')
+    _test_base = os.path.join(os.getcwd(), 'development/test')
 
     SDS_PDF_FILES = os.path.join(_local_base, 'sds_pdf_files')
     SDS_TEXT_FILES = os.path.join(_local_base, 'sds_text_files')
     TEST_SDS_PDF_FILES = os.path.join(_test_base, 'test_sds_pdf_files')
     TEST_SDS_TEXT_FILES = os.path.join(_test_base, 'test_sds_text_files')
+
 
 
 class SDSRegexes:
