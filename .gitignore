@@ -5,4 +5,8 @@
 /local/sds_text_files
 *.ipynb
 *.pyc
-/development
+/dist
+/build
+/SDSParser.egg-info
+.pytest_cache
+__pycache__
