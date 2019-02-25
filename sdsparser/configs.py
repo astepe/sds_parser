@@ -4,11 +4,11 @@ import os
 
 class DevelopmentConfigs:
 
-    _local_base = os.path.join(os.getcwd(), 'dev/local')
+    _sds_pool_base = os.path.join(os.getcwd(), 'dev/sds_pool')
     _test_base = os.path.join(os.getcwd(), 'dev/test')
 
-    SDS_PDF_FILES = os.path.join(_local_base, 'sds_pdf_files')
-    SDS_TEXT_FILES = os.path.join(_local_base, 'sds_text_files')
+    SDS_PDF_FILES = os.path.join(_sds_pool_base, 'sds_pdf_files')
+    SDS_TEXT_FILES = os.path.join(_sds_pool_base, 'sds_text_files')
     TEST_SDS_PDF_FILES = os.path.join(_test_base, 'test_sds_pdf_files')
     TEST_SDS_TEXT_FILES = os.path.join(_test_base, 'test_sds_text_files')
 
