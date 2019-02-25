@@ -1,8 +1,5 @@
 *.csv
 *.csv#
-*.pdf
-/local/sds_pdf_files
-/local/sds_text_files
 *.ipynb
 *.pyc
 /dist
