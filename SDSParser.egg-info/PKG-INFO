@@ -1,6 +1,6 @@
-Metadata-Version: 1.0
+Metadata-Version: 2.1
 Name: SDSParser
-Version: 0.1.0
+Version: 0.1.1
 Summary: Extract chemical data from Safety Data Sheet documents
 Home-page: https://github.com/astepe/sds_parser
 Author: A. Stepe
@@ -63,3 +63,7 @@ Description: ![alt text](https://github.com/astepe/sds_parser/blob/master/LogoSa
         MIT © [Aris Stepe](http://www.arisstepe.com/)
         
 Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

@@ -3,10 +3,15 @@ setup.py
 SDSParser.egg-info/PKG-INFO
 SDSParser.egg-info/SOURCES.txt
 SDSParser.egg-info/dependency_links.txt
+SDSParser.egg-info/entry_points.txt
 SDSParser.egg-info/requires.txt
 SDSParser.egg-info/top_level.txt
 bin/update_sds.py
 sdsparser/__init__.py
+sdsparser/__main__.py
 sdsparser/configs.py
 sdsparser/parser.py
 sdsparser/update_sds.py
+sdsparser/dev/__init__.py
+sdsparser/dev/test/__init__.py
+sdsparser/dev/test/test_parser.py
