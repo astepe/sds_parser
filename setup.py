@@ -6,7 +6,7 @@ with open('README.md', 'r') as fh:
 
 setup(
     name='SDSParser',
-    version='0.1.1',
+    version='0.1.3',
     author='A. Stepe',
     author_email='arisstepe@gmail.com',
     packages=find_packages(exclude=['test', 'local']),
