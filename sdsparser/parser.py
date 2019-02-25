@@ -1,8 +1,6 @@
 import re
 import os
-import csv
 import io
-import argparse
 from pdfminer.converter import TextConverter
 from pdfminer.pdfinterp import PDFPageInterpreter
 from pdfminer.pdfinterp import PDFResourceManager
@@ -17,12 +15,12 @@ from sdsparser.configs import SDSRegexes, DevelopmentConfigs
 
 class SDSParser:
 
-    def __init__(self, request_keys=None, _development=False):
+    def __init__(self, request_keys=[], _development=False):
         """
         define a set of data request keys
         """
 
-        if request_keys is not None:
+        if request_keys:
             self.request_keys = request_keys
         else:
             self.request_keys = SDSRegexes.REQUEST_KEYS
@@ -53,7 +51,6 @@ class SDSParser:
         data_not_listed = SDSParser.check_empty_matches(sds_data)
 
         if data_not_listed and not self.ocr_ran and self.ocr_override:
-            print(f'No matches found in {sds_file_path}. Performing ocr...')
             sds_data = self.get_sds_data(sds_file_path, extract_method='ocr')
 
         if self._development:
@@ -104,7 +101,6 @@ class SDSParser:
         else:
             sds_text = SDSParser.get_sds_pdf_text(sds_file_path)
             if sds_text == '' and self.ocr_override and not self.ocr_ran:
-                print(f'No text extracted from {sds_file_path}. Performing ocr...')
                 sds_text = SDSParser.get_sds_image_text(sds_file_path)
                 self.ocr_ran = True
 
@@ -140,7 +136,6 @@ class SDSParser:
 
             page_images = convert_from_path(sds_file_path, fmt='jpeg', output_folder=path, dpi=450)
             dir_list = SDSParser.get_sorted_dir_list(path)
-            print(path)
 
             # initialize progress bar
             progress_bar = progressbar.ProgressBar().start()
@@ -209,10 +204,8 @@ class SDSParser:
             match = regex.search(sds_text)
 
             if match:
-                print(f'using {manufacturer} format...')
                 return manufacturer
 
-        print('using default sds format...')
         return None
 
     def define_regexes(manufacturer):
@@ -311,48 +304,3 @@ class SDSParser:
         sds_data['extract method'] = 'ocr' if _ocr_ran else 'text'
 
         return sds_data
-
-
-if __name__ == '__main__':
-
-    def is_requested(arg_requests, file_name):
-        for arg_request in arg_requests:
-            if file_name.startswith(arg_request):
-                return True
-        return False
-
-    def get_args(args):
-        manufacturer_requests = []
-        if args.file_name:
-            manufacturer_requests.append(args.file_name)
-        for arg in vars(args):
-            if getattr(args, arg) is True:
-                manufacturer_requests.append(arg)
-        return manufacturer_requests
-
-    def generate_args():
-        arg_parser = argparse.ArgumentParser(description='select vendors to extract data')
-        for manufacturer, _ in SDSRegexes.SDS_FORMAT_REGEXES.items():
-            flag = '--' + manufacturer
-            arg_parser.add_argument(flag, action='store_true', help=f'extract chemical data from only {manufacturer} SDS files')
-        arg_parser.add_argument('-f', '--file_name', type=str, help='extract chemical data from a specific file')
-        args = arg_parser.parse_args()
-        return args
-
-    sds_parser = SDSParser(_development=True)
-    # set arguments
-    args = generate_args()
-    # get requested manufacturers
-    sds_requests = get_args(args)
-    
-    with open('chemical_data.csv', 'w') as _:
-        writer = csv.writer(_)
-        writer.writerow(SDSRegexes.REQUEST_KEYS)
-
-        for file in os.listdir(DevelopmentConfigs.SDS_PDF_FILES):
-            if sds_requests:
-                if not is_requested(sds_requests, file):
-                    continue
-            file_path = os.path.join(DevelopmentConfigs.SDS_PDF_FILES, file)
-            chemical_data = sds_parser.get_sds_data(file_path)
-            writer.writerow([data for category, data in chemical_data.items()])
