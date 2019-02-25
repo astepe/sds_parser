@@ -4,8 +4,8 @@ import os
 
 class DevelopmentConfigs:
 
-    _local_base = os.path.join(os.getcwd(), 'development/local')
-    _test_base = os.path.join(os.getcwd(), 'development/test')
+    _local_base = os.path.join(os.getcwd(), 'dev/local')
+    _test_base = os.path.join(os.getcwd(), 'dev/test')
 
     SDS_PDF_FILES = os.path.join(_local_base, 'sds_pdf_files')
     SDS_TEXT_FILES = os.path.join(_local_base, 'sds_text_files')
@@ -79,7 +79,7 @@ class SDSRegexes:
             'product_name': (r"product\s*name\W*(?P<data>[()\d\-\w\s,+%]*?)(cat\b|stock)", (re.S|re.I)),
             'flash_point': (r"flash\s*point.*?(?P<data>\d*)", (re.S|re.I)),
             'specific_gravity': (r"(relative\s*density|specific\s*gravity)\D*?(?P<data>[\d.]*)", (re.S|re.I)),
-            'cas_number': (r"product\s*name.{1,250}[^a-z]cas\b.*?(?P<data>\d{2,7}-\d{2}-\d)\D", (re.S|re.I)),
+            'cas_number': (r"product\s*name.{1,250}[^a-z]cas\b.*?(?P<data>\d{2,7}-\d{2}-\d)", (re.S|re.I)),
             'nfpa_fire': (r"NFPA.{0,1000}?flammability.{0,10}?(?P<data>[0-4]+?)", (re.S|re.I)),
             'nfpa_health': (r"NFPA.{0,1000}?health.{0,10}?(?P<data>[0-4]+?)", (re.S|re.I)),
             'nfpa_reactivity': (r"NFPA.{0,1000}?(reactivity|instability).{0,10}?(?P<data>[0-4]+?)", (re.S|re.I)),
@@ -168,9 +168,9 @@ class SDSRegexes:
         'sigma_aldrich': {
             'manufacturer': (r"(?P<data>\bsigma[\-\s]*?aldrich\b)", re.I),
             'product_name': (r"product\s*?name[\s:]*(?P<data>.*?)product", (re.S|re.I)),
-            'flash_point': (r"flash\s*?point\D{1,10}(?P<data>\d[\d°\s.]*(c|f))?", (re.S|re.I)),
-            'specific_gravity': (r"relative\s*?density\D{1,10}(?P<data>[\d.]*)", (re.S|re.I)),
-            'cas_number': (r"\bcas\b\D{1,10}(?P<data>\d{2,7}-\d{2}-\d)\D", (re.S|re.I)),
+            'flash_point': (r"flash\s*?point([\sC\d°:\(.]*?(?P<data>[0-9.]*)\s*?°?\s*?F)?", (re.S|re.I)),
+            'specific_gravity': (r"relative\s*?density\D*(?P<data>[\d.]*)", (re.S|re.I)),
+            'cas_number': (r"CAS(?P<data>.{30})", (re.S|re.I)),
             'nfpa_fire': (r"nfpa.*fire.*?(?P<data>\d)", (re.S|re.I)),
             'nfpa_health': (r"nfpa.*health.*?(?P<data>\d)", (re.S|re.I)),
             'nfpa_reactivity': (r"nfpa.*reactivity.*?(?P<data>\d)", (re.S|re.I)),
