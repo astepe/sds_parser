@@ -4,6 +4,7 @@ from sdsparser.configs import SDSRegexes
 import csv
 import os
 import pprint
+import sys
 
 
 def main():
@@ -51,15 +52,23 @@ def get_request_keys(args_list):
 def get_args():
     arg_parser = argparse.ArgumentParser(description='select request keys to extract data')
 
+    subparsers = arg_parser.add_subparsers()
+
+    parse_parser = subparsers.add_parser('parse', help='extract sds data from sds documents')
+
     request_key_flags = ['--' + r for r in SDSRegexes.REQUEST_KEYS]
 
     for flag in request_key_flags:
         request_key = flag[2:]
-        arg_parser.add_argument(flag, action='store_true', help=f'extract {request_key}')
+        parse_parser.add_argument(flag, action='store_true', help=f'extract {request_key}')
 
-    arg_parser.add_argument('-f', '--file_name', type=str, help='extract chemical data from a specific file')
+    parse_parser.add_argument('-f', '--file_name', type=str, help='extract chemical data from a specific file')
 
-    arg_parser.add_argument('--csv', action='store_true', help='output data to csv file')
+    parse_parser.add_argument('--csv', action='store_true', help='output data to csv file')
+
+    if len(sys.argv) == 1:
+        arg_parser.print_help(sys.stderr)
+        sys.exit(1)
 
     args = arg_parser.parse_args()
     return args
