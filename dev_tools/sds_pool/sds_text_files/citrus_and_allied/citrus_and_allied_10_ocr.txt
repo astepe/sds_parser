@@ -1,0 +1,78 @@
+4116PP N/A CODE 17201 BPO Revision Date 06-Sep-2013
+
+ 
+
+ 
+
+15. REGULATORY INFORMATION
+
+ 
+
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+WGK Classification
+
+ 
+
+International Inventories
+
+All of the components in the product are on the following Inventory lists: No information available, United States of America
+(TSCA), Canada (DSL/NDSL), Europe (ElNECS/ELINCS/NLP), Australia (AICS), Korea (ECL), China (lECSC), Japan (ENCS),
+Philippines (PICCS).
+
+TSCA Complies
+ElNECS/ELINCS Complies
+DSL/NDSL Complies
+PICCS Complies
+ENCS Complies
+lECSC Complies
+AICS Complies
+KECL Complies
+Legend
+
+TSCA — United States Toxic Substances Control Act Section 8(b) Inventory
+
+ElNECS/ELINCS — European Inventory of Existing Commercial Chemical Substances/EU List of Notified Chemical Substances
+DSL/NDSL — Canadian Domestic Substances List/Non—Domestic Substances List
+
+PICCS — Philippines Inventory of Chemicals and Chemical Substances
+
+ENCS — Japan Existing and New Chemical Substances
+
+lECSC — China Inventory of Existing Chemical Substances
+
+AICS — Australian Inventory of Chemical Substances
+
+KECL - Korean Existing and Evaluated Chemical Substances
+
+15.2 Chemical Safety Assessment
+
+ 
+
+ 
+
+16. OTHER INFORMATION
+
+ 
+
+Risk Combination Phrases
+R50/53 — Very toxic to aquatic organisms, may cause long—term adverse effects in the aquatic environment
+
+Full text of H-Statements referred to under sections 2 and 3
+H400 — Very toxic to aquatic life H317 — May cause an allergic skin reaction H316 — Causes mild skin irritation H304 — May be fatal if swallowed and
+enters airways H410 — Very toxic to aquatic life with long lasting effects H226 — Flammable liquid and vapor H303 — May be harmful if swallowed
+
+Revision Date 06-Sep-2013
+Revision Note not applicable.
+This material safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006.
+
+Disclaimer
+
+The information provided on this SDS is correct to the best of our knowledge, information and belief at the date of its
+publication. The information given is designed only as a guide for safe handling, use, processing, storage,
+transportation, disposal and release and is not to be considered as a warranty or quality specification. The information
+relates only to the specific material designated and may not be valid for such material used in combination with any other
+material or in any process, unless specified in the text.
+
+ 
+
+Page 9/9

@@ -6,10 +6,10 @@ with open('README.md', 'r') as fh:
 
 setup(
     name='SDSParser',
-    version='0.1.3',
+    version='0.1.5',
     author='A. Stepe',
-    author_email='arisstepe@gmail.com',
-    packages=find_packages(exclude=['test', 'local']),
+    author_email='astepe@arisstepe.com',
+    packages=find_packages(exclude=['tests', 'dev_tools']),
     scripts=['bin/update_sds.py'],
     url='https://github.com/astepe/sds_parser',
     license='LICENSE.txt',

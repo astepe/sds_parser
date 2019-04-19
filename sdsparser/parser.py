@@ -1,306 +1,160 @@
-import re
-import os
-import io
-from pdfminer.converter import TextConverter
-from pdfminer.pdfinterp import PDFPageInterpreter
-from pdfminer.pdfinterp import PDFResourceManager
-from pdfminer.pdfpage import PDFPage, PDFTextExtractionNotAllowed
-from pdf2image import convert_from_path
-from pytesseract import image_to_string
-from PIL import Image
-import progressbar
-import tempfile
-from sdsparser.configs import SDSRegexes, DevelopmentConfigs
+from .helpers import get_pdf_text, get_pdf_image_text
+
+from .regexes import get_manufacturer_name, get_static_regexes, \
+                     search_sds_text
+
+from .configs import Configs
 
 
 class SDSParser:
 
-    def __init__(self, request_keys=[], _development=False):
+    def __init__(self, request_keys=None, file_info=False):
         """
-        define a set of data request keys
+        The SDSParser object performs regular expression matching on safety data
+        sheets based on specific formats created by common chemical manufacturers.
+
+        :param request_keys: a list of strings that define the desired fields from
+                             safety data sheet (see configs.REQUEST_KEYS for a
+                             list of valid search keys)
+        :param file_info: input True to include extra file information in the
+                          output.
         """
 
-        if request_keys:
+        if isinstance(request_keys, list) and request_keys:
             self.request_keys = request_keys
         else:
-            self.request_keys = SDSRegexes.REQUEST_KEYS
+            self.request_keys = Configs.REQUEST_KEYS
 
         self.ocr_override = True
         self.ocr_ran = False
         self.force_ocr = False
 
-        self._development = _development
+        self.file_info = file_info
 
-    def get_sds_data(self, sds_file_path, extract_method=None):
+    def get_sds_data(self, sds_file_path, extract_method=''):
         """
-        retrieve requested sds data
+        The get_sds_data method determines the manufacturer of the given safety
+        data sheet and retrieves the corresponding regular expression matches.
+
+        :param sds_file_path: Path to a safety data sheet file in .pdf format
+        :param extract_method: Define the text extraction method. Set to 'ocr'
+                               to extract text using only Optical Character Recognition.
+                               Set to 'text' to extract text using only standard
+                               text extraction.
+
+                               If no input is given, SDSParser will dynamically
+                               select an extraction method based on various criteria.
+                               (see get_sds_text for full logic flow)
+
+        get_sds_data will return a dictionary object mapping user-defined request
+        keys to resultant text matches. i.e.:
+        {
+        'flash_point': 102F,
+        'specific_gravity': 1.102
+        }
         """
 
         self.reset_state()
-
-        self.define_extract_method(extract_method)
+        self.sds_file_path = sds_file_path
+        self.set_extract_method(extract_method)
 
         self.sds_text = self.get_sds_text(sds_file_path)
 
-        manufacturer = self.get_manufacturer(self.sds_text)
+        self.manufacturer_name = get_manufacturer_name(self.sds_text)
+        regexes = get_static_regexes(self.manufacturer_name,
+                                     request_keys=self.request_keys)
 
-        regexes = SDSParser.define_regexes(manufacturer)
+        self.sds_data = search_sds_text(self.sds_text, regexes[self.manufacturer_name])
 
-        sds_data = self.search_sds_text(self.sds_text, regexes)
+        if self.data_not_listed() and not self.ocr_ran and self.ocr_override:
+            self.sds_data = self.get_sds_data(sds_file_path, extract_method='ocr')
 
-        data_not_listed = SDSParser.check_empty_matches(sds_data)
+        if self.file_info:
+            self.sds_data.update(self.get_file_info())
 
-        if data_not_listed and not self.ocr_ran and self.ocr_override:
-            sds_data = self.get_sds_data(sds_file_path, extract_method='ocr')
+        return self.sds_data
 
-        if self._development:
-            file_info = {'manufacturer': manufacturer,
-                         'sds_file_path': sds_file_path,
-                         'ocr_ran': self.ocr_ran}
-            sds_data = SDSParser.add_file_info(sds_data, file_info)
-
-        return sds_data
-
-    @staticmethod
-    def check_empty_matches(sds_data):
+    def data_not_listed(self):
         """
-        check if data not listed
+        Returns True if no matches were found in safety data sheet text. This
+        frequently indicates corrupted or unreadable text and is used to determine
+        if optical character recognition should be executed on the file instead
+        of conventional text extraction methods.
         """
 
-        for _, data in sds_data.items():
+        for _, data in self.sds_data.items():
             if data.lower() != 'data not listed':
                 return False
         return True
 
     def reset_state(self):
+        """
+        resets booleans that keep track of when and if ocr should be utilized
+        """
         self.ocr_override = True
         self.ocr_ran = False
         self.force_ocr = False
 
-    def define_extract_method(self, extract_method):
+    def set_extract_method(self, extract_method):
+        """
+        sets text-extraction method
+        :param extract_method: 'ocr' to use optical character recognition and
+                               'text' to use standard text extraction
+        """
         if extract_method == 'ocr':
             self.force_ocr = True
         if extract_method == 'text':
             self.ocr_override = False
 
-    def get_sds_text(self, sds_file_path):
+    def get_sds_text(self, sds_text_source):
         """
-        execute the text extraction function corresponding to the
-        specified extract method
+        Executes the text extraction function corresponding to the
+        specified extract method and current ocr state. If a matching text file
+        is found in the user-defined directory, text will be retrieved from
+        the corresponding .txt file if it is found.
+
+        If no text is able to be extracted using standard text extraction methods,
+        ocr with be executed unless the user has specified to only use standard
+        methods or ocr has already been executed on the particular file.
+
+        :param file_path: A path to a safety data sheet file in .pdf format
         """
 
-        if self._development:
-            text_file_path = SDSParser.find_matching_text_file(sds_file_path,
-                                                               DevelopmentConfigs.SDS_TEXT_FILES)
-            if text_file_path is not None:
-                return SDSParser.get_text_from_file(text_file_path)
-
-        if self.force_ocr is True:
-            sds_text = SDSParser.get_sds_image_text(sds_file_path)
-            self.ocr_ran = True
+        if self.force_ocr:
+            extract_text = self.extract_with_ocr
         else:
-            sds_text = SDSParser.get_sds_pdf_text(sds_file_path)
-            if sds_text == '' and self.ocr_override and not self.ocr_ran:
-                sds_text = SDSParser.get_sds_image_text(sds_file_path)
-                self.ocr_ran = True
+            extract_text = self.extract_with_fallback
 
+        return extract_text(sds_text_source)
+
+    def extract_with_fallback(self, file_path):
+        """
+        Try to get the text directly from pdf, if no text is found, run ocr
+        """
+        sds_text = get_pdf_text(file_path)
+        if sds_text == '' and self.ocr_override and not self.ocr_ran:
+            sds_text = self.extract_with_ocr(file_path)
         return sds_text
 
-    @staticmethod
-    def find_matching_text_file(sds_file_path, sds_text_files):
+    def extract_with_ocr(self, file_path):
+        sds_text = get_pdf_image_text(file_path)
+        self.ocr_ran = True
+        return sds_text
+
+    def get_file_info(self):
         """
-        find txt file with same name as sds file
-        and return the path to the txt file if found
+        Retrieve extra information on safety data sheet file. Used for development
+        and debugging.
         """
-        sds_file_name = sds_file_path.split('.')[0].split('/')[-1]
-        for text_file in os.listdir(sds_text_files):
-            if text_file.startswith(sds_file_name):
-                return os.path.join(sds_text_files, text_file)
-        return None
+        file_info = {
+                     'format': self.manufacturer_name,
+                     'file_name': self.sds_file_path.split('/')[-1],
+                     'ocr_ran': self.ocr_ran,
+                     }
 
-    @staticmethod
-    def get_text_from_file(text_file_path):
-        with open(text_file_path, 'r') as text_file:
-            return text_file.read()
+        return file_info
 
-    @staticmethod
-    def get_sds_image_text(sds_file_path):
-        """
-        extract text from pdf file by applying ocr
-        """
-
-        print('=======================================================')
-        print('Processing:', sds_file_path.split('/')[-1] + '...')
-
-        with tempfile.TemporaryDirectory() as path:
-
-            page_images = convert_from_path(sds_file_path, fmt='jpeg', output_folder=path, dpi=450)
-            dir_list = SDSParser.get_sorted_dir_list(path)
-
-            # initialize progress bar
-            progress_bar = progressbar.ProgressBar().start()
-            num_pages = len(dir_list)
-
-            sds_image_text = ''
-            for idx, page_image in enumerate(dir_list):
-
-                _temp_path = os.path.join(path, page_image)
-                sds_image_text += image_to_string(Image.open(_temp_path))
-
-                progress_bar.update((idx/num_pages)*100)
-
-            progress_bar.update(100)
-            print()
-            return sds_image_text
-
-    @staticmethod
-    def get_sorted_dir_list(path):
-
-        dir_list = os.listdir(path)
-        regex = re.compile(r"[\d]*(?=\.jpg)")
-        dir_list.sort(key=lambda x: regex.search(x)[0])
-        return dir_list
-
-    @staticmethod
-    def get_sds_pdf_text(sds_file_path):
-        """
-        extract text directly from pdf file
-        """
-
-        text = ''
-        resource_manager = PDFResourceManager()
-        fake_file_handle = io.StringIO()
-        converter = TextConverter(resource_manager, fake_file_handle)
-        page_interpreter = PDFPageInterpreter(resource_manager, converter)
-
-        try:
-            with open(sds_file_path, 'rb') as fh:
-                for page in PDFPage.get_pages(fh,
-                                              caching=True,
-                                              check_extractable=True):
-                    page_interpreter.process_page(page)
-
-                text = fake_file_handle.getvalue()
-
-        except PDFTextExtractionNotAllowed:
-            pass
-        # close open handles
-        converter.close()
-        fake_file_handle.close()
-
-        return text
-
-    @staticmethod
-    def get_manufacturer(sds_text):
-        """
-        define set of regular expressions to be used for data matching by searching
-        for the manufacturer name within the sds text
-        """
-
-        for manufacturer, regexes in SDSRegexes.SDS_FORMAT_REGEXES.items():
-
-            regex = re.compile(*regexes['manufacturer'])
-
-            match = regex.search(sds_text)
-
-            if match:
-                return manufacturer
-
-        return None
-
-    def define_regexes(manufacturer):
-
-        if manufacturer is not None:
-            return SDSParser.compile_regexes(SDSRegexes.SDS_FORMAT_REGEXES[manufacturer])
-        else:
-            return SDSParser.compile_regexes(SDSRegexes.DEFAULT_SDS_FORMAT)
-
-    @staticmethod
-    def compile_regexes(regexes):
-        """
-        return a dictionary of compiled regular expressions
-        """
-
-        compiled_regexes = {}
-
-        for name, regex in regexes.items():
-
-            compiled_regexes[name] = re.compile(*regex)
-
-        return compiled_regexes
-
-    def search_sds_text(self, sds_text, regexes):
-        """
-        construct a dictionary by iterating over each data request and
-        performing a regular expression match
-        """
-
-        sds_data = {}
-
-        for request_key in self.request_keys:
-
-            if request_key in regexes:
-
-                regex = regexes[request_key]
-                match = SDSParser.find_match(sds_text, regex)
-
-                sds_data[request_key] = match
-
-        return sds_data
-
-    @staticmethod
-    def find_match(sds_text, regex):
-        """
-        perform a regular expression match and return matched data
-        """
-
-        matches = regex.search(sds_text)
-
-        if matches is not None:
-
-            return SDSParser.get_match_string(matches)
-
-        else:
-
-            return 'Data not listed'
-
-    @staticmethod
-    def get_match_string(matches):
-        """
-        retrieve matched group string
-        """
-
-        group_matches = 0
-        match_string = ''
-
-        for name, group in matches.groupdict().items():
-            if group is not None:
-
-                group = group.replace('\n', '').strip()
-
-                if group_matches > 0:
-                    match_string += ', ' + group
-                else:
-                    match_string += group
-
-                group_matches += 1
-
-        if match_string:
-            return match_string
-        else:
-            return 'No data available'
-
-    @staticmethod
-    def add_file_info(sds_data, file_info):
-        sds_data['format'] = file_info['manufacturer']
-        sds_file_path = file_info['sds_file_path']
-        sds_data['filename'] = sds_file_path.split('/')[-1]
-        text_file_path = SDSParser.find_matching_text_file(sds_file_path,
-                                                           DevelopmentConfigs.SDS_TEXT_FILES)
-        if text_file_path is not None:
-            _ocr_ran = 'ocr' in text_file_path.split('/')[-1]
-        else:
-            _ocr_ran = file_info['ocr_ran']
-        sds_data['extract method'] = 'ocr' if _ocr_ran else 'text'
-
-        return sds_data
+if __name__ == "__main__":
+    parser = SDSParser()
+    sds_data = parser.get_sds_data('/home/ari/Desktop/projects/sdsparser_proj/sdsparser/dev_tools/sds_pool/sds_pdf_files/sigma_aldrich/sigma_aldrich_1.pdf')
+    print(sds_data)

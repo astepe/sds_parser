@@ -1,0 +1,148 @@
+150342-P N/A 180000754 FL FLA SYS LEM JUICE
+
+CARBONYLS 17F19LEC
+
+Revision Date 11-May-2012
+
+ 
+
+TERPINEN—4—OL
+
+209-235-5
+
+562—74—3 5—10%
+
+XN; R22, XI; Aquatic Acute 3 (H402) no data available
+R38 Eye Irrit. 1 (H319)
+Skin Irrit. 2 (H316)
+Acute Tox. 4 (H302)
+
+Flam. Liq. 4 (H227)
+
+ 
+
+GERANYL ACETATE
+
+203—341-5
+
+105—87-3 1—5%
+
+N; R51/53; Aquatic Acute 2 (H401) no data available
+Skin Irrit. 3 (H316)
+
+Aquatic Chronic 2 (H411)
+
+ 
+
+ 
+
+LIMONENE
+
+ 
+
+227-813—5
+
+5989—27—5 1—5°/o
+
+ 
+
+R10, XI; R38, Aquatic Acute 1 (H400) no data available
+XI; R43, N; Skin Sens. 1 (H317)
+R50/53; Skin Irrit. 2 (H316)
+Asp. Tox. 1 (H304)
+
+Aquatic Chronic 1 (H410)
+
+Flam. Liq. 3 (H226)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For the full text of the R-phrases mentioned in this Section, see Section 16
+
+ 
+
+ 
+
+4. FIRST AID MEASURES
+
+ 
+
+4.1 Description of first-aid measures
+
+ 
+
+General advice
+
+Eye contact
+
+Skin contact
+
+Ingestion
+
+Inhalation
+
+Protection of First-aiders
+
+If symptoms persist, call a physician Do not breathe dust/fume/gas/mist/vapors/spray Do
+not get in eyes, on skin, or on clothing
+
+Immediately flush with plenty of water. After initial flushing, remove any contact lenses and
+continue flushing for at least 15 minutes Keep eye wide open while rinsing If symptoms
+persist, call a physician
+
+Wash off immediately with soap and plenty of water while removing all contaminated
+clothes and shoes. Consult a physician if necessary. Remove and wash contaminated
+clothing before re-use. Wash off immediately with plenty of water. If skin irritation persists,
+call a physician. Wash off immediately with soap and plenty of water. Immediate medical
+attention is not required.
+
+Do NOT induce vomiting. Drink plenty of water. If symptoms persist, call a physician. Rinse
+mouth. Clean mouth with water and drink afterwards plenty of water. Never give anything by
+mouth to an unconscious person. Consult a physician.
+
+Move to fresh air. If breathing is irregular or stopped, administer artificial respiration. Avoid
+direct contact with skin. Use barrier to give mouth-to-mouth resuscitation. Consult a
+physician. Immediate medical attention is not required. Move to fresh air in case of
+accidental inhalation of vapors. If symptoms persist, call a physician. Move to fresh air in
+case of accidental inhalation of vapors or decomposition products.
+
+Use personal protective equipment
+
+4.2 Most important symptoms and effects, both acute and delayed
+
+ 
+
+4.3 Indication of any immediate medical attention and special treatment needed
+
+ 
+
+Notes to physician Treat symptomatically May cause sensitization of susceptible persons
+
+ 
+
+5. FIRE-FIGHTING MEASURES
+
+ 
+
+5.1 Extinguishing media
+
+ 
+
+Suitable Extinguishing Media
+Use: Dry chemical Carbon dioxide C02 Water spray Alcohol-resistant foam
+
+ 
+
+Page 3/10

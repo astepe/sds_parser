@@ -1,0 +1,142 @@
+Page 13 01°16
+
+Information on likely routes of exposure
+
+Product Information Product does not present an acute toxicity hazard based on known information
+Inhalation There is no data available for this product.
+Eye contact There is no data available for this product.
+Skin contact There is no data available for this product.
+Ingestion There is no data available for this product.
+
+Component Information
+Toxicology data, for the components
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Chemical name LD50 Oral LD50 Dermal L050 Inhalation
+'f’ggfgfe'wm' 1620 mg/kg 2500 mg/kg 8.8 mg/L
+2,123,503; 5 We 5 g/kg _
+Information on toxicological effects
+
+Symptoms No information available.
+
+Delayed and immediate effects as well as chronic effects from short and long-term exposure
+
+ 
+
+ 
+
+Sensitization No information available.
+
+mutagenic effects No information available.
+
+Carcinogenicity The table below indicates whether each agency has listed any ingredient as a carcinogen.
+Chemical name ACGIH IARC NTP OSHA
+Myrcene _
+
+123-350 ' 23 '
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IARC: (International Agency for Research on Cancer)
+Group 28 - Possibly Carcinogenic to Humans
+
+Reproductive Toxicity No information available.
+STOT - single exposure No information available.
+V STOT - repeated exposure No information available.
+3_ Aspiration hazard No information available.
+
+‘ Numerical measures of toxicity - Product Information
+
+The following values are calculated based on chapter 3.1 of the GHS document.
+
+ 
+
+ 
+
+ATEmix (oral) 15670 mg/kg
+
+ATEmix (dermal) 17674 mg/kg
+
+ATEmix (inhalation-dust/mist) 60.7 mg/l
+
+ATEmix (inhalation-vapor) 445 mg/l
+' I 12. ECOLOGICAL INFORMATION |
+E Ecotoxicig
+
+, 97.2959% of the mixture consists of components(s) of unknown hazards to the aquatic environment
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. . . . . . Toxicity to daphnia and other
+ChemIcal name Toxmty to algae Toxmty to fish aquatic invertebrates
+1,2-Propylene E050: 19000 mg/L 96h L052: ggfogm’ L119?“ S‘a"°(P"°ig‘g3F2‘1‘:$yk'S/SL) 330217015050: 10000 mg/L 24h (Daphnia
+I I P udokirchneriella "‘9 . ( ""59 3 es pm” as) ‘ "‘9 .5 3 '° ma na) E050: 1000 m IL 48h
+g yco ( se (Pimephales promelas) L050 41 — 47 mL/L 96h statIc g 9
+57—55-6 subcapitata) (Oncorhynchus m yki ss) Static (Daphnia magna)
+Beg‘ggj'ﬁghm E050: 35 mg/L L050: 460 mglL LC50: 1o mgIL 1:050: 23 mg/L
+d—Limonene , ,
+5989-27-5 - LC50. 35 mg/L 96h L050. 0.619 - 0.796 mg/L -
+2-Phenylethanol EC50: 490 mg/L 72h , _ . . . E050: 287.17 mg/L 48h
+60-12-8 (Desmodesmus subspicatus) LCSO‘ 220 460 mg/L 96h Stat": (LeuCIscus Idus) (Daphnia magna)
+Ethyl alcohol L050: 120 — 16.0 mL/L 96h LC50: 13400 - 15100 mg/L 96h L050: 9268 ' 14221 mg’L 48,“
+64-17-5 ~ LCSO‘ 100 in IL E050. 10800 mg/L 24h E050. 2
+' 9 mg/L 48h
+Alpha Pinene . .
+80—56-8 - L050. 0,28 mglL LC50. 41 mg/L
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+http://regdocs.ungererandcompany.com/Temp_SDS/tempPrint121 10225 1 5 96.html 12/ 1 1/201 8

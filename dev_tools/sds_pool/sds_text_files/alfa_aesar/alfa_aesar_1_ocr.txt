@@ -1,0 +1,228 @@
+Safet Data Sheet Page 5/5
+per OS A HazCom 2012 Printing date 11/24/2015
+Reviewed on 08/03/2015
+
+ 
+
+lProduct name: Ethanol, anhydrous, denatured
+
+ 
+
+ 
+
+(Contd. of page 4)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Label 3
+
+IMDG, IA TA
+
+Class 3 Flammable liquids.
+
+Label 3
+
+Packing rou
+
+DOT, [M G, IATA ll
+
+Environmental hazards:
+
+Marine pollutant (IMDG): No
+
+Special precautions for user Warning: Flammable liquids
+EMS Number: F—E,S-D
+
+ 
+
+Transport in bulk according to Annex II of MARPOL 73/78 and the [BC Code Not applicable.
+Transport/Additional information:
+
+ 
+
+ 
+
+DO'l_'
+Marine Pollutant (DOT): No
+UN "Model Regulation": UN1987, Alcohols, n. 0.3., special provision 640D, 3, ll
+
+ 
+
+ 
+
+ 
+
+15 Regulatory information
+
+Safety, health and environmental re ulations/Ie islation specific for the substance or mixture
+GHS labe_l elements The product is c assified and abeled in accordance with 29 CFR 1910 (OSHA HCS)
+Hazard pictograms
+
+GHSOZ GHSO8
+
+Signal word Danger
+
+Hazard-determining components of labeling:
+
+Methanol
+
+Hazard statements
+
+H225 Highly flammable liquid and vapor. I I
+
+H371 May cause damage to the eyes and the brain. Route of exposure: Oral and Inhalative, Dermal.
+Precautionary statements .
+
+P210 Keep away from heat/sparks/chen flames/hot surfaces. No smoking.
+
+P260 Do not breathe dust/fume/gas mist/vapours/spray. . I
+
+P280 Wear protective loves/protective clothing/eye protection/face protection.
+
+P303+P361+P353 If on skin (or hair : Take off immediately all contaminated clothing. Rinse skin with water/shower.
+P405 Store locked up.
+
+P501 Dispose of contents/container in accordance with local/regionaI/nationaI/international regulations.
+National regulations
+
+All components of this product are listed in the U.S. Environmental Protection Agency Toxic Substances Control Act Chemical substance Inventory.
+All components of this product are listed on the Canadian Domestic Substances List (DSL).
+
+SARA Section 313 (specific toxic chemical listings)
+
+67—56-1 Methanol 5.0%
+67-63-0 2-Propanol 5.0%
+California Proposition 65
+
+Prop 65 - Chemicals known to cause cancer
+
+None of the ingredients are listed.
+
+Prop 65 - Developmental toxicity
+
+67-56-1 | Methanol |5.0%
+Prop 65 - Developmental toxicity, female
+
+None of the ingredients are listed.
+
+Prop 65 - Developmental toxicity, male
+
+None of the ingredients are listed.
+
+Information about limitation of use: For use only by technically qualified individuals.
+
+Other regulations, limitations and prohibitive regulations
+
+Substance of Very High Concern (SVHC) according to the REACH Regulations (EC) No. 1907/2006.
+
+None of the ingredients are listed.
+
+The conditions of restrictions according to Article 67 and Annex XVII of the Regulation (EC) No 1907/2006 (REACH) for the manufacturing, placing on the
+market and use must be observed.
+
+None of the ingredients is listed.
+
+Annex XIV of the REACH Regulations (requiring Authorisation for use)
+
+None of the ingredients is listed.
+
+Chemical safety assessment: A Chemical Safety Assessment has not been carried out.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16 Other information
+Employers should use this information only as a supplement to other information gathered by them,_and should make independent judgement of suitabilgv of this
+information to ensure proper use and protect the health and safety of employees. This information is furnished Without warranty, and any use of the pro uct not in
+conformance with this Material Safety Data Sheet, or in combination with any other product or process, is the responsibility oft e user.
+
+Department issuIing SDS: Global Marketing Department
+Date of preparation / last rewsmn 11/24/2015 / —
+
+Abbrewations and acronyms:
+
+RID: Reg/ement international concernant Ie transport des marchandises dangereuses par chemin de fer (Regulations Concerning the International Transport of Dangerous Goods by Rail)
+ICAO: International Civil Aviation Organization
+
+ADR: Accord européen sur Ie transport des marchandises dangereuses par Route (European Agreement concerning the International Carriage of Dangerous Goods by Road)
+IMDG: International Maritime Code for Dangerous Goods
+
+DOT: US Department of Transportation
+
+IATA: International Air Transport Association
+
+EINECS: European Inventor of Existing Commercial Chemical Substances
+
+ELINCS: European List of otified Chemical Substances
+
+CAS: Chemical Abstracts Service division of the American Chemical Society)
+
+HMIS: Hazardous Materials identi ication System (USA)
+
+ 
+
+ 
+
+(Contd. on page 6)
+USA —

@@ -1,0 +1,1405 @@
+[{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78af4"
+	},
+	"name": "default",
+	"regexes": {
+		"manufacturer": {
+			"regex": "[C|c]ompany(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"product_name": {
+			"regex": "\\s[P|p]roduct\\s(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "[F|f]lash\\s*?[P|p]oint(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "([R|r]elative [D|d]ensity|[S|s]pecific [G|g]ravity)(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA 311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "[R|r]evision [D|d]ate(?P\u003cdata\u003e.{20})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "F[\\s]*?o[\\s]*?r[\\s]*?m[\\s]*?\\W(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78af5"
+	},
+	"name": "alfa_aesar",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bcitrus\\s*?and\\s*?allied\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "chemical\\s*?identification[\\s:]*(?P\u003cdata\u003e.*?)product",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s?point.*?(?P\u003cdata\u003e\\d+)[^c]{3}",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity.*?:.*?(?P\u003cdata\u003e[\\d.]+)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d\\-\\/]{6,15})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,80}(?P\u003cdata\u003e(liquid|solid))",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78af6"
+	},
+	"name": "acros_organics",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bcitrus\\s*?and\\s*?allied\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "chemical\\s*?identification[\\s:]*(?P\u003cdata\u003e.*?)product",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s?point.*?(?P\u003cdata\u003e\\d+)[^c]{3}",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity.*?:.*?(?P\u003cdata\u003e[\\d.]+)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d\\-\\/]{6,15})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,80}(?P\u003cdata\u003e(liquid|solid))",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78af7"
+	},
+	"name": "basf",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003ebasf)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "chemical\\s*?identification[\\s:]*(?P\u003cdata\u003e.*?)product",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s?point.*?(?P\u003cdata\u003e\\d+)[^c]{3}",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity.*?:.*?(?P\u003cdata\u003e[\\d.]+)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\switch311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d\\-\\/]{6,15})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,80}(?P\u003cdata\u003e(liquid|solid))",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78af8"
+	},
+	"name": "citrus_and_allied",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bcitrus\\s*?and\\s*?allied\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "chemical\\s*?identification[\\s:]*(?P\u003cdata\u003e.*?)product",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s?point.*?(?P\u003cdata\u003e\\d+)[^c]{3}",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity.*?:.*?(?P\u003cdata\u003e[\\d.]+)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d\\-\\/]{6,15})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,80}(?P\u003cdata\u003e(liquid|solid))",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78af9"
+	},
+	"name": "excellentia",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bexcellentia\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "trade\\s*?name(\\(s\\))[\\s:]*(?P\u003cdata\u003e.*?)(·|article)",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s*?point([\\sC\\d°:\\(\\).]*?(?P\u003cdata\u003e[0-9.]*)\\s*?°?\\s*?F)?",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "relative\\s*?density[:\\s]*(?P\u003cdata\u003e[\\d.]*)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "nfpa.*?fire\\D*(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "nfpa.*?health\\D*(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "nfpa.*?reactivity\\D*(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "last\\s*?revision\\D*(?P\u003cdata\u003e[\\d\\/]*)",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,10}form\\W*(?P\u003cdata\u003e\\w*)",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78afa"
+	},
+	"name": "exxon_mobil",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bcitrus\\s*?and\\s*?allied\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "chemical\\s*?identification[\\s:]*(?P\u003cdata\u003e.*?)product",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s?point.*?(?P\u003cdata\u003e\\d+)[^c]{3}",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity.*?:.*?(?P\u003cdata\u003e[\\d.]+)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d\\-\\/]{6,15})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,80}(?P\u003cdata\u003e(liquid|solid))",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78afb"
+	},
+	"name": "firmenich",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bfirmenich\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "(chemical\\s*?name|product)[\\s:\\d\\w\\-]*?(?P\u003cdata\u003e[^\\-\\d:]*?)(revised|synonyms)",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s*?point.*?((?P\u003cfahrenheit\u003e\\d[\\d.,\\s]*)°?\\s*?(\\bF\\b|Fahrenheit)|(?P\u003ccelsius\u003e\\d[\\d.,\\s]*)°?C(?!.{1,50}?(\\bF\\b|Fahrenheit)))",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity.{1,50}?(?P\u003cdata\u003e\\d*\\.\\d*)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "[R|r]evision\\s[D|d]ate(?P\u003cdata\u003e.{20})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "F[\\s]*?o[\\s]*?r[\\s]*?m[\\s]*?\\W(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78afc"
+	},
+	"name": "fisher",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bfisher\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "product\\s*name\\W*(?P\u003cdata\u003e[()\\d\\-\\w\\s,+%]*?)(cat\\b|stock)",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s*point.*?(?P\u003cdata\u003e\\d*)",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "(relative\\s*density|specific\\s*gravity)\\D*?(?P\u003cdata\u003e[\\d.]*)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "product\\s*name.{1,250}[^a-z]cas\\b.*?(?P\u003cdata\u003e\\d{2,7}-\\d{2}-\\d)",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.{0,1000}?flammability.{0,10}?(?P\u003cdata\u003e[0-4]+?)",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.{0,1000}?health.{0,10}?(?P\u003cdata\u003e[0-4]+?)",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.{0,1000}?(reactivity|instability).{0,10}?(?P\u003cdata\u003e[0-4]+?)",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*date\\s*?(?P\u003cdata\u003e([\\d\\-\\/.,a-z]|\\s(?=(\\d|jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)))*\\d)",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "((P|p)hysical\\s*(S|s)tate|\\b(F|f)orm\\b:?)\\s*(?P\u003cdata\u003e[A-Z][a-z]*)",
+			"flags": "s"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78afd"
+	},
+	"name": "formosa_plastics",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bcitrus\\s*?and\\s*?allied\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "chemical\\s*?identification[\\s:]*(?P\u003cdata\u003e.*?)product",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s?point.*?(?P\u003cdata\u003e\\d+)[^c]{3}",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity.*?:.*?(?P\u003cdata\u003e[\\d.]+)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d\\-\\/]{6,15})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,80}(?P\u003cdata\u003e(liquid|solid))",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78afe"
+	},
+	"name": "givaudan",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bgivaudan\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "sales\\s*?no\\.[:\\s\\d]*\\s*?(?P\u003cdata\u003e.*?)relevant",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s*?point([\\sC\\d°:\\(.\\)]*?(?P\u003cdata\u003e[0-9.]*)\\s*?°?\\s*?F)?",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "(?\u003c!bulk\\s)density[\\s:]*(?P\u003cdata\u003e[\\d\\W]*)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "nfpa.*fire.*?(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "nfpa.*fire.*?(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "nfpa.*fire.*?(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s*?311.*?((?P\u003cfire\u003efire\\shazard\\s*)|(?P\u003cacute\u003eacute\\shealth\\shazard\\s*)|(?P\u003cchronic\u003echronic\\shealth\\shazard\\s*)|(?P\u003creactive\u003ereactive\\shazard\\s*)|(?P\u003csudden\u003esudden\\srelease\\sof\\spressure\\s*))+",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date[:\\s]*(?P\u003cdata\u003e[\\d\\-\\/\\w\\s]*?)\\bp",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "physical\\s*?state[\\s:]*(?P\u003cdata\u003e[\\w]*)",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78aff"
+	},
+	"name": "iff",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\biff\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "\\sproduct\\s*?name[:\\s]*(?P\u003cdata\u003e.*?)\\biff\\b",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s*?point([\\sC\\d°:\\(.]*?(?P\u003cdata\u003e[0-9.]*)\\s*?°?\\s*?F)?",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "relative\\s*?density\\s*?.*?:(?P\u003cdata\u003e[\\d\\.\\s]*)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{1})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s*?311.*?:(?P\u003cdata\u003e(\\s|fire|hazard|health|acute|chronic)*)",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date[\\s:]*(?P\u003cdata\u003e[\\d\\/\\-\\s]*)",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "physical\\s*?state[\\s:]*(?P\u003cdata\u003e\\w*)",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b00"
+	},
+	"name": "indofine",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bcitrus\\s*?and\\s*?allied\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "chemical\\s*?identification[\\s:]*(?P\u003cdata\u003e.*?)product",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s?point.*?(?P\u003cdata\u003e\\d+)[^c]{3}",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity.*?:.*?(?P\u003cdata\u003e[\\d.]+)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d\\-\\/]{6,15})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,80}(?P\u003cdata\u003e(liquid|solid))",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b01"
+	},
+	"name": "innophos",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bcitrus\\s*?and\\s*?allied\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "chemical\\s*?identification[\\s:]*(?P\u003cdata\u003e.*?)product",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s?point.*?(?P\u003cdata\u003e\\d+)[^c]{3}",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity.*?:.*?(?P\u003cdata\u003e[\\d.]+)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d\\-\\/]{6,15})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,80}(?P\u003cdata\u003e(liquid|solid))",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b02"
+	},
+	"name": "kerry",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bkerry\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "product\\s*?name[\\s:]*(?P\u003cdata\u003e\\D*)(\\d|product)",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s*?point\\D*(?P\u003cdata\u003e[0-9. °CF]+)",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "relative\\s*?density\\D*(?P\u003cdata\u003e[\\d.]+)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "date\\s*?of\\s*?revision\\D*(?P\u003cdata\u003e[\\d.\\-\\/]+)",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,80}(?P\u003cdata\u003e(liquid|solid))",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b03"
+	},
+	"name": "pepsico_inc",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bpepsico\\s*?inc\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "(product\\s*?name|material\\s*?name)[\\s:]*(?P\u003cdata\u003e7?.*?)(document|\\d)",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s*point.{1,50}?((?P\u003cfarenheit\u003e\\d[\\d°\\s,]+)°\\s*?f|(?P\u003ccelcius\u003e\\d[\\d°\\s,]+C(?![\\d\\s\\(\u003e,°]{1,50}?f)))",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity\\D{0,25}(?P\u003cdata\u003e[\\d,]*)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311((?P\u003cFlammable\u003eFlammable \\(gases\\/aerosols\\/liquids\\/solids\\))|(?P\u003cGasunder\u003eGas under pressure \\(compressed gas\\))|(?P\u003cExplosive\u003eExplosive)|(?P\u003cSelfheati\u003eSelf-heating)|(?P\u003cPyrophoricliquid\u003ePyrophoric \\(liquid/solid\\))|(?P\u003cPyrophoricgas\u003ePyrophoric Gas)|(?P\u003cOxidizer\u003eOxidizer \\(liquid\\/solid\\/gas\\))|(?P\u003cOrganicpe\u003eOrganic peroxide)|(?P\u003cSelfreact\u003eSelf-reactive)|(?P\u003cIncontact\u003eIn contact with water emits flammable gas)|(?P\u003cCombustibl\u003eCombustible Dust)|(?P\u003cCorrosive\u003eCorrosive to metal)|(?P\u003cCarcinogen\u003eCarcinogenicity)|(?P\u003cAcutetoxi\u003eAcute toxicity\\(any route of exposure\\))|(?P\u003cReproducti\u003eReproductive toxicity)|(?P\u003cSkincorro\u003eSkin corrosion or irritation)|(?P\u003cRespirator\u003eRespiratory or skin sensitization)|(?P\u003cSeriousey\u003eSerious eye damage or eye irritation)|(?P\u003cSpecifict\u003eSpecific target organ toxicity \\(single or repeated exposure\\))|(?P\u003cAspiration\u003eAspiration Hazard)|(?P\u003cGermcell\u003eGerm cell mutagenicity)|(?P\u003cSimpleasp\u003eSimple asphyxiant)|(?P\u003cHazardNot\u003eHazard Not Otherwise Classified \\(HNOC\\))|.)*",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D{0,25}(?P\u003cdata\u003e\\d[\\d\\-\\w]*\\d)",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "physical\\s*?state[:\\-\\s]*(?P\u003cdata\u003e\\w*)",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b04"
+	},
+	"name": "pfizer",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bcitrus\\s*?and\\s*?allied\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "chemical\\s*?identification[\\s:]*(?P\u003cdata\u003e.*?)product",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s?point.*?(?P\u003cdata\u003e\\d+)[^c]{3}",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity.*?:.*?(?P\u003cdata\u003e[\\d.]+)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d\\-\\/]{6,15})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,80}(?P\u003cdata\u003e(liquid|solid))",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b05"
+	},
+	"name": "reckitt_benckiser",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003ereckitt\\sbenckiser)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "product\\s*(?P\u003cdata\u003e.*?\\d)",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s?point.*?(?P\u003cdata\u003e[\\d.]{30})",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "relative\\s*?density.(?P\u003cdata\u003e.{40})",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d\\-\\/]{6,15})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,80}(?P\u003cdata\u003e(liquid|solid))",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b06"
+	},
+	"name": "robertet",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\br\\s*?o\\s*?b\\s*?e\\s*?r\\s*?t\\s*?e\\s*?t\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "\\s[P|p]roduct\\s(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "[F|f]lash\\s*?[P|p]oint(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "([R|r]elative [D|d]ensity|[S|s]pecific [G|g]ravity)(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "[R|r]evision [D|d]ate(?P\u003cdata\u003e.{20})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "F[\\s]*?o[\\s]*?r[\\s]*?m[\\s]*?\\W(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b07"
+	},
+	"name": "frutarom",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bf\\s*?r\\s*?u\\s*?t\\s*?a\\s*?r\\s*?o\\s*?m\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "\\s[P|p]roduct\\s(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "[F|f]lash\\s*?[P|p]oint(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "([R|r]elative\\s[D|d]ensity|[S|s]pecific\\s[G|g]ravity)(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "SARA\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "[R|r]evision\\s[D|d]ate(?P\u003cdata\u003e.{20})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "F[\\s]*?o[\\s]*?r[\\s]*?m[\\s]*?\\W(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b08"
+	},
+	"name": "sc_johnson",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\br\\s*?o\\s*?b\\s*?e\\s*?r\\s*?t\\s*?e\\s*?t\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "\\s[P|p]roduct\\s(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "[F|f]lash\\s*?[P|p]oint(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "([R|r]elative [D|d]ensity|[S|s]pecific [G|g]ravity)(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "[R|r]evision [D|d]ate(?P\u003cdata\u003e.{20})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "F[\\s]*?o[\\s]*?r[\\s]*?m[\\s]*?\\W(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b09"
+	},
+	"name": "sigma_aldrich",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bsigma[\\-\\s]*?aldrich\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "product\\s*?name[\\s:]*(?P\u003cdata\u003e.*?)product",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s*?point\\s*((?P\u003cdata\u003e[\\d\\.]+.*?)?h\\))?",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "relative\\s*?density\\D(?P\u003cdata\u003e[\\d.\\s]*(g/cm3|(g.*?\\)))?)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "cas-no.*?(?P\u003cdata\u003e\\d{2,7}-\\d{2}-\\d)",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "nfpa.*fire.*?(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "nfpa.*health.*?(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "nfpa.*reactivity.*?(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s*?311\\/312((?P\u003cfire\u003efire hazard\\s*)|(?P\u003cacute\u003eacute health hazard\\s*)|(?P\u003cchronic\u003echronic health hazard\\s*)|(?P\u003creactive\u003ereactive hazard\\s*)|(?P\u003csudden\u003esudden release of pressure\\s*)|\\s|hazards)*",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d\\-\\/]{1,15})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "appearance.{0,10}form\\W*(?P\u003cdata\u003e\\w*)",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b0a"
+	},
+	"name": "treatt",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\btreatt\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "product\\s*identifier.*?product\\s*name\\s*(?P\u003cdata\u003e[^\\d]+)",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s*point.{1,50}?((?P\u003cfarenheit\u003e\\d[\\d°\\s,.]+°?\\s*?f)|(?P\u003ccelcius\u003e\\d[\\d°\\s,“]+C(?![\\d\\s\\(\u003e,.°“\\/]{1,50}?f)))",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "(relative density|specific gravity)(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\s*(?P\u003cdata\u003e[\\d\\-\\w]*\\d)",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "physical\\s*?state\\s*(?P\u003cdata\u003e[\\w ]*)",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b0b"
+	},
+	"name": "ungerer",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bungerer\\s*?and\\s*?company\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "product\\s*?name\\s*\\w*\\s?(?P\u003cdata\u003e.*?)\\d",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s*?point[\\s\\dc€°\\/]*?(?P\u003cdata\u003e[\\d.]*)\\s*?[€°]*?\\s*?f",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "specific\\s*?gravity\\s*?(?P\u003cdata\u003e[\\d.]*)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "nfpa.*flammability.*?(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "nfpa.*health.*?(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "nfpa.*instability.*?(?P\u003cdata\u003e\\d)",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s*?311\\/312(((?P\u003cacute\u003eacute health hazard)yes)|((?P\u003cchronic\u003echronic health hazard)yes)|((?P\u003cfire\u003efire hazard)yes)|((?P\u003csudden\u003esudden release of pressure hazard)yes)|((?P\u003creactive\u003ereactive hazard)yes)|\\s|hazard|categories|acute|health|yes|€|chronic|no|fire|sudden release of pressure|reactive)*",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date[:€\\s]*(?P\u003cdata\u003e[\\d\\-\\/\\w]*?)€",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "physical\\s*?state[\\s\\W\\dc]*(?P\u003cdata\u003e[\\w]*)",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b0c"
+	},
+	"name": "symrise",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\bsymrise\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "product\\s*?name[\\s:]*(?P\u003cdata\u003e.*?)material",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "flash\\s*?point([\\sC\\d°:\\(.]*?(?P\u003cdata\u003e[0-9.]*)\\s*?°?\\s*?(F|C))?",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "relative\\s*?density[:\\s]*(?P\u003cdata\u003e[\\d.]*)",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "revision\\s*?date\\D*(?P\u003cdata\u003e[\\d.]*)",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "F[\\s]*?o[\\s]*?r[\\s]*?m[\\s]*?\\W(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b0d"
+	},
+	"name": "takasago",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003etakasago)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "\\s[P|p]roduct\\s(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "[F|f]lash\\s*?[P|p]oint(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "([R|r]elative [D|d]ensity|[S|s]pecific [G|g]ravity)(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "[R|r]evision [D|d]ate(?P\u003cdata\u003e.{20})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "F[\\s]*?o[\\s]*?r[\\s]*?m[\\s]*?\\W(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		}
+	}
+},
+{
+	"_id": {
+		"$oid": "5cabb5884c8d4ea63fc78b0e"
+	},
+	"name": "the_clorox_company",
+	"regexes": {
+		"manufacturer": {
+			"regex": "(?P\u003cdata\u003e\\br\\s*?o\\s*?b\\s*?e\\s*?r\\s*?t\\s*?e\\s*?t\\b)",
+			"flags": "i"
+		},
+		"product_name": {
+			"regex": "\\s[P|p]roduct\\s(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"flash_point": {
+			"regex": "[F|f]lash\\s*?[P|p]oint(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"specific_gravity": {
+			"regex": "([R|r]elative [D|d]ensity|[S|s]pecific [G|g]ravity)(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"cas_number": {
+			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		},
+		"nfpa_fire": {
+			"regex": "NFPA.*?[F|f]ire.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_health": {
+			"regex": "NFPA.*?[H|h]ealth.*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"nfpa_reactivity": {
+			"regex": "NFPA.*?(([R|r]eactivity)|([I|i]nstability)).*?(?P\u003cdata\u003e[0-4])",
+			"flags": "is"
+		},
+		"sara_311": {
+			"regex": "sara\\s311(?P\u003cdata\u003e.{80})",
+			"flags": "is"
+		},
+		"revision_date": {
+			"regex": "[R|r]evision [D|d]ate(?P\u003cdata\u003e.{20})",
+			"flags": "is"
+		},
+		"physical_state": {
+			"regex": "F[\\s]*?o[\\s]*?r[\\s]*?m[\\s]*?\\W(?P\u003cdata\u003e.{30})",
+			"flags": "is"
+		}
+	}
+}]
+

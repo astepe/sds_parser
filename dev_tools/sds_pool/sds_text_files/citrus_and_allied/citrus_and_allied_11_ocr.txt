@@ -1,0 +1,105 @@
+A13045NQ N/A ALPHA TERPINEOL (NQ) (NATURAL) Revision Date 02-Jan-2015
+
+ 
+
+2.2 Label elements
+
+Signal Word
+Warning
+
+H227 - Combustible liquid
+
+Precautionary Statements
+
+P321 - Specific treatment (see .? on this label)
+
+P403 + P235 - Store in a well-ventilated place. Keep cool
+
+P370 + P378 - In case of fire: Use dry sand, dry chemical or alcohol-resistant foam for extinction
+P210 - Keep away from heat/sparks/open flames/hot surfaces. - No smoking
+
+P280 - Wear protective gloves/ eye protection/ face protection
+
+ 
+
+2.3 Other information
+
+ 
+
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+
+ 
+
+3.1 Substances
+
+ 
+
+ 
+
+Chemical Name EC-No CAS-No Alternate Weight % Classificatio Classification (Reg. REACH
+C AS # n (67/548) 1272/2008) Registration
+Number
+A—TERPINEOL 202-680—6 98—55—5 90—100% XI; R38 Eye Irrit. 1 (H319) no data available
+
+Skin Irrit. 2 (H316)
+Acute Tox. 5 (H303)
+Flam. Liq. 4 (H227)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For the full text of the R-phrases mentioned in this Section, see Section 16
+
+ 
+
+ 
+
+4. FIRST AID MEASURES
+
+ 
+
+4.1 Description of first-aid measures
+
+ 
+
+General advice If symptoms persist, call a physician
+
+Eye contact Rinse immediately with plenty of water, also under the eyelids, for at least 15 minutes If
+symptoms persist, call a physician Immediately flush with plenty of water. After initial
+flushing, remove any contact lenses and continue flushing for at least 15 minutes Keep eye
+wide open while rinsing
+
+Skin contact Wash off immediately with plenty of water for at least 15 minutes. If skin irritation persists,
+call a physician. Remove and wash contaminated clothing before re-use. Wash off
+immediately with plenty of water. Immediate medical attention is not required. Wash off
+immediately with soap and plenty of water while removing all contaminated clothes and
+shoes.
+
+Ingestion Immediate medical attention is not required. Rinse mouth. Drink plenty of water. Do NOT
+induce vomiting. Clean mouth with water and drink afterwards plenty of water. Never give
+anything by mouth to an unconscious person. Consult a physician.
+
+Inhalation Move to fresh air. If symptoms persist, call a physician. Immediate medical attention is not
+required. Move to fresh air in case of accidental inhalation of vapors. Move to fresh air in
+case of accidental inhalation of vapors or decomposition products.
+
+ 
+
+Page 2/8

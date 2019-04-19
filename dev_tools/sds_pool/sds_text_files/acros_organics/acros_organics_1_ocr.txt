@@ -1,0 +1,119 @@
+SAFETY DATA SHEET
+
+Xylitol
+
+Revision Date 27-May-2016
+
+ 
+
+A Chemical Safety Assessment/Report (CSA/CSR) has not been conducted
+
+ 
+
+SECTION 16: OTHER INFORMATION
+
+ 
+
+Full Text of H-/EUH-Statements Referred to Under Section 3
+
+ 
+
+Legend
+
+CAS — Chemical Abstracts Service
+
+TSCA — United States Toxic Substances Control Act Section 8(b)
+Inventory
+
+ElNECS/ELINCS — European Inventory of Existing Commercial Chemical DSL/NDSL — Canadian Domestic Substances List/Non—Domestic
+
+Substances/EU List of Notified Chemical Substances
+
+PICCS — Philippines Inventory of Chemicals and Chemical Substances
+IECSC — Chinese Inventory of Existing Chemical Substances
+
+KECL - Korean Existing and Evaluated Chemical Substances
+
+WEL - Workplace Exposure Limit
+
+ACGIH - American Conference of Governmental Industrial Hygienists
+DNEL — Derived No Effect Level
+
+RPE — Respiratory Protective Equipment
+
+LC50 - Lethal Concentration 50%
+
+NOEC — No Observed Effect Concentration
+
+PBT - Persistent, Bioaccumulative, Toxic
+
+ADR — European Agreement Concerning the International Carriage of
+Dangerous Goods by Road
+
+IMO/IMDG — International Maritime Organization/International Maritime
+Dangerous Goods Code
+
+OECD — Organisation for Economic Co—operation and Development
+BCF — Bioconcentration factor
+
+Key literature references and sources for data
+
+Substances List
+
+ENCS — Japanese Existing and New Chemical Substances
+AICS - Australian Inventory of Chemical Substances
+NZIoC — New Zealand Inventory of Chemicals
+
+TWA - Time Weighted Average
+
+IARC — International Agency for Research on Cancer
+PNEC - Predicted No Effect Concentration
+
+LD50 — Lethal Dose 50%
+
+EC50 - Effective Concentration 50%
+
+POW — Partition coefficient Octanol:Water
+
+vPvB — very Persistent, very Bioaccumulative
+
+ICAO/IATA — International Civil Aviation Organization/International Air
+Transport Association
+
+MARPOL — International Convention for the Prevention of Pollution from
+Ships
+
+ATE — Acute Toxicity Estimate
+
+VOC — Volatile Organic Compounds
+
+Suppliers safety data sheet, Chemadvisor - LOLI, Merck index, RTECS
+
+Training Advice
+
+Chemical hazard awareness training, incorporating labelling, Safety Data Sheets (SDS), Personal Protective Equipment (PPE) and
+
+hygiene.
+
+Revision Date
+Revision Summary
+
+27-May-2016
+Update to Format.
+
+This safety data sheet complies with the requirements of Regulation (EC) No. 1907/2006
+
+Disclaimer
+The information provided in this Safety Data Sheet is correct to the best of our knowledge, information and belief at the
+date of its publication. The information given is designed only as a guidance for safe handling, use, processing, storage,
+transportation, disposal and release and is not to be considered a warranty or quality specification. The information
+relates only to the specific material designated and may not be valid for such material used in combination with any other
+materials or in any process, unless specified in the text
+
+End of Safety Data Sheet
+
+ 
+
+AC R22598
+
+Page 8/8

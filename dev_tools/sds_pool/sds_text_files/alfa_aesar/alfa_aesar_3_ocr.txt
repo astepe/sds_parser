@@ -1,0 +1,184 @@
+Safet Data Sheet Page 4/6
+per 08 A HazCom 2012 Printing date 11/24/2015
+
+Reviewed on 08/03/2015
+
+ 
+
+lProduct name: Ethanol, anhydrous, denatured
+
+ 
+
+ 
+
+(Contd. of page 3)
+Possibility of hazardous reactions No dangerous reactions known
+Conditions to avoid_No further relevant information available.
+Incompatible materials:
+Oxidizmg agents
+Water/maisture
+Hazardous decomposition products: Carbon monoxide and carbon dioxide
+
+ 
+
+ 
+
+11 Toxicological information
+
+Information on toxicological effects
+
+Acute toxicity:
+
+Harmful if inhaled.
+
+Harmful in contact with skin.
+
+Harmful if swallowed.
+
+Dan er through skin absorption. _ _ . . _ _
+
+The egIstry of TOXIC Effects of Chemical Substances (RTECS) contains acute toxmity data for components in this product.
+
+ 
+
+ 
+
+LD/LC50 values that are relevant for classification:
+
+ 
+
+64-17-5 Ethyl alcohol
+
+ 
+
+ 
+
+ 
+
+Oral |LD50 | 7060 mg/kg (rat)
+67-56-1 Methanol
+Oral LD50 14200 mg/kg (rabbit)
+
+Inhalative LC50/6H 41000 ppm/6H (mouse)
+
+ 
+
+67-63-0 2-Propanol
+
+ 
+
+Oral LD50 5045 mg/kg (rat)
+Dermal LD50 12800 mg/kg (rabbit)
+Inhalative LC50/8H 12560 ppm/8H (rat)
+
+ 
+
+ 
+
+ 
+
+Skin_irritation or corrosion: May cause irritation
+Eye irritation or corrosmn: Ma cause irritation
+Sensitization: No sensitizing e ects known.
+germ cell mutagenicity: The Registry of Toxic Effects of Chemical Substances (RTECS) contains mutation data for components in this product.
+arcino enmity:
+ACGIH 3: Animal carcinogen: Agent is carcinogenic in experimental _animals_at a relatively high dose, by route(s) of administration, at site(s), of histologic type(s),
+or by mechanism(s) not considered relevant to worker exposure. Available epidemologic s udies do not confirm an increased risk of cancer in exposed humans.
+Available evidence su gests that the agent, is not likely to cause cancer in humans except under uncommon or unlikely routes or levels of exposure.
+[ARC-3: Not clas5ifiab e as to carcmogenICIty to humans.
+ACGIH A_4.' Not classifiable as a human carcino en: lnadetEuate data on which to classify the agent in terms of its carcino _enicity in humans and/or animals.
+The Re istry of Toxic Effects of Chemical Subs ances (RT CS) contains tumorigenic and/or carcmogenic and/or neoplas ic data for components in this product.
+Repro uctive tOXICIty: The Registry of Toxic Effects of Chemical Substances (RTECS) contains reproductive data for components in this product.
+Specific target organ system toxicity - repeated exposure: No effects known.
+Specific tar et or an system toxicity - single exposure: May cause damage to the eyes and the brain. Route of exposure: Oral and Inhalative, Dermal.
+As iration azar :_No effects known.
+Su acute to chronic tOXlCl : The Registry of Toxic Effects of Chemical Substances (RTECS) contains multiple dose toxicity data for this substance.
+Additional toxicological in ormation:
+To the best of our knowledge the acute and chronic toxicity of this substance is not fully known.
+[Tlhe pirolduct shows the following dangers according to internally approved calculation methods for preparations:
+arm u
+
+ 
+
+ 
+
+12 Ecological information
+
+Toxicity
+
+Aquatic toxicity: No further relevant information available.
+
+Persistence and degradability No further relevant information available.
+
+Bioaccumulative potential No further relevant information available.
+
+Mobility in soil No further relevant information available.
+
+Additional ecological information:
+
+General notes:
+
+Do not allow material to be released to the environment without proper governmental permits.
+Do not allow undiluted product or large quantities to reach ground water, water course or sewage system.
+Avoid transfer into the environment.
+
+Results of PBT and vPvB assessment
+
+PBT: Not applicable.
+
+vPvB: Not applicable.
+
+Other adverse effects No further relevant information available.
+
+ 
+
+ 
+
+13 Disposal considerations
+
+Waste treatment methods
+
+Recommendation Consult state, local or national regulations to ensure proper disposal.
+Uncleaned packagings:
+
+Recommendation: Disposal must be made according to ofﬁcial regulations.
+Recommended cleansing agent: Water, if necessary with cleansmg agents.
+
+ 
+
+ 
+
+14 Transport information
+
+ 
+
+ 
+
+ 
+
+UN-Number
+
+DOT, IMDG, [AT A UN1987
+
+UN proper shipping name
+
+DOT Alcohols, n.o.s.
+
+IMDG, lATA ALCOHOLS, N. 0.3.
+Transport hazard class(es)
+
+DOT
+
+Class 3 Flammable liquids.
+Label 3
+
+Class 3 (F1) Flammable liquids
+
+ 
+
+ 
+
+ 
+
+(Contd. on page 5)
+USA —

@@ -1,0 +1,86 @@
+SAFETY DATA SHEET
+
+according to Regulation (EC) No. 1907/2006 sym rise @
+
+633622 COFFEE FLAVOR
+Version 3 Revision Date 16.12.2017 Print Date 18.07.2018
+
+ 
+
+14.5 Environmental hazards
+Not classified as dangerous in the meaning of transport regulations.
+14.6 Special precautions for user
+Not classiﬁed as dangerous in the meaning of transport regulations.
+14.7 Transport in bulk according to Annex II of MARPOL 73/78 and the IBC Code
+
+Not classiﬁed as dangerous in the meaning of transport regulations.
+
+ 
+
+SECTION 15: REGULATORY INFORMATION
+
+15.1 Safety, health and environmental regulations/legislation specific for the substance or mixture
+National legislation
+
+Risk classification according : Exempt
+to BetrSichV (Germany)
+
+Water contaminating class : WGK 1 (slightly water endangering)
+(Germany) Calculation acc. Annex 4 to VwVwS
+TA Luft List (Germany) : Type: Organic Substances
+
+portion Class 1: 1,76 %
+
+15.2 Chemical safety assessment
+
+No data available
+
+ 
+
+SECTION 16: OTHER INFORMATION
+
+Full text of H-Statements referred to under sections 2 and 3.:
+
+H225 Highly flammable liquid and vapour.
+
+H226 Flammable liquid and vapour.
+
+H301 Toxic if swallowed.
+
+H312 Harmful in contact with skin.
+
+H315 Causes skin irritation.
+
+H317 May cause an allergic skin reaction.
+
+H318 Causes serious eye damage.
+
+H319 Causes serious eye irritation.
+
+H330 Fatal if inhaled.
+
+H335 May cause respiratory irritation.
+
+H351 Suspected of causing cancer.
+
+H373 May cause damage to organs through prolonged or repeated exposure.
+H411 Toxic to aquatic life with long lasting effects.
+H412 Harmful to aquatic life with long lasting effects.
+
+Further information
+
+The information provided in this Safety Data Sheet is correct to the best of our knowledge, information
+and belief at the date of its publication. The information given is designed only as a guidance for safe
+handling, use, processing, storage, transportation, disposal and release and is not to be considered a
+warranty or quality specification. The information relates only to the specific material designated and may
+not be valid for such material used in combination with any other materials or in any process, unless
+specified in the text.
+
+Any data changes with reference to previous versions are marked by a vertical line in front of the
+concerned paragraph.
+
+ 
+
+ 
+
+9/9

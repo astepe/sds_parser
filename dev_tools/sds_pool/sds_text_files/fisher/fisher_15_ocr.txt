@@ -1,0 +1,159 @@
+Safet Data Sheet Page 4/4
+per 08 A HazCom 2012 Printing date 11/23/2015
+Reviewed on 02/21/2007
+
+ 
+
+lProduct name: 2-Fluorophenylhydrazine hydrochloride
+
+ 
+
+ 
+
+(Contd. of page 3)
+
+ 
+
+Transport hazard class(es)
+DOT, ADR, IMDG, IATA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Class None
+
+Packing roup
+
+DOT, [M G, IATA None
+
+Environmental hazards: Not applicable.
+
+Special precautions for user Not applicable.
+
+Transport in bulk according to Annex II of MARPOL 73/78 and the [BC Code Not applicable.
+
+Transport/Additional information: Not dangerous according to the above specifications.
+DOT
+
+Marine Pollutant (DOT): No
+
+ 
+
+ 
+
+ 
+
+15 Regulatory information
+
+Safety, health and environmental re ulations/le islation specific for the substance or mixture
+GHS labeII elements The product is c assified and abeled in accordance with 29 CFR 1910 (OSHA HCS)
+Hazard pictograms
+
+GHSO6
+
+Signal word Danger
+
+Hazard statements
+
+H301 Toxic if swallowed.
+
+H315 Causes skin irritation.
+
+H319 Causes serious eye irritation.
+
+H335 May cause respiratory irritation.
+
+Precautionary statements
+
+P261 Avoid breathing dust/fume/gas/mist/vapours/spray.
+
+P280 Wear rotectivegloves/pro ective clothin /e e protection/face protection.
+
+P301+P310 IF S ALLOWE .' Immediately eall a PO S N CENTEIR/ doctor/... I I . .
+
+g38§+P351+P338 I4: IN le— YiSa Rinse cautiously With water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsmg.
+tore oc e up.
+
+P50I1 I Dispose of contents/container in accordance with Iocal/regionaI/nationaI/international regulations.
+
+National regulations
+
+All com onents of this product are listed in the U.S. Environmental Protection Agency Toxic Substances Control Act Chemical substance Inventory.
+SARA action 313 (specific toxic chemical listings) Substance is not listed.
+
+California Proposition 65
+
+Prop 65 - Chemicals known to cause cancer Substance is not listed.
+
+Prop 65 - Developmental toxicity Substance is not listed.
+
+Prop 65 - Developmental toxicity, female Substance is not listed.
+
+Prop 65 - Developmental toxicity, male Substance is not listed.
+
+Information about limitation of use: For use only by technically qualified individuals.
+
+Other regulations, limitations and rohibitive re ulations
+
+Substance of Ver High Concern SVHC) accor ing to the REACH Regulations (EC) No. 1907/2006. Substance is not listed.
+
+The conditions a restrictions according to Article 67 and Annex XVII of the Regulation (EC) No 1907/2006 (REACH) for the manufacturing, placing on the
+market and use must be observed.
+
+Substance is not listed.
+
+Annex XIV of the REACH Regulations (requiring Authorisation for use) Substance is not listed.
+
+Chemical safety assessment: A Chemical Safety Assessment has not been carried out.
+
+ 
+
+ 
+
+16 Other information . I _ _ _ I I _ _ _ I
+Employers should use this information only as a supplement to other information gathered by them,_and should make independent judgement of smtabilit of this
+information to ensure proper use and protect the health and safety of employees. This information is furnished Without warranty, and any use of the pro uct not in
+conformance With this Material Safety Data Sheet, or in combination With any other product or process, is the responSibility oft e user.
+
+Department issumg SDS: Global Marketing Department
+Date of preparation / last rewsmn 11/23/2015 / —
+AbbreViations and acronyms:
+
+IMDG.‘ International Maritime Code for Dangerous Goods
+
+DOT: US Department of Transportation
+
+IATA: International Air Transport Association
+
+EINECS.‘ European Inventmy of Existing Commercial Chemical Substances
+CAS.‘ Chemical Abstracts ServiceIIﬁiviISion of the American Chemical Society)
+HMIS.’ Hazardous Materials Ident ication System (USA)
+
+WHMIS: Workplace Hazardous Materials Information System (Canada)
+LCSO: Lethal concentration, 50 percent
+
+LD50: Lethal dose, 50 percent
+
+vPvB: very Persistent and very Bioaccumulative
+
+ACGIH.‘ American Conference of Governmental Industrial Hay ienists (USA)
+OSHA: Occupational Safety and Health Administration (US )9
+
+NTP: National Toxicology Program ( USA
+
+IARC: International Agency for Research on Cancer
+
+EPA: Environmental Protection Agency (USA)
+
+ 
+
+ 
+
+USA —

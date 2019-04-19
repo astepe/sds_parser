@@ -1,0 +1,137 @@
+Safet Data Sheet Page 4/4
+per OS A HazCom 2012 Printing date 11/24/2015
+Reviewed on 04/10/2012
+
+ 
+
+lProduct name: 5-(Boc-amino)-2-(hydroxymethyl)benzeneboronic acid hemiester
+
+ 
+
+ 
+
+(Contd. of page 3)
+
+ 
+
+Transport/Additional information:
+
+DOT
+Marine Pollutant (DOT): No
+UN "Model Regulation ": —
+
+ 
+
+ 
+
+ 
+
+ 
+
+15 Regulatory information
+
+Safety, health and environmental re ulations/le islation specific for the substance or mixture
+GHS abe_l elements The product is c assified and abeled In accordance With 29 CFR 1910 (OSHA HCS)
+Hazard pictograms
+
+GHSO7
+
+Signal word Warning
+Hazard statements
+H315 Causes skin irritation.
+
+H319 Causes serious eye irritation.
+
+H335 May cause respiratory irritation.
+
+Precautionary statements . _
+
+P261 Av0id breathing dust/fume/gas/mist/vapours/spray.
+
+P280 Wear Erotective gloves/protective clothing/eye protection/faceRprotection.
+P305+P351+P338 IF IN
+
+YES: Rinse cautiously With water or several minutes. emove contact lenses, if present and easy to do. Continue rinsing.
+P304+P340 IF INHALED: Remove person to fresh air and keep comfortable for breathing.
+P405 Store locked up.
+P501 Dispose of contents/container in accordance With local/regionaI/nationaI/international regulations.
+National regulations
+
+This product is not listed in the US. Environmental Protection Agency Toxic Substances Control Act Chemical Substance Inventory. Use of_ this groduct is restricted
+to research and development only. This product must be used by or directly under the superVision of a technically qualified indiVidual as defined y TSCA. This
+product must'not be_ used for commercial purposes or in formulations for commercial pugposes. . _
+
+This product is not listed on the Canadian Domestic Substances List (DSL) or the Cana ian Non—Domestic Substances List (NDSL).
+
+SARA Section 313 (specific toxic chemical listings) Substance is not listed.
+
+California Proposition 65
+
+Prop 65 - Chemicals known to cause cancer Substance is not listed.
+
+Prop 65 - Developmental toxicity Substance is not listed.
+
+Prop 65 - Developmental toxicity, female Substance is not listed.
+
+Prop 65 - Developmental toxicity, male Substance is not listed.
+
+Information about limitation of use: For use only by technically qualified individuals.
+
+Other regulations, limitations and rohibitive re ulations
+
+Substance of Ver High Concern SVHC) accor ing to the REACH Regulations (EC) No. 1907/2006. Substance is not listed.
+
+The conditions 0 restrictions according to Article 67 and Annex XVII of the Regulation (EC) No 1907/2006 (REACH) for the manufacturing, placing on the
+market and use must be observed.
+
+Substance is not listed.
+
+Annex XIV of the REACH Regulations (requiring Authorisation for use) Substance is not listed.
+
+Chemical safety assessment: A Chemical Safety Assessment has not been carried out.
+
+ 
+
+ 
+
+16 Other information
+Employers should use this information only as a supplement to other information gathered by them,_and should make independent judgement of suitabilgv of this,
+information to ensure proper use and protect the health and safety of employees. This information is furnished Without warranty and any use of the pro uct not in
+conformance With this Material Safety Data Sheet, or in combination With any other product or process, is the responsibility oft e user.
+
+Department issuing SDS: Global Marketing Department
+Date of preparation / last rewsmn 11/24/2015 / —
+
+Abbrewations and acronyms:
+
+RID: Reg/ement international concernant le transport des marchandises dan ereuses par chemin de fer (Regulations Concerning the International Transport of Dangerous Goods by Rail)
+ADR: Accord européen sur le transport des marchandises dangereuses par oute (European Agreement concerning the International Carriage of Dangerous Goods by Road)
+DOT: US Department of Transportation
+
+CAS.‘ Chemical Abstracts Service division of the American Chemical Society)
+
+HMIS.’ Hazardous Materials Identi ication System (US/g)
+
+WHMIS: Workplace Hazardous Materials Information ystem (Canada)
+
+L050: Lethal concentration, 50 percent
+
+LD50: Lethal dose, 50 percent
+
+vPvB: very Persistent and very Bioaccumulative
+
+ACGIH: American Conference of Governmental Industrial Hygienists (USA)
+
+OSHA: Occupational Safety and Health Administration (USA)
+
+NTP: National Toxicology rogram (USA)
+
+IARC: InternationaIA ency for Research on Cancer
+
+EPA: Environmental rotection Agency (USA)
+
+ 
+
+ 
+
+USA —

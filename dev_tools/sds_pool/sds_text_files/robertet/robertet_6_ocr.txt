@@ -1,0 +1,132 @@
+Control parameters
+
+Exposure Guidelines
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Component OSHA PEL (TWA) ACGIH TLV (TWA) ACGIH TLV (STEL) California PEL (TWA)
+Propionic acid 30 MGM3, 10 PPM 10 PPM - 30 MGM3, 10 PPM
+79-09-4
+Acetic acid 25 MGM3, 10 PPM 10 PPM 15 PPM 25 MGM3. 10 PPM
+64-19-7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appropriate enqineerinq controls
+
+Engineering Controls
+
+Ensure adequate ventilation, especially in confined areas.
+
+individual protection measures. such as personal protective guipment
+
+Eyelface protection
+Skin and body protection
+
+Respiratory Protection
+
+General Hygiene Considerations
+
+Tight sealing safety goggles. Face protection shield.
+
+Wear protective gloves and protective clothing.
+
+if exposure limits are exceeded or irritation is experienced, NiOSH/MSHA approved
+respiratory protection should be worn. Positive-pressure supplied air respirators may be
+required for high airborne contaminant concentrations. Respiratory protection must be
+provided in accordance with current local regulations.
+
+When using, do not eat, drink or smoke, Regular cleaning of equipment, work area and
+
+clothing.
+
+ 
+
+information on basic phvsical and chemical properties
+
+Physical State:
+Appearance:
+Odor:
+
+Odor Threshold:
+
+Property
+
+pH
+
+Melting Point/Range
+Boiling point] boiling range
+Flash Point:
+
+Evaporation rate
+Flammability (solid, gas)
+
+Vapor Pressure (mm Hg @ 20°C):
+Vapor Density
+
+Relative density
+
+Specific Gravity @ 20/20 °C:
+Refractive index @ 20°C:
+
+Water Solubility
+
+Solubility in other solvents
+
+Liquid
+
+Light yellow to colorless liquid
+Characteristic
+
+No information available
+
+Partition coefficient: n-octanol/waterNo data available
+
+Autoignition Temperature
+Decomposition temperature
+Viscosity
+
+Explosive Properties
+
+Values Remarks/ - Method
+No data available AOAC 945.10
+No data available USP <741>
+No data available None known
+> 93 °C / > 200 °F ASTM D6450
+No data available None known
+No data available None known
+No data available None known
+No data available None known
+No data available None known
+1.0929 +/- 0.02 AOAC 988.06
+1.4319 +/- 0.02 AOAC 920.141
+Soluble None known
+No data available None known
+None known
+No data available None known
+No data available None known
+No data available ASTM D2196
+
+No information available
+
+ 
+
+Flavors SDS US OSHA GHS
+
+Page 4/7
