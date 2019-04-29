@@ -1,4 +1,4 @@
-from sdsparser.regexes import get_regexes_from_database, compile_regexes, search_sds_text
+from sdsparser.regexes import compile_regexes, search_sds_text
 from sdsparser.configs import Configs as PConfigs
 from configs import Configs
 import os
@@ -43,7 +43,7 @@ class RegexDeveloper():
         connect to MongoDB to retrieve current regular expressions
         """
 
-        with pymongo.MongoClient() as client:
+        with MongoClient() as client:
 
             regex_collection = client.sdsparser.sdsRegexes
 

@@ -177,7 +177,7 @@
 			"flags": "is"
 		},
 		"cas_number": {
-			"regex": "CAS(?P\u003cdata\u003e.{30})",
+			"regex": "(?P\u003cdata\u003e\\d{2,7}-\\d{2}-\\d)",
 			"flags": "is"
 		},
 		"nfpa_fire": {

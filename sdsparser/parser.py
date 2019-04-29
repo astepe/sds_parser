@@ -10,12 +10,13 @@ class SDSParser:
 
     def __init__(self, request_keys=None, file_info=False):
         """
-        The SDSParser object performs regular expression matching on safety data
-        sheets based on specific formats created by common chemical manufacturers.
+        The SDSParser object performs regular expression matching on safety
+        data sheets based on specific formats created by common chemical
+        manufacturers.
 
-        :param request_keys: a list of strings that define the desired fields from
-                             safety data sheet (see configs.REQUEST_KEYS for a
-                             list of valid search keys)
+        :param request_keys: a list of strings that define the desired fields
+                             from safety data sheet (see configs.REQUEST_KEYS
+                             for a list of valid search keys)
         :param file_info: input True to include extra file information in the
                           output.
         """
@@ -38,16 +39,17 @@ class SDSParser:
 
         :param sds_file_path: Path to a safety data sheet file in .pdf format
         :param extract_method: Define the text extraction method. Set to 'ocr'
-                               to extract text using only Optical Character Recognition.
-                               Set to 'text' to extract text using only standard
-                               text extraction.
+                               to extract text using only Optical Character
+                               Recognition. Set to 'text' to extract text using
+                               only standard text extraction.
 
                                If no input is given, SDSParser will dynamically
-                               select an extraction method based on various criteria.
+                               select an extraction method based on various
+                               criteria.
                                (see get_sds_text for full logic flow)
 
-        get_sds_data will return a dictionary object mapping user-defined request
-        keys to resultant text matches. i.e.:
+        get_sds_data will return a dictionary object mapping user-defined
+        request keys to resultant text matches. i.e.:
         {
         'flash_point': 102F,
         'specific_gravity': 1.102
@@ -64,10 +66,12 @@ class SDSParser:
         regexes = get_static_regexes(self.manufacturer_name,
                                      request_keys=self.request_keys)
 
-        self.sds_data = search_sds_text(self.sds_text, regexes[self.manufacturer_name])
+        self.sds_data = search_sds_text(self.sds_text,
+                                        regexes[self.manufacturer_name])
 
         if self.data_not_listed() and not self.ocr_ran and self.ocr_override:
-            self.sds_data = self.get_sds_data(sds_file_path, extract_method='ocr')
+            self.sds_data = self.get_sds_data(sds_file_path,
+                                              extract_method='ocr')
 
         if self.file_info:
             self.sds_data.update(self.get_file_info())
@@ -77,9 +81,9 @@ class SDSParser:
     def data_not_listed(self):
         """
         Returns True if no matches were found in safety data sheet text. This
-        frequently indicates corrupted or unreadable text and is used to determine
-        if optical character recognition should be executed on the file instead
-        of conventional text extraction methods.
+        frequently indicates corrupted or unreadable text and is used to
+        determine if optical character recognition should be executed
+        on the file instead of conventional text extraction methods.
         """
 
         for _, data in self.sds_data.items():
@@ -113,9 +117,10 @@ class SDSParser:
         is found in the user-defined directory, text will be retrieved from
         the corresponding .txt file if it is found.
 
-        If no text is able to be extracted using standard text extraction methods,
-        ocr with be executed unless the user has specified to only use standard
-        methods or ocr has already been executed on the particular file.
+        If no text is able to be extracted using standard text extraction
+        methods, ocr with be executed unless the user has specified
+        to only use standard methods or ocr has already been
+        executed on the particular file.
 
         :param file_path: A path to a safety data sheet file in .pdf format
         """
@@ -143,8 +148,8 @@ class SDSParser:
 
     def get_file_info(self):
         """
-        Retrieve extra information on safety data sheet file. Used for development
-        and debugging.
+        Retrieve extra information on safety data sheet file. Used for
+        development and debugging.
         """
         file_info = {
                      'format': self.manufacturer_name,
@@ -153,8 +158,3 @@ class SDSParser:
                      }
 
         return file_info
-
-if __name__ == "__main__":
-    parser = SDSParser()
-    sds_data = parser.get_sds_data('/home/ari/Desktop/projects/sdsparser_proj/sdsparser/dev_tools/sds_pool/sds_pdf_files/sigma_aldrich/sigma_aldrich_1.pdf')
-    print(sds_data)

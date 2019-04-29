@@ -1,18 +1,18 @@
-import json
 import re
 from .configs import Configs
 from .errors import ManufacturerNotSupported
-from pprint import pprint
 
 """
 Manages regular expression retrieval
 """
 
+
 def get_static_regexes(manufacturer_name=None, request_keys=None):
     """
     retrieves regular expressions from static regex file and filters based
     on manufacturer_name and request_keys
-    :param manufacturer_name: the name of a supported safety data sheet manufacturer
+    :param manufacturer_name: the name of a supported safety data sheet
+                              manufacturer
     :param request_keys: used to filter through regex dictionary
     """
     if not isinstance(request_keys, list):
@@ -33,7 +33,8 @@ def get_static_regexes(manufacturer_name=None, request_keys=None):
             raise ManufacturerNotSupported(manufacturer_name)
             regex_dict = Configs.REGEXES['default']
         finally:
-            raw_dict = {manufacturer_name: filter_dict(regex_dict, request_keys)}
+            raw_dict = {manufacturer_name: filter_dict(regex_dict,
+                                                       request_keys)}
 
     out_dict = dict()
     for name, doc in raw_dict.items():
@@ -44,7 +45,6 @@ def get_static_regexes(manufacturer_name=None, request_keys=None):
             regexes[key] = compiled[key]
 
         out_dict[name] = regexes
-    print(out_dict)
 
     return out_dict
 
@@ -70,8 +70,8 @@ def compile_regexes(regexes):
     'manufacturer': re.Pattern
     }
     ```
-    :param regexes: a dictionary mapping regular expression names to raw regular
-                    expressions and and relevant flags
+    :param regexes: a dictionary mapping regular expression names to raw
+                    regular expressions and and relevant flags
     """
 
     compiled_regexes = {}
@@ -89,26 +89,26 @@ def filter_dict(regex_dict, request_keys):
     filter regular expression dictionary by request_keys
     :param regex_dict: a dictionary of regular expressions that
                        follows the following format:
-                       {
-                       "name": "sigma_aldrich",
-                   	   "regexes": {
-                   		"manufacturer": {
-                   			"regex": "[C|c]ompany(?P\u003cdata\u003e.{80})",
-                   			"flags": "is"
-                   		},
-                   		"product_name": {
-                   			"regex": "\\s[P|p]roduct\\s(?P\u003cdata\u003e.{80})",
-                   			"flags": "is"
-                   		},
-                        ...
-                        }
-                        returns
-                        {
-                        'sigma_aldrich': {
-                            "manufacturer": {
-                       			"regex": "[C|c]ompany(?P\u003cdata\u003e.{80})",
-                       			"flags": "is"
-                       		},
+                   {
+                   "name": "sigma_aldrich",
+                   "regexes": {
+                    "manufacturer": {
+                        "regex": "[C|c]ompany(?P\u003cdata\u003e.{80})",
+                        "flags": "is"
+                        },
+                        "product_name": {
+                        "regex": "\\s[P|p]roduct\\s(?P\u003cdata\u003e.{80})",
+                        "flags": "is"
+                        },
+                    ...
+                    }
+                    returns
+                    {
+                    'sigma_aldrich': {
+                        "manufacturer": {
+                            "regex": "[C|c]ompany(?P\u003cdata\u003e.{80})",
+                            "flags": "is"
+                            },
                         }
 
     :param request_keys: a list of dictionary keys that correspond to valid
@@ -151,8 +151,8 @@ def search_sds_text(sds_text, regexes):
     """
     using the provided regular expressions, return a dictionary of matches
     :param sds_text: safety data sheet text
-    :param regexes: a dictionary mapping field names to corresponding pre-compiled
-                    regular expressions. Follows format:
+    :param regexes: a dictionary mapping field names to corresponding
+                    pre-compiled regular expressions. Follows format:
                     input
                     {
                     'manufacturer': re.Pattern,
