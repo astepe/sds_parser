@@ -43,7 +43,8 @@ def update_txt_files(sds_directory):
         if file_root not in txt_file_set:
             parser = SDSParser()
             parser.get_sds_data(os.path.join(sds_directory, sds_file_name))
-            txt_path = generate_txt_file_path(sds_file_name, ocr=parser.ocr_ran)
+            txt_path = generate_txt_file_path(sds_file_name,
+                                              ocr=parser.ocr_ran)
             write_text_to_file(parser.sds_text, txt_path)
 
 

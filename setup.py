@@ -1,16 +1,14 @@
 from setuptools import setup, find_packages
-import os
 
 with open('README.md', 'r') as fh:
     long_description = fh.read()
 
 setup(
     name='SDSParser',
-    version='0.1.5',
+    version='0.2.0',
     author='A. Stepe',
-    author_email='astepe@arisstepe.com',
+    author_email='aris@stepe.email',
     packages=find_packages(exclude=['tests', 'dev_tools']),
-    scripts=['bin/update_sds.py'],
     url='https://github.com/astepe/sds_parser',
     license='LICENSE.txt',
     description='Extract chemical data from Safety Data Sheet documents',
@@ -28,9 +26,9 @@ setup(
         "sortedcontainers==2.1.0",
     ],
     classifiers=[
-    'Programming Language :: Python :: 3',
-    'License :: OSI Approved :: MIT License',
-    'Operating System :: OS Independent',
+        'Programming Language :: Python :: 3',
+        'License :: OSI Approved :: MIT License',
+        'Operating System :: OS Independent',
     ],
     entry_points={
         'console_scripts': [
