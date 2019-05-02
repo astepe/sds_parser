@@ -1,13 +1,10 @@
-argh==0.26.2
 chardet==3.0.4
-pathtools==0.1.2
 pdf2image==1.4.0
 pdfminer.six==20181108
 Pillow==5.4.1
-progressbar==2.5
 pycryptodome==3.7.3
 pytesseract==0.2.6
-PyYAML==4.2
 six==1.12.0
 sortedcontainers==2.1.0
-watchdog==0.9.0
+tabulate==0.8.3
+tqdm==4.31.1

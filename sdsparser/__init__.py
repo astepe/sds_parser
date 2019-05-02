@@ -3,5 +3,5 @@ from .configs import Configs
 
 name = "sdsparser"
 
-supported_manufacturers = Configs.SUPPORTED_MANUFACTURERS
-supported_fields = Configs.REQUEST_KEYS
+manufacturers = Configs.SUPPORTED_MANUFACTURERS
+request_keys = Configs.REQUEST_KEYS

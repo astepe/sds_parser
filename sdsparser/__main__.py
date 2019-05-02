@@ -1,10 +1,32 @@
 import argparse
 from sdsparser.parser import SDSParser
 from sdsparser.configs import Configs
+from tqdm import tqdm
 import csv
 import os
 import pprint
 import sys
+from tabulate import tabulate
+
+
+def tabulate_sds_data(request_keys, sds_data):
+    print('='*100)
+
+    headers = ['file name'] + request_keys
+
+    out = list()
+
+    for file_name, data in sds_data.items():
+        row = [os.path.basename(file_name)]
+        for request_key in request_keys:
+            row.append(data[request_key])
+        out.append(row)
+
+    # out.sort(key=lambda x: int(x[0].split('_')[-2]))
+
+    print(tabulate(out, headers=headers, tablefmt='orgtbl'))
+    print('='*100)
+    print()
 
 
 def main(passed_args=None):
@@ -31,7 +53,10 @@ def main(passed_args=None):
         file_path = os.path.join(sds_dir, args.file_name)
         sds_data[args.file_name] = sds_parser.get_sds_data(file_path)
     else:
-        for file in os.listdir(sds_dir):
+        list_dir = os.listdir(sds_dir)
+        pbar = tqdm(list_dir, position=0)
+        for file in pbar:
+            pbar.set_description(f'Processing {file}')
             if file.endswith('.pdf'):
 
                 file_path = os.path.join(sds_dir, file)
@@ -50,8 +75,10 @@ def main(passed_args=None):
                 row = list(dict_row.values())
                 writer.writerow(row)
     else:
-        pp = pprint.PrettyPrinter(width=80, indent=1)
-        pp.pprint(sds_data)
+        if len(request_keys) < 4:
+            tabulate_sds_data(request_keys, sds_data)
+        else:
+            pprint.pprint(sds_data)
 
 
 def get_request_keys(args_list):
@@ -60,6 +87,10 @@ def get_request_keys(args_list):
     for arg in vars(args_list):
         if arg in Configs.REQUEST_KEYS and getattr(args_list, arg):
             request_keys.append(arg)
+
+    if not request_keys:
+        request_keys = Configs.REQUEST_KEYS
+
     return request_keys
 
 
@@ -78,9 +109,9 @@ def get_args(passed_args):
 
     parse_parser.add_argument('-f', '--file_name', type=str, help='extract chemical data from a specific file')
 
-    parse_parser.add_argument('--txt_dir', type=str)
+    parse_parser.add_argument('--txt_dir', type=str, help='path to pre-extracted sds text')
 
-    parse_parser.add_argument('--sds_dir', type=str)
+    parse_parser.add_argument('--sds_dir', type=str, help='path to sds directory')
 
     parse_parser.add_argument('--file_info', action='store_true')
 

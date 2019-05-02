@@ -6,10 +6,12 @@ SDSParser.egg-info/dependency_links.txt
 SDSParser.egg-info/entry_points.txt
 SDSParser.egg-info/requires.txt
 SDSParser.egg-info/top_level.txt
-bin/update_sds.py
 sdsparser/__init__.py
 sdsparser/__main__.py
 sdsparser/configs.py
+sdsparser/errors.py
+sdsparser/helpers.py
 sdsparser/parser.py
 sdsparser/regexes.py
-sdsparser/utils.py
+sdsparser/static/__init__.py
+sdsparser/static/regexes.json

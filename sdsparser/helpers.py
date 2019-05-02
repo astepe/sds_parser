@@ -8,7 +8,7 @@ from pdfminer.pdfpage import PDFPage, PDFTextExtractionNotAllowed
 from pdf2image import convert_from_path
 from pytesseract import image_to_string
 from PIL import Image
-import progressbar
+from tqdm import tqdm
 import tempfile
 from threading import Thread
 from .errors import FileMatchNotFound, TextDirectoryDoesNotExist
@@ -18,9 +18,6 @@ def get_pdf_image_text(sds_file_path):
     """
     extract text from pdf file by applying ocr
     """
-
-    print('=======================================================')
-    print('Processing:', sds_file_path.split('/')[-1] + '...')
 
     def get_sorted_dir_list(path):
         """
@@ -52,25 +49,24 @@ def get_pdf_image_text(sds_file_path):
         # output in order
         dir_list = get_sorted_dir_list(path)
 
-        progress_bar = progressbar.ProgressBar().start()
-        num_pages = len(dir_list)
-
         # send each OCR process to a separate thread
         threads = []
-        for page_image in dir_list:
+        for page_num, page_image in enumerate(dir_list):
 
             _temp_path = os.path.join(path, page_image)
             thread = Thread(target=ocr_task, args=(_temp_path,))
+            _name = f'page {page_num+1} of {os.path.basename(sds_file_path)}'
+            thread.setName(_name)
             threads.append(thread)
 
         for thread in threads:
             thread.start()
 
-        for idx, thread in enumerate(threads):
+        pbar = tqdm(threads, position=1, leave=False)
+        for thread in pbar:
+            pbar.set_description(f'Applying OCR to {thread.name}')
             thread.join()
-            progress_bar.update((idx/num_pages)*100)
-        progress_bar.update(100)
-        print()
+        pbar.close()
 
         return sds_text
 

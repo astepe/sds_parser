@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: SDSParser
-Version: 0.1.5
+Version: 0.2.2
 Summary: Extract chemical data from Safety Data Sheet documents
 Home-page: https://github.com/astepe/sds_parser
 Author: A. Stepe
-Author-email: arisstepe@gmail.com
+Author-email: aris@stepe.email
 License: LICENSE.txt
 Description: ![alt text](https://github.com/astepe/sds_parser/blob/master/LogoSample_ByTailorBrands.jpg)
         

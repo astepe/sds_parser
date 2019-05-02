@@ -96,7 +96,7 @@ class RegexDeveloper():
     def display_results(self):
         print('='*100)
         headers = ['file name', self.request_key]
-        out = [[key, result[self.request_key]] for key, result in self.sds_data.items()]
+        out = [[file_name, result[self.request_key]] for file_name, result in self.sds_data.items()]
         out.sort(key=lambda x: int(x[0].split('_')[-2]))
 
         print(tabulate(out, headers=headers, tablefmt='orgtbl'))

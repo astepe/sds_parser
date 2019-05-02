@@ -1,10 +1,14 @@
 import os
 import json
 
+# support for 3.6
+try:
+    from importlib.resources import open_binary
+except ModuleNotFoundError:
+    from pkg_resources import resource_stream as open_binary
+
 
 class Configs:
-
-    SDS_DEV = os.environ.get('SDS_DEV', False) in ('TRUE', '1')
 
     REQUEST_KEYS = [
         'manufacturer',
@@ -20,13 +24,13 @@ class Configs:
         'cas_number',
     ]
 
-    REGEXES_PATH = '/home/ari/Desktop/projects/sdsparser_proj/sdsparser/sdsparser/regexes.json'
-
     REGEXES = dict()
 
-    with open(REGEXES_PATH, 'r') as json_file:
-        for regex_dict in json.load(json_file):
-            REGEXES[regex_dict['name']] = regex_dict
+    with open_binary('static', 'regexes.json') as regex_file:
+        regex_file_bytes = regex_file.read()
+
+    for regex_dict in json.loads(regex_file_bytes):
+        REGEXES[regex_dict['name']] = regex_dict
 
     SUPPORTED_MANUFACTURERS = set(REGEXES.keys())
     SUPPORTED_MANUFACTURERS.remove('default')
