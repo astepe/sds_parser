@@ -1,7 +1,7 @@
 ![alt text](https://github.com/astepe/sds_parser/blob/master/LogoSample_ByTailorBrands.jpg)
 
 ## SDSParser
-SDSParser is a browser-based app for extracting chemical data from Safety Data Sheet documents. SDSParser will speed up your
+SDSParser is a Python library and command line tool for extracting chemical data from Safety Data Sheet documents. SDSParser will speed up your
 data-entry process by eliminating the need to read through Safety Data Sheets to get the data you care about.
 
 For a live demo, click here: [SDSParser](http://www.arisstepe.com/projects/submit_sds)
