@@ -108,6 +108,10 @@ $ sdsparser parse --help
 
 ## dev_tools
 Easily edit and update existing regular expressions with the help of a local MongoDB server and a GUI for making your changes.
+![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_select.png)
+![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_get.png)
+![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_execute.png)
+![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_makechange.png)
 
 ## License
 
