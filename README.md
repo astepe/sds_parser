@@ -106,12 +106,28 @@ or
 $ sdsparser parse --help
 ```
 
-## dev_tools
+## dev_tools - regex_developer
 Easily edit and update existing regular expressions with the help of a local MongoDB server and a GUI for making your changes.
-![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_select.png)
-![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_get.png)
-![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_execute.png)
-![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_make_change.png)
+
+### 1. Start by entering into the dev_tools folder, activate your virtalenv and run the command `python3.7 regex_developer.py`. Login as root to allow `mongod` to start the local server.
+
+### 2. Use the top two drop-down menus to select both the manufacturer and regular expression you would like to test.
+![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_select_crop.jpg)
+
+### 3. Click 'Get Regex' to populate the input field with the regular expression
+![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_get_crop.jpg)
+
+### 4. Click 'Execute' to perform the match with the current entered regular expression
+![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_execute_crop.jpg)
+
+### 5. Make changes to your regular expression according to the tabulated output in the terminal, click 'Execute' again.
+![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_make_change_crop.jpg)
+
+### 6. Rinse and repeat.
+
+When you are ready to save your new and improved regular expression, click 'Save Regex'. This will store the text currently in the text input field to the MongoDB database. When you are ready to add your changes to `sdsparser`, export your regular expressions to /sdsparser/static/regexes.json. This can be accomplished using this command:
+
+* `mongoexport -d sdsparser -c sdsRegexes --jsonArray -o regexes1.json --pretty`
 
 ## License
 
