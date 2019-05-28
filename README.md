@@ -106,6 +106,9 @@ or
 $ sdsparser parse --help
 ```
 
+## dev_tools
+Easily edit and update existing regular expressions with the help of a local MongoDB server and a GUI for making your changes.
+
 ## License
 
 MIT © [Aris Stepe](http://www.arisstepe.com/)
