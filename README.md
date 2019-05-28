@@ -111,7 +111,7 @@ Easily edit and update existing regular expressions with the help of a local Mon
 ![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_select.png)
 ![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_get.png)
 ![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_execute.png)
-![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_makechange.png)
+![alt text](https://github.com/astepe/sds_parser/blob/master/regex_developer_make_change.png)
 
 ## License
 
