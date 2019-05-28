@@ -29,7 +29,8 @@ Simply initialize `SDSParser` with an optional list of data fields you wish to e
 
 ```
 >>> from sdsparser import SDSParser
->>> request_keys = ['manufacturer', 'flash_point', 'specific_gravity', 'product_name', 'sara_311', 'nfpa_fire']
+>>> request_keys = \
+['manufacturer', 'flash_point', 'specific_gravity', 'product_name', 'sara_311', 'nfpa_fire']
 >>> parser = SDSParser(request_keys=request_keys)
 ```
 
@@ -79,11 +80,10 @@ To see a set of all of the currently supported chemical manufacturers:
 ```
 >>> import sdsparser
 >>> sdsparser.manufacturers
-{'the_clorox_company', 'firmenich', 'frutarom', 'symrise', 'exxon_mobil', 'fisher', 'indofine', 'ungerer',
-'formosa_plastics', 'innophos', 'basf', 'citrus_and_allied', 'robertet', 'acros_organics', 'kerry', 'iff', 'treatt',
-'excellentia', 'sigma_aldrich', 'takasago', 'givaudan', 'pepsico_inc', 'sc_johnson', 'pfizer', 'reckitt_benckiser',
-'alfa_aesar'}
-
+{'the_clorox_company', 'firmenich', 'frutarom', 'symrise', 'exxon_mobil', 'fisher', 'indofine',
+'ungerer','formosa_plastics', 'innophos', 'basf', 'citrus_and_allied', 'robertet',
+'acros_organics', 'kerry', 'iff', 'treatt', 'excellentia', 'sigma_aldrich', 'takasago',
+'givaudan', 'pepsico_inc', 'sc_johnson', 'pfizer', 'reckitt_benckiser', 'alfa_aesar'}
 ```
 
 ## SDSParser-cli
