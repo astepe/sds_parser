@@ -79,7 +79,10 @@ To see a set of all of the currently supported chemical manufacturers:
 ```
 >>> import sdsparser
 >>> sdsparser.manufacturers
-{'the_clorox_company', 'firmenich', 'frutarom', 'symrise', 'exxon_mobil', 'fisher', 'indofine', 'ungerer', 'formosa_plastics', 'innophos', 'basf', 'citrus_and_allied', 'robertet', 'acros_organics', 'kerry', 'iff', 'treatt', 'excellentia', 'sigma_aldrich', 'takasago', 'givaudan', 'pepsico_inc', 'sc_johnson', 'pfizer', 'reckitt_benckiser', 'alfa_aesar'}
+{'the_clorox_company', 'firmenich', 'frutarom', 'symrise', 'exxon_mobil', 'fisher', 'indofine', 'ungerer',
+'formosa_plastics', 'innophos', 'basf', 'citrus_and_allied', 'robertet', 'acros_organics', 'kerry', 'iff', 'treatt',
+'excellentia', 'sigma_aldrich', 'takasago', 'givaudan', 'pepsico_inc', 'sc_johnson', 'pfizer', 'reckitt_benckiser',
+'alfa_aesar'}
 
 ```
 
