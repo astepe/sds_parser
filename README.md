@@ -25,7 +25,7 @@ Have some physical SDSs you need to scan and get data from? Have no fear, sds_pa
 `pip install SDSParser`
 
 ## How to use
-Simply initialize `SDSParser` with an optional list of data fields you wish to extract (e.g. ['manufacturer', 'flash_point']) to the `request_keys` key-word argument. See `configs.SDSRegexes.REQUEST_KEYS` for the proper keys to use. If no keys are requested, all available data fields will be searched.
+Simply initialize `SDSParser` with an optional list of data fields you wish to extract (e.g. ['manufacturer', 'flash_point']) to the `request_keys` key-word argument. See `sdsparser.request_keys` for the proper keys to use. If no keys are requested, all available data fields will be searched.
 
 ```
 >>> from sdsparser import SDSParser
@@ -35,8 +35,8 @@ Simply initialize `SDSParser` with an optional list of data fields you wish to e
 
 Here is a list of the keys to use.
 ```
->>> from sdsparser.configs.SDSRegexes import REQUEST_KEYS
->>> REQUEST_KEYS
+>>> import sdsparser
+>>> sdsparser.request_keys
 [
     'manufacturer',
     'product_name',
@@ -74,6 +74,14 @@ Call `parser.get_sds_data('path/to/ExampleSDS.pdf')` and pass in the path to you
 
 If the heading for the requested data type is not found in the SDS, `.get_sds_data` will return the string 'Data not listed'.
 If the heading is found, but no data is found under it, `.get_sds_data` will return the string 'No data available'.
+
+To see a set of all of the currently supported chemical manufacturers:
+```
+>>> import sdsparser
+>>> sdsparser.manufacturers
+{'the_clorox_company', 'firmenich', 'frutarom', 'symrise', 'exxon_mobil', 'fisher', 'indofine', 'ungerer', 'formosa_plastics', 'innophos', 'basf', 'citrus_and_allied', 'robertet', 'acros_organics', 'kerry', 'iff', 'treatt', 'excellentia', 'sigma_aldrich', 'takasago', 'givaudan', 'pepsico_inc', 'sc_johnson', 'pfizer', 'reckitt_benckiser', 'alfa_aesar'}
+
+```
 
 ## SDSParser-cli
 
