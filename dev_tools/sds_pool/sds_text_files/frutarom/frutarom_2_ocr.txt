@@ -1,63 +1,127 @@
-?|
+Page 6/7
 
-Page 8/8
+Safety Data Sheet
+acc. to OSHA HCS
 
-‘5." F-—£urﬂm Safety Data Sheet
-
-r— l_ a n r n I acc.t0 OSHAHCS
-
-n.3,:
-
-Printing date 05/10/20] 6 Reviewed on 05/10/2016
+Printing date 7 1102/20 15 Reviewed on 11/02/2015
 
  
 
-(Contd. of page 7)
+ 
+
+Trade name: PHEN YLACETALDEH YDE DIMETHYL ACETAL (PADMA)
 
  
 
-I 6 0th er information I
+ 
 
-This information is based on our present knowledge. However, this shall not constitute a guarantee for any
-specific prodmt features and shall not establish a legally valid contractual relationship.
+(Contd. of page 5)
 
-~ Contact: Quality Ass urance Department
-~ Date of p reparation / last revision 05/10/2016 / -
+- Uncleaned packagings:
+- Recommendation: Disposal must be made according to official regulations.
 
-~ Abbreviations and acronyms:
-RID 1 Re glemen t inte mational con cernant le transport de s ma rchan discs dangereuse spar c hemin de fer (Regulations Concerning the
-I ntemational Transport of Dangerous Goods by Rail)
-I ATA —D GR' Dangerous Goods Regulations by the ’Ynternational Air Transport Association ” (IA TA)
-I C4 0: International Civil Aviation Organisation
-I C4 O—IT Technical Instructions by the ’Ynternational Civil Aviation Organisation ” (ICAO)
-A DR' Acc 0rd eurqoe'e n su r [e transport des march andises dan gereuse s pa r Route (Europe an Agreement con cerning th e International
-Carriage of Dangerous Goods by Road)
-I MDG .' I ntematio nal Maritime Code for Dangerous Goods
+ 
+
+ 
+
+ 
+
+ 
+
+- DOT, ADN, IMDG Not Classified
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. UN proper shipping name
+- ADR/RID/ADN. Void
+‘IATA i Not Classified
+. Environmental hazards: Not applicable.
+- Special precautions for user Not applicable.
+- Transport in bulk according to Annex I1 of
+
+MARPOL 73/78 and the IBC Code Not applicable.
+- UN "Model Regulation": Void
+
+ 
+
+ 
+
+ 
+
+ 
+
+. Safety, health and environmental regulations/legislation specific for the substance or mixture
+- Sara
+
+- Section 355 (extremely hazardous substances): Substance is not listed.
+
++ Section 313 (Specific toxic chemical listings): Substance is not listed.
+
+- TSCA (Toxic Substances Control Act): Substance is listed.
+
+: Proposition 65
+
+' Chemicals known to cause cancer: Substance is not listed.
+
+- Chemicals known to cause reproductive toxicity for females: Substance is not listed.
+
+- Chemicals known to cause reproductive toxicity for males: Substance is not listed.
+
+- Chemicals known to cause developmental toxicity: Substance is not listed.
+
+- Carcinogenic categories
+
+- EPA (Environmental Protection Agency) Substance is not listed.
+
+- TLV (Threshold Limit Value established by ACGIH) Substance is not listed.
+
+- NIOSH-Ca (National Institute for Occupational Safety and Health) Substance is not listed.
+- Chemical safety assessment: A Chemical Safety Assessment has not been carried out.
+
+ 
+
+ 
+
+ 
+
+is information is based on our - pres nt knowledge. However, this shall not constitute a guarantee for any
+Specific product features and shall not establish a legally valid contractual relationship.
+
+ 
+
+- Contact: Quality Assurance Department
+
+- Date of preparation / last revision 11/02/2015 / -
+
+- Abbreviations and acronyms:
+ADR: Accord européen sur le transport des marchandises dangereuses par Route (European Agreement concerning ite International Carriage
+of Dangerous Goods by Road)
+
+IMDG: International Maritime Code for Dangerous Goods
+
 DOT: US Department of Transportation
-I ATA .‘ International Air Transport Association
-A CGIH: Ame rican Conference ofGovernmental Industrial Hygienists
-CAS: OiemicalA bstracts Service (division ofthe American Chemical Society)
-NFPA: National Fire Protection Association (USA)
-HMIS: Hazardous Materials Identiﬁcation System (USA)
-LC50: Lethalconcentration, 50percent
-LD50: Lethal dose, 50percent
-PBT: Persistent, Bioaccumulative and Toxic
-vP vB: very Pe 1s isten t andvery Bioaccumulative
-NIOSH: National Institute for Occupational Safety
-OSHA: Occuoational Safety & Health
-TLV: Th reshold Limit Value
-PEL: Perrnis sible Exposure Limit
-REL: Recommended Exposure Limit
-Flam. Liq. 3: Flammable liquids, Hazard Category 3
-A cute Tox. 3: Acute toxicity, Hazard Category 3
-Skin lrrit. 2: Skin corrosion/irritation, Hazard Category 2
-Eye lrrit. 2A: Serious eye damage/eye irritation, Hazard Category 2A
-ST 0T SE 3: Specific target organ toxicity — Single exposure, Hazard Category 3
+
+IATA: Intemational Air Transport Association
+
+ACGIH: American Conference of Governmental Industrial Hygienists
+EINECS: European Inventory of Existing Commercial Chemical Substances
+CAS: Chemical Abstracts Service (division of the American Chemical Society)
 
  
 
  
 
- 
-
-US—
+(Contd. on page 7)
+us ~~
