@@ -15,8 +15,13 @@ class Configs:
 
 class MongoServer:
 
+    @staticmethod
+    def import_from_static_file():
+        subprocess.run(['mongoimport', '--db', 'sdsparser', '--collection', 'sdsRegexes', '--file', '../sdsparser/static/regexes.json', '--jsonArray'])
+
     def __enter__(self):
-        subprocess.run(['sudo', '-S', 'mongod', '--fork', '--quiet', '--logpath', '/home/ari/Desktop/mongo_logs/log.log'])
+        subprocess.run(['sudo', '-S', 'mongod', '--quiet', '--fork', '--logpath', './mongologs/mongolog.log'])
+        return self
 
     def __exit__(self, exc_type, exc_value, traceback):
         subprocess.run(['sudo', 'mongo', '--eval', "db.getSiblingDB('admin').shutdownServer()"])
