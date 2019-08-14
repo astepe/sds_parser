@@ -24,6 +24,9 @@ Have some physical SDSs you need to scan and get data from? Have no fear, sds_pa
 
 `pip install SDSParser`
 
+## Dependencies
+SDSParser requires that poppler and tesseract tools are install on your local system and included on your PATH
+
 ## How to use
 Simply initialize `SDSParser` with an optional list of data fields you wish to extract (e.g. ['manufacturer', 'flash_point']) to the `request_keys` key-word argument. See `sdsparser.request_keys` for the proper keys to use. If no keys are requested, all available data fields will be searched.
 
@@ -119,6 +122,8 @@ $ sdsparser parse --help
 
 ## dev_tools - regex_developer
 Easily edit and update existing regular expressions with the help of a local MongoDB server and a GUI for making your changes.
+
+For mongodb installation instructions go [here](https://docs.mongodb.com/v3.2/administration/install-community/)
 
 1. Start by entering into the dev_tools folder, activate your virtalenv and run the command `python3.7 regex_developer.py`. Login as root to allow `mongod` to start the local server.
 
