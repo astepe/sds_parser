@@ -1,12 +1,15 @@
+import os
+import tkinter
+
+from tkinter import ttk
+from tabulate import tabulate
+from pymongo import MongoClient
+
 from sdsparser.regexes import compile_regexes, search_sds_text
 from sdsparser.configs import Configs as PConfigs
 from configs import Configs
-import os
 from configs import MongoServer
-import tkinter
 from sds_file_manager import update_sds_pool
-from pymongo import MongoClient
-from tabulate import tabulate
 
 
 class RegexDeveloper:
@@ -15,7 +18,26 @@ class RegexDeveloper:
         update_sds_pool()
         self.manufacturer_name = ""
         self.request_key = ""
+        self.SDS_POOL_MANUFACTURERS = [manufacturer for manufacturer in os.listdir(Configs.SDS_PDF_DIRECTORY)]
+        self.find_new_manufacturers()
         print("Ready for regex development...")
+
+    def find_new_manufacturers(self):
+
+        with MongoClient() as client:
+            regex_collection = client.sdsparser.sdsRegexes
+            for manufacturer in self.SDS_POOL_MANUFACTURERS:
+                if not regex_collection.find_one({"name": manufacturer}):
+                    print(f"New sds pdf manufacturer directory found at {os.path.join(Configs.SDS_PDF_DIRECTORY, manufacturer)}")
+                    answer = input(f"Would you like to the new manufacturer {manufacturer} to SDSParser? (Y/N) ")
+                    if answer.lower() == "yes" or answer.lower() == "y":
+                        print(f"adding new manufacturer {manufacturer} to db. Using default request keys.")
+                        default_regexes = regex_collection.find_one({"name": "default"})
+                        default_regexes["name"] = manufacturer
+                        del default_regexes["_id"]
+                        regex_collection.insert_one(default_regexes)
+                    else:
+                        self.SDS_POOL_MANUFACTURERS.remove(manufacturer)
 
     @property
     def manufacturer_name(self):
@@ -130,30 +152,30 @@ class RegexDeveloper:
         root = tkinter.Tk()
         root.title("SDS Regular Expression Developer")
 
+        manufacturer = tkinter.StringVar(root)
+        manufacturer.set(self.manufacturer_name)
+        manufacturer_menu = ttk.OptionMenu(
+            root, manufacturer, *sorted(self.SDS_POOL_MANUFACTURERS)
+        )
+        manufacturer_menu.pack()
+
         request_key = tkinter.StringVar(root)
         request_key.set("flash_point")
-        request_key_menu = tkinter.OptionMenu(
+        request_key_menu = ttk.OptionMenu(
             root, request_key, *sorted(PConfigs.REQUEST_KEYS)
         )
         request_key_menu.pack()
 
-        manufacturer = tkinter.StringVar(root)
-        manufacturer.set(self.manufacturer_name)
-        manufacturer_menu = tkinter.OptionMenu(
-            root, manufacturer, *sorted(PConfigs.SUPPORTED_MANUFACTURERS)
-        )
-        manufacturer_menu.pack()
-
-        get_button = tkinter.Button(root, text="Get Regex", command=get_regex)
+        get_button = ttk.Button(root, text="Get Regex", command=get_regex)
         get_button.pack()
 
-        self.regex_entry = tkinter.Entry(root, width=100, font="Helvetica 18")
+        self.regex_entry = ttk.Entry(root, width=100, font="Helvetica 18")
         self.regex_entry.pack()
 
-        save = tkinter.Button(root, text="Save Regex", command=self.save_regex)
+        save = ttk.Button(root, text="Save Regex", command=self.save_regex)
         save.pack()
 
-        execute_button = tkinter.Button(
+        execute_button = ttk.Button(
             root, text="Execute", command=self.execute_search
         )
         execute_button.pack()
