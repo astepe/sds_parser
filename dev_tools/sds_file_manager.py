@@ -12,11 +12,18 @@ def check_valid_dir_name(dir_name):
     if dir_name not in PConfigs.SUPPORTED_MANUFACTURERS:
         raise SDSDirectoryInvalidName(dir_name)
 
+def add_new_manufacturer():
+    manufacturer_name = input("manufacturer name: ")
+    try:
+        os.mkdir(Configs.SDS_PDF_DIRECTORY + f"/{manufacturer_name}")
+        os.mkdir(Configs.SDS_TEXT_DIRECTORY + f"/{manufacturer_name}")
+    except FileExistsError:
+        print(f"sds directories already created for {manufacturer_name}")
 
 def update_sds_pool():
     for sds_directory, _, file_names in os.walk(Configs.SDS_PDF_DIRECTORY):
         if file_names:
-            check_valid_dir_name(os.path.split(sds_directory)[1])
+            # check_valid_dir_name(os.path.split(sds_directory)[1])
             update_sds_file_names(sds_directory, file_names)
 
             update_txt_files(sds_directory)
