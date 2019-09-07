@@ -1,4 +1,4 @@
-from .helpers import get_pdf_text, get_pdf_image_text
+from .helpers import get_pdf_text, get_pdf_image_text, get_sds_text_from_store, put_sds_text_in_store
 
 from .regexes import get_manufacturer_name, get_static_regexes, \
                      search_sds_text
@@ -8,7 +8,7 @@ from .configs import Configs
 
 class SDSParser:
 
-    def __init__(self, request_keys=None, file_info=False):
+    def __init__(self, request_keys=None, include_file_info=False, check_sds_text_store=False):
         """
         The SDSParser object performs regular expression matching on safety
         data sheets based on specific formats created by common chemical
@@ -30,7 +30,12 @@ class SDSParser:
         self.ocr_ran = False
         self.force_ocr = False
 
-        self.file_info = file_info
+        self.include_file_info = include_file_info
+        self.check_sds_text_store = check_sds_text_store
+
+        if check_sds_text_store:
+            # TODO: initialize mongodb server
+            pass
 
     def get_sds_data(self, sds_file_path, extract_method=''):
         """
@@ -63,17 +68,21 @@ class SDSParser:
         self.sds_text = self.get_sds_text(sds_file_path)
 
         self.manufacturer_name = get_manufacturer_name(self.sds_text)
-        regexes = get_static_regexes(self.manufacturer_name,
-                                     request_keys=self.request_keys)
+        regexes = get_static_regexes(
+            self.manufacturer_name,
+            request_keys=self.request_keys
+        )
 
-        self.sds_data = search_sds_text(self.sds_text,
-                                        regexes[self.manufacturer_name])
+        self.sds_data = search_sds_text(
+            self.sds_text,
+            regexes[self.manufacturer_name]
+        )
 
         if self.data_not_listed() and not self.ocr_ran and self.ocr_override:
             self.sds_data = self.get_sds_data(sds_file_path,
                                               extract_method='ocr')
 
-        if self.file_info:
+        if self.include_file_info:
             self.sds_data.update(self.get_file_info())
 
         return self.sds_data
@@ -110,12 +119,10 @@ class SDSParser:
         if extract_method == 'text':
             self.ocr_override = False
 
-    def get_sds_text(self, sds_text_source):
+    def get_sds_text(self, file_path):
         """
         Executes the text extraction function corresponding to the
-        specified extract method and current ocr state. If a matching text file
-        is found in the user-defined directory, text will be retrieved from
-        the corresponding .txt file if it is found.
+        specified extract method and current ocr state. 
 
         If no text is able to be extracted using standard text extraction
         methods, ocr with be executed unless the user has specified
@@ -124,13 +131,18 @@ class SDSParser:
 
         :param file_path: A path to a safety data sheet file in .pdf format
         """
+        if self.check_sds_text_store:
+            sds_text = get_sds_text_from_store(file_path)
+
+        if sds_text is not None:
+            return sds_text
 
         if self.force_ocr:
             extract_text = self.extract_with_ocr
         else:
             extract_text = self.extract_with_fallback
 
-        return extract_text(sds_text_source)
+        return extract_text(file_path)
 
     def extract_with_fallback(self, file_path):
         """
@@ -152,9 +164,9 @@ class SDSParser:
         development and debugging.
         """
         file_info = {
-                     'format': self.manufacturer_name,
-                     'file_name': self.sds_file_path.split('/')[-1],
-                     'ocr_ran': self.ocr_ran,
-                     }
+            'format': self.manufacturer_name,
+            'file_name': self.sds_file_path.split('/')[-1],
+            'ocr_ran': self.ocr_ran,
+        }
 
         return file_info
