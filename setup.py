@@ -19,7 +19,7 @@ setup(
         "chardet>=3.0.4,<3.1",
         "pdf2image>=1.4.0,<1.5",
         "pdfminer.six==20181108",
-        "Pillow>=5.4.1,<5.5.0",
+        "Pillow>=5.4.1,<8.3.0",
         "pycryptodome>=3.7.3,<3.8.0",
         "pytesseract>=0.2.6,<0.3.0",
         "six>=1.12.0,<2.0.0",
