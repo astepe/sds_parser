@@ -4,8 +4,6 @@
 SDSParser is a Python library and command line tool for extracting chemical data from Safety Data Sheet documents. SDSParser will speed up your
 data-entry process by eliminating the need to read through Safety Data Sheets to get the data you care about.
 
-For a live demo, click here: [SDSParser](http://www.arisstepe.com/projects/submit_sds)
-
 For testing purposes, here are some SDS files to download and use:
 * [Fisher Scientific](https://www.fishersci.com/store/msds?partNumber=M2131&productDescription=MET+ISOBUTYL+KETONE+CR+ACS+1L&vendorId=VN00033897&countryCode=US&language=en)
 * [Sigma Aldrich](https://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=US&language=en&productNumber=P5958&brand=SIGALD&PageToGoToURL=https%3A%2F%2Fwww.sigmaaldrich.com%2Fcatalog%2Fsearch%3Fterm%3Dpotassium%26interface%3DAll%26N%3D0%26mode%3Dmatch%2520partialmax%26lang%3Den%26region%3DUS%26focus%3Dproduct)
